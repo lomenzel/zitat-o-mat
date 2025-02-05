@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wer? Will was?!</title>
+    <style>
+        @import url("style.css");
+    </style>
+</head>
+
+<body>
+    <!-- 3rd Party Skripte -->
+    <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js"></script>
+
+    <!-- Seiteninhalt -->
+    <div class="container">
+        <h1>Wer sagt denn sowas?</h1>
+        <div id="citation"></div>
+        <div class="phrase-controls">
+            <button id="neverShowAgainButton">🚩 Zitat ausschließen</button>
+            <button id="editButton">✏️ Bearbeiten</button>
+            <button id="showOriginal">Original Anzeigen</button>
+        </div>
+        <!-- edit textfield with confirm button. visibility toggled by the edit button -->
+        <div id="options">
+            <button class="option" id="o1"></button>
+            <button class="option" id="o2"></button>
+            <button class="option" id="o3"></button>
+            <button class="option" id="o4"></button>
+        </div>
+    </div>
+    <h2>Verlauf</h2>
+    <div class="container" style="overflow: scroll">
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Aussage</th>
+                    <th>Deine Antwort</th>
+                    <th>Richtige Antwort</th>
+                </tr>
+            </thead>
+            <tbody id="hist"></tbody>
+        </table>
+    </div>
+    <footer>
+        <details>
+            <summary> Quellen:</summary>
+            <a href="https://web.cdn.pdh.eu/wp-content/uploads/PdH_Wahlprogramm_Bundestagswahl_2025_Digital.pdf">PdH</a>
+            <a
+                href="https://www.politikwechsel.cdu.de/sites/www.politikwechsel.cdu.de/files/docs/politikwechsel-fuer-deutschland-wahlprogramm-von-cdu-csu-kurzfassung.pdf">CDU
+                CSU</a>
+            <a href="https://www.gruene.de/artikel/zusammen-wachsen#Download%20Wahlprogramm">Bündnis 90 Die Grünen</a>
+            <a href="https://www.bundestagswahl-bw.de/wahlprogramm-fdp">FDP</a>
+            <a
+                href="https://www.afd.de/wp-content/uploads/2025/01/2025-01-23-_-AfD-Flugblatt-_-20-Kernforderungen-aus-Bundestagswahlprogramm-_-Webversion.pdf">AfD</a>
+            <a
+                href="https://www.die-linke.de/fileadmin/4_Wahlen/Bundestagswahl_2025/Kurzwahlprogramm_LINKE-BTW25_web.pdf">Die
+                Linke</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Wahlprogramme/BTW_2025_BSW_Kurzwahlprogramm.pdf">BSW</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/Bayernpartei_Grundsatzprogramm.pdf">Bayernpartei</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/BC-Grundsaetze-Eckpunkte_v001-2024.pdf">Bündnis
+                C</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/bd-programm.pdf">Bündnis
+                Deutschland</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Wahlprogramme/BTW_2025_B%C3%BCSo_Wahlprogramm.pdf">BüSo</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/dieBasis-Programm-BTW-2025-final.pdf">Die
+                Basis</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/Programm_Gerechtigkeitspartei.pdf">Team
+                Todenhöfer</a>
+            <a href="https://www.die-partei.de/programm/">Die PARTEI</a>
+            <a href="https://www.freiewaehler.eu/unsere-politik/wahlprogramm/">Freie Wähler</a>
+            <a href="https://www.menschlichewelt.de/grundsatzprogramm/">Menschliche Welt</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/MERA25_programmDE.pdf">MERA25</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/OEDPGrundsatzprogramm2016.pdf">ÖDP</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/PDF_Grundsatzprogramm.pdf">PDF</a>
+            <a href="https://wiki.piratenpartei.de/Bundestagswahl_2025/Wahlprogramm">Piratenpartei</a>
+            <a href="https://www.gleichheit.de/principles.html">SGP</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/SSW-Valgprogram_2025_BTW-_Version11.01.2025.pdf">SSW</a>
+            <a
+                href="https://www.tierschutzpartei.de/wp-content/uploads/2025/01/TSP-BTW-Programm-2025.pdf">Tierscchutzpartei</a>
+            <a
+                href="https://verjuengungsforschung.de/wahlprogramm-fuer-die-bundestagswahl-2025">Verjüngungsforschung</a>
+            <a
+                href="https://www.bundestagswahl-bw.de/fileadmin/bundestagswahl-bw/2025/Parteien_und_Spitzenkandidierende/Weitere_Parteien/volt-programm-bundestagswahl-2025.pdf">Volt</a>
+            <a href="https://werteunion.de/parteiprogramm/">Werteunion</a>
+        </details>
+    </footer>
+
+    <!-- Eigene Scripte -->
+    <script src="./data.js"></script>
+    <script src="./fun.js"></script>
+
+</body>
+
+</html>

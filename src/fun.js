@@ -216,7 +216,21 @@ function onlyUnique(value, index, array) {
   }
 
 async function initData() {
-    data = await fetch("./data.json").then(res => res.json())
+    tmp = await fetch("./data.json").then(res => res.json())
+
+    const partyMap = {};
+
+    for (const entry of tmp) {
+        if (!partyMap[entry.party]) {
+            partyMap[entry.party] = {
+                party: entry.party,
+                phrases: []
+            };
+        }
+        partyMap[entry.party].phrases.push(...entry.phrases);
+    }
+
+    data = Object.values(partyMap);
 }
 
 function addHistoryEntry(phrase, userAnswer, correctAnswer) {
@@ -240,4 +254,4 @@ function addHistoryEntry(phrase, userAnswer, correctAnswer) {
 
 initData()
     .then(newQuestion)
-    .catch(() => setTimeout(() => location.reload(), 1000))
+   

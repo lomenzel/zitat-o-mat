@@ -1,3 +1,5 @@
+{ "party": "AfD", "type": "election programm", "election": "BTW 2025", "source": "https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf"}
+
 Wir stehen fest zu den Prinzipien der Sozialen Marktwirtschaft, die seit Jahrzehnten Wohlstand und sozialen Frieden in unserem Land sichern.
 Wir wollen in einer Zeit globaler Herausforderungen die Grundwerte unserer Wirtschaftsordnung bewahren und so weiterentwickeln, dass wir eine freiheitliche und erfolgreiche Gesellschaft gewährleisten, in der die Bürger ihr Leben eigenverantwortlich und selbstbestimmt führen können.
 Wir setzen uns für eine wettbewerbsfähige Wirtschaft ein, die Innovation und Unternehmertum fördert, Wohlstand für alle schafft und insbesondere dem Mittelstand neue Entfaltungsmöglichkeiten eröffnet.
@@ -1456,7 +1458,7 @@ Eine Umsatzsteuerpflicht ist nicht realistisch umzusetzen und drängt diese Pers
 Wir werden künstlerische und pädagogische Tätigkeiten im Kunst- und Kulturbereich bis zu einer sinnvollen Einkommensgrenze von der Umsatzsteuerpflicht befreien.
 Als Pädagogen sind sie oftmals in prekären Anstellungsverhältnissen stundenweise an Volksoder Musikschulen beschäftigt.
 Die Möglichkeit einer Sozialversicherung z.B. über die Künstlersozialkasse muss in jedem Fall gewährleistet sein.
-statt GEZ-Zwangsabgabe Mit rund 9 Milliarden Euro Gebührenaufkommen zuzüglich Werbeeinnahmen ist der deutsche öffentlich-rechtliche Rundfunk nicht nur der teuerste der Welt, sondern er verfügt auch über ein Vielfaches an Finanz- und Personalressourcen aller privaten Medien insgesamt.
+Mit rund 9 Milliarden Euro Gebührenaufkommen zuzüglich Werbeeinnahmen ist der deutsche öffentlich-rechtliche Rundfunk nicht nur der teuerste der Welt, sondern er verfügt auch über ein Vielfaches an Finanz- und Personalressourcen aller privaten Medien insgesamt.
 Der strukturell, personell und finanziell eng mit den etablierten Parteien vernetzte Apparat nutzt diese Macht entgegen den Anforderungen des Medienstaatsvertrags gezielt zur Meinungsmache bis hin zur Manipulation.
 In seiner jetzigen Form ist der öffentlich-rechtliche Rundfunk nicht mehr zeitgemäß.
 Er muss grundlegend reformiert, verschlankt und entideologisiert werden.

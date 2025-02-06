@@ -1,4 +1,4 @@
-{ "party": "Menschliche Welt", "type": "party platform", "source": "https://verjuengungsforschung.de/wahlprogramm-fuer-die-bundestagswahl-2025"}
+{ "party": "Menschliche Welt", "type": "party platform", "source": "https://www.menschlichewelt.de/grundsatzprogramm"}
 
 
 Wir laden dich ein, gemeinsam eine menschliche Welt zu erschaffen

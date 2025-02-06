@@ -49,7 +49,7 @@ function remove(arr, elem) {
 }
 
 async function getAnswers(data, chosen) {
-    let possibilities = shuffle(remove(data.map(e => e.party), chosen.party))
+    let possibilities = shuffle(remove(data.map(e => e.party), chosen.party)).filter(onlyUnique)
     return shuffle([chosen.party, ...possibilities.slice(0, 3)])
 }
 
@@ -210,6 +210,10 @@ async function fetchTextFile(url) {
         return null;
     }
 }
+
+function onlyUnique(value, index, array) {
+    return array.indexOf(value) === index;
+  }
 
 async function initData() {
     data = await fetch("./data.json").then(res => res.json())

@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v4
     - uses: cachix/install-nix-action@v27
       with:
-        extra_nix_config: extra-experimental-features = pipe-operators
+        extra_nix_config: extra-experimental-features = pipe-operators nix-command flakes
         github_access_token: ${{ secrets.GITHUB_TOKEN }}
     - run: nix build
     - run: nix flake check

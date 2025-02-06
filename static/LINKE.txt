@@ -1,3 +1,6 @@
+{ "party": "Die Linke", "type": "election programm", "election": "BTW 2025", "source": "https://www.die-linke.de/bundestagswahl-2025/wahlprogramm"}
+
+
 Alle wollen regieren. Wir wollen verändern. Reichtum teilen. Preise senken. Füreinander.
 Liebe Wähler*innen, wir sind verschieden, aber die meisten von uns wollen das Gleiche: eine Gesellschaft, in der man sich gegenseitig zuhört und unterstützt, in der alle gesehen und gehört werden.
 Ein planbares Leben mit einer sicheren Zukunft, die Platz lässt für eigene Ziele und Entscheidungen.
@@ -2122,7 +2125,7 @@ Der Staat muss seinen Einfluss als großer Abnehmer nutzen, um soziale und ökol
 Einen Digitalzwang lehnen wir ab.
 Die Bundesregierung muss Forschung zu sozialen und ökologischen Auswirkungen digitaler Technologien stärker fördern, damit wir informiert und demokratisch darüber entscheiden können, welche Technologien uns als Gesellschaft voranbringen und welche nicht hilfreich sind.
 Wir wollen eine gerechte Verteilung des Wohlstands und der Gewinne aus Automatisierung, KI und Robotik sicherstellen, um die Möglichkeiten dieser Technologien zum Wohl der Menschen zu nutzen.
-Dieses Wahlprogramm ist das Angebot der Partei Die Linke.
+# Dieses Wahlprogramm ist das Angebot der Partei Die Linke.
 Wir wissen, dass Millionen Menschen unsere Ziele und unsere Vision einer gerechteren Gesellschaft teilen.
 Diese Menschen im ganzen Land sind unsere Koalitionspartner*innen.
 Wir setzen uns für eine solidarische Gesellschaft ein, gemeinsam mit all denen, die mit der herrschenden Politik unzufrieden sind oder unter ihr leiden, die aber nicht auf Hass, Individualisierung und Ausgrenzung setzen.
@@ -2133,4 +2136,4 @@ Unsere Vision von einer besseren Gesellschaft entsteht, wenn wir sie gemeinsam e
 Wenn wir für eine Alternative zum kapitalistischen System eintreten, bei dem wir, die Menschen, im Zentrum stehen.
 Der Kapitalismus darf nicht das letzte Wort der Geschichte bleiben.
 Denn wir alle verdienen ein gutes Leben, ein funktionierendes Land, Anerkennung für unsere Arbeit und soziale Sicherheit!
-Deshalb: Am 23. Februar Die Linke wählen!
+# Deshalb: Am 23. Februar Die Linke wählen!

@@ -44,6 +44,7 @@
       in
       {
         packages = rec {
+          default = btw-quizz;
           btw-quizz = pkgs.stdenv.mkDerivation
             {
               pname = "btw-quizz";

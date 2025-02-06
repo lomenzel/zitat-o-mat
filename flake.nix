@@ -43,16 +43,30 @@
             metadata // { inherit phrases;};
       in
       {
-        packages = rec {
+        packages =
+            let
+              version = "0.0.1-vue-beta";
+            in
+           rec {
           default = btw-quizz;
           data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources
             |> map parseProgramFile
             |> toJSON
           );
+          srcWithData = pkgs.stdenv.mkDerivation {
+            pname = "quizz-src";
+            inherit version;
+            src = ./.; 
+            installPhase = ''
+              mkdir -p $out/public
+              cp -r $src/* $out
+              cp ${data} $out/public/data.json
+            '';
+          };
           btw-quizz = pkgs.buildNpmPackage rec {
             pname = "btw-quizz";
-            version = "0.0.1-vue-beta";
-            src = ./.;
+            inherit version;
+            src = srcWithData;
             npmDepsHash = "sha256-RBL5/BJtz04cgAFrRfBdTqe6nZ0Yi3LfjH5PHHx2Wkg=";
             installPhase = ''
               mkdir -p $out

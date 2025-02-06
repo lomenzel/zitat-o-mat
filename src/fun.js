@@ -228,6 +228,13 @@ async function initData() {
             };
         }
         partyMap[entry.party].phrases.push(...entry.phrases);
+
+        let newSourceLi = document.createElement('li')
+        let newSource = document.createElement('a')
+        newSourceLi.appendChild(newSource)
+        newSource.textContent = `${entry.party} - ${entry.type}`
+        newSource.href = entry.source
+        sources.appendChild(newSourceLi)
     }
 
     data = Object.values(partyMap);

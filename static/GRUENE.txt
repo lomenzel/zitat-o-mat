@@ -1,0 +1,896 @@
+{ "party": "Bündnis 90/Die Grünen", "type": "election programm", "election": "BTW 2025", "source": "https://cms.gruene.de/uploads/assets/20250205_Regierungsprogramm_DIGITAL_DINA5.pdf"}
+
+# Kapitel 1
+
+Die Menschen in Deutschland sind zu Recht stolz auf das, was sie schaffen, auf die Qualität ihrer Arbeit, auf ihre Erfahrungen und Kompetenz – ob im Erwerbsleben, in der familiären Erziehung, in der Pflege von Angehörigen oder im Ehrenamt
+Ihre Leistungen verdienen unsere Anerkennung
+Deutschland muss auf diese Kraft bauen, um die großen strukturellen Herausforderungen anzugehen, vor denen wir stehen: Der Angriffskrieg von Russland auf die Ukraine und der Systemkonflikt zwischen liberalen Demokratien und autoritären Staaten im Umfeld Chinas erfordern eine Neuausrichtung von Wirtschaftssicherheit und Handel, Lieferketten und Absatzmärkten
+Wir werden diesen Wettstreit auch im Ökonomischen nur gewinnen, wenn wir den großen Vorteil der liberalen Demokratie maximal zur Geltung bringen: dass Menschen neue Ideen haben und Dinge frei entdecken und entfalten können
+Wir wollen in der kommenden Regierung daran weiterarbeiten, die strukturellen Schwächen unseres Standorts zu beheben, unsere Unternehmen auf dem Weg in die Klimaneutralität zu unterstützen und unsere Wirtschaft in Einklang mit den planetaren Grenzen zu bringen
+Wir sorgen dafür, dass Deutschland und Europa bei den Innovationen der Zukunft vorn mit dabei sind
+Dafür muss Wirtschaften einfacher und verlässlicher werden, dafür müssen Chancen fair eröffnet und alle gerecht entlohnt werden
+Dafür können wir nicht im Status quo verharren
+Vielmehr brauchen wir mehr Raum und Begeisterung für die Bereitschaft und den Mut, mit neuen Ideen und Technologien ins Risiko zu gehen
+Unser Ziel ist, die Innovationskraft unseres Landes spürbar zu stärken und zum Spitzenreiter bei Zukunftstechnologien zu werden
+Das europäisch verankerte Vorsorgeprinzip stellt sicher, dass technologischer Fortschritt für nachhaltige Entwicklung und im Sinne des Gemeinwohls erfolgt
+Damit wir unseren Wohlstand erneuern und nicht nur verwalten, braucht es ein Land, das einfach funktioniert – einen Staat, der es den Menschen und Unternehmen leichter macht, ihre Ideen umzusetzen, und nicht schwerer: mit einem Klick zur Lösung statt mit einem Dutzend Formularen in den Papierkrieg
+Den Anfang haben wir in den vergangenen drei Jahren geschafft: Wir haben ein Rekordtempo beim Ausbau der Erneuerbaren erzeugt, haben Grundlagen gelegt bei der Modernisierung der Industrie, der Zuwanderung von Fachkräften, der Beschleunigung von Planungs- und Genehmigungsverfahren, der Stärkung von Investitionen
+Aber unser Land braucht jetzt eine gemeinsame Anstrengung, damit wir auf diesem Weg erfolgreich vorankommen
+Der Wettlauf bei der technologischen Entwicklung macht es notwendig, dass neue Ideen und Innovationen schneller Wirklichkeit werden
+Wenn wir auf diesem Weg den deutschen und europäischen Standort stärken, stärken wir dabei auch die Idee der sozialökologischen Marktwirtschaft – und eine Wirtschaft, die Verantwortung übernimmt für Gesellschaft und Umwelt, sichere Arbeitsplätze bietet und vor Ort verankert ist: eine Wirtschaft im Dienst der Menschen
+Eine starke Wirtschaft ist die Bedingung unseres Wohlstandes und Voraussetzung für Zusammenhalt und Stabilität im Inneren, für ein handlungsfähiges Europa und nicht zuletzt zur Bewältigung der Klimakrise
+Nachhaltiger Wohlstand im Sinne von Klimaneutralität, Vorsorge und Gerechtigkeit ist Kern eines zukunftsfähigen Wirtschaftssystems
+Dieser Wohlstand ist eng verknüpft mit der Bekämpfung der Klimakrise, die gemeinsam mit der Krise der Artenvielfalt die große Aufgabe unserer Zeit ist
+Denn wir wollen einen Planeten erhalten, auf dem Menschen in Freiheit und Sicherheit leben können
+Wir werden den immer häufigeren Extremwettern nicht gleichgültig gegenüberstehen, sondern mit aller Kraft dafür kämpfen, dass sich das Klima stabilisiert
+Das erfordert große Investitionen, zum Beispiel in den Ausbau günstiger erneuerbarer Energien, die Steigerung der Energieeffizienz und den Umbau der Stromnetze, die jahrzehntelang verschleppt wurden
+Dafür brauchen wir intakte Ökosysteme, gesunde Wälder, saubere Meere und Respekt vor den Tieren als Mitgeschöpfe
+Wenn wir die Umwelt schützen, schützt sie uns auch
+Klimaschutz ist Menschenschutz und zugleich eine zentrale Wettbewerbsfrage unserer Zeit
+Der Weg zurück zu den fossilen Technologien führt in den wirtschaftlichen Stillstand und ist eine Bedrohung für die Menschheit
+Wir werden darauf achten, dass alle Menschen unseres Landes den Weg mitgehen können, der in eine gute Zukunft führt
+Wir sorgen dafür, dass auch Mieter*innen mit knappem Budget eine moderne Heizung und eine verbesserte Dämmung bekommen
+Wir sorgen dafür, dass der Zugang zu elektrischer Mobilität die Fortbewegung komfortabler und erschwinglicher macht – ob mit dem Bus, der Bahn oder dem E- Auto
+Wir sorgen dafür, dass durch Klimaanpassung die Wohnungen von Mieter*innen und das Eigentum von Hausbesitzer*innen geschützt werden
+Eine starke Wirtschaft für sichere Jobs Für einen wettbewerbsfähigen Standort Unternehmen brauchen gute Wettbewerbsbedingungen und ein gutes Investitionsklima, allem voran klare Rahmenbedingungen und Planungssicherheit
+Für unsere Wirtschaft sorgen wir für dauerhaft günstige, verlässliche und klimaneutrale Energie, erhöhen private und öffentliche Investitionen in Innovation und Infrastruktur, vereinfachen, digitalisieren und beschleunigen staatliche Verfahren und Prozesse und arbeiten daran, das Fachkräftepotenzial in und für Deutschland zu erhöhen
+Eine sichere, saubere und bezahlbare Energieversorgung ist ein entscheidender Standortfaktor
+Erleichterungen für Eigenstromproduktion, langfristig sichere Abnahmeverträge und die konsequente Erschließung von Flexibilitätspotentialen und den Preisvorteilen der Erneuerbaren sichern der Wirtschaft direkten Zugang Seite zu günstiger Energie
+Auch für die Wirtschaft ist die weitere Absenkung der Steuern und Abgaben auf Strom wichtig
+Deshalb übernehmen wir die Netzentgelte für die überregionalen Stromleitungen aus dem Deutschlandfonds und senken die Stromsteuer auf das europäische Minimum
+Wir werden verstärkt Maßnahmen zur Steigerung der Energieeffizienz unterstützen
+Zudem setzen wir uns ein für eine breitere Ausgestaltung der Strompreiskompensation für energieintensive Unternehmen, die im globalen Wettbewerb stehen
+Wir werden das Wasserstoffkernnetz zügig und bedarfsorientiert aufbauen, die Erzeugung von grünem Wasserstoff in Deutschland fördern und neue Importquellen sichern
+Gerade die kleinen und mittleren Unternehmen (KMU) leiden besonders unter aufwendiger Bürokratie und oft zu komplizierten Regeln
+Die Beschleunigung des Ausbaus der Erneuerbaren haben wir maßgeblich durch das Abschaffen bürokratischer Hürden wie Anträge für einzelne Stecker ermöglicht
+Den gleichen Weg müssen wir in allen Bereichen gehen
+Mit dem Praxischeck haben wir dafür ein pragmatisches und erfolgreiches Instrument zum Abbau unnötiger Bürokratie in Deutschland eingeführt, das wir in der nächsten Legislatur skalieren werden
+Dabei werden Sektor für Sektor die Betroffenen aus Unternehmen, Verwaltung und Zivilgesellschaft eingebunden, unnötige bürokratische Hürden bestimmt und praktische Lösungen zu deren Abbau identifiziert, ohne soziale oder ökologische Schutzstandards abzubauen
+Das werden wir nun flächendeckend und systematisch ausrollen und auch in den Gesetzgebungsprozessen vorab umsetzen
+Bei jeder Gesetzgebung muss die einfache Umsetzbarkeit für die Bürger*innen, die Unternehmen und die Verwaltung in Ländern und Kommunen im Vordergrund stehen
+Wir setzen uns für eine regelmäßige Überprüfung von Regulierungen ein, um bürokratische Anforderungen zu vereinfachen und Vorschriften, die ihr Ziel verfehlen, wieder zu streichen, ohne Schutzstandards abzubauen
+Ein wesentliches Mittel für den Bürokratieabbau ist die Digitalisierung der Verwaltung: Wir wollen, dass zentrale öffentliche Dienstleistungen für Unternehmen an einer Stelle gebündelt werden und Daten nach dem Once-Only-Prinzip nur einmal eingereicht werden müssen
+Die Notarpflichten werden wir vereinfachen und reduzieren, um so Kosten zu senken und Zeit zu sparen
+Damit mehr Unternehmen von den KMU-Ausnahmeregeln profitieren können, werden wir die Schwellenwerte für die Definition von KMU moderat anheben
+Deutschland ist von früheren Regierungen jahrelang auf Verschleiß gefahren worden
+Zu lange hat es zu wenig verlässliche öffentliche Investitionen gegeben
+Dabei steht hinter jeder öffentlichen Investition realwirtschaftliche Wertschöpfung
+Wir wollen eine starke, resiliente und verlässliche Infrastruktur bereitstellen, indem wir die öffentlichen Investitionen dafür aus nationalen und aus Mitteln der Europäischen Union (EU) stärken und ausbauen
+Dafür werden wir auch die Schuldenbremse reformieren
+Der Großteil der Investitionen kommt jedoch von Unternehmen und anderen privaten Akteuren
+Wer in Deutschland investiert, soll es bei der Steuer leichter haben: Dazu führen wir eine auf fünf Jahre befristete, unbürokratische Investitionsprämie von 10 Prozent für alle Unternehmen und alle Investitionen mit Ausnahme der Gebäudeinvestitionen ein
+Diese Prämie wird mit der Seite Steuerschuld des Unternehmens verrechnet; falls die Prämie die Steuerschuld übersteigt, wird sie ausgezahlt
+Die Wirksamkeit dieser Prämie evaluieren wir durch ein jährliches Monitoring
+Es ist absolut entscheidend, dass wir nicht nur gute Ideen entwickeln, sondern dass daraus auch starke neue deutsche und europäische Unternehmen entstehen
+Hier haben wir bisher im Vergleich zu den USA oder China eine große Schwäche beim Zugang zu Finanzierung
+Wir erleichtern deshalb den Zugang zu Wagniskapital durch die Fortsetzung der WIN-Initiative, um jungen innovativen Unternehmen durch verbesserte steuerliche, rechtliche und finanzielle Rahmenbedingungen einen einfacheren Zugang zu privatem Kapital zu ermöglichen
+Wir wollen es Versicherungen, Rentenkassen und Privatpersonen erleichtern, in Start-ups und Scale-ups zu investieren, sofern die Höhe der Investments einem vertretbaren Risiko entspricht
+Außerdem werden wir die Möglichkeiten von Start-ups verbessern, in ihr Unternehmen zu reinvestieren
+Wettbewerbsfähigkeit steht und fällt auch mit gut qualifizierten Beschäftigten
+Gewerkschaften, betriebliche Mitbestimmung und die Sozialpartnerschaft mit ihrer starken Tarifbindung sind eine Stärke unseres Standorts
+Wir setzen uns für eine Beitragsstabilität in der Sozialversicherung ein, um den Anstieg der Lohnnebenkosten zu begrenzen
+Um Menschen in ganz Europa besser gegen wirtschaftliche Krisen abzusichern und gleiche Wettbewerbsbedingungen zu schaffen, setzen wir uns für europäische Mindeststandards für soziale Sicherungssysteme ein
+Für mehr Arbeitskräfte und die gleichberechtigte Erwerbstätigkeit von Frauen Der Mangel an Arbeits- und Fachkräften ist eine der größten Herausforderungen für die wirtschaftliche Entwicklung und Modernisierung Deutschlands
+Ob Handwerk, Gastronomie oder große Konzerne – alle sind betroffen
+Um diese Lücke zu schließen, gilt es Hindernisse abzubauen und Anreize zu setzen, damit Menschen sich auf dem Arbeitsmarkt einbringen können
+Deutschland hat 2,9 Millionen junge Menschen ohne Berufsabschluss, während viele Ausbildungsplätze unbesetzt bleiben
+Mit der Ausbildungsgarantie haben wir dazu beigetragen, dass junge Menschen besser ihren Weg in den Beruf finden
+Die Attraktivität der beruflichen Ausbildung werden wir weiter erhöhen
+Wir unterstützen Menschen, die schon im Berufsleben sind und sich neu orientieren oder weiterqualifizieren möchten
+Dafür wollen wir das Qualifizierungsgeld weiterentwickeln und für Erwerbstätige mehr Eigeninitiative bei der beruflichen Weiterbildung ermöglichen und diese sozial absichern
+Auch der demografische Wandel verstärkt die Arbeitskräftelücke
+Daher müssen wir für ältere Arbeitnehmer*innen und Rentner*innen, die länger arbeiten möchten, finanzielle Anreize bei den Sozialversicherungsbeiträgen bieten
+Wir wollen das Potenzial von Menschen mit Behinderung auch auf den Arbeitsmarkt bringen
+Dazu bauen wir bürokratische Hürden und durch Aufklärung Vorurteile ab
+Denn die Herstellung von Barrierefreiheit ist eine Investion zur Gewinnung von Fach- und Arbeitskräften
+Seite Wenn Arbeit besser ins Leben passt und alle Frauen mit Kindern so arbeiten könnten, wie sie möchten, hätten wir in Deutschland bis zu 840.000 zusätzliche Arbeitskräfte
+Deshalb müssen wir die Vereinbarkeit von Familie und Beruf erleichtern und die Bedingungen für eine gerechte Aufteilung von Care-Arbeit verbessern
+Dafür wollen wir den Beschäftigten mehr Zeitsouveränität und flexible Arbeitszeitmodelle ermöglichen, ohne die Betriebe zu überfordern
+Ein gutes und verlässliches Angebot an Betreuungsplätzen ist dafür die Grundlage
+Betreuungskosten sowie Kosten für Haushaltshilfen und haushaltsnahe Dienstleistungen sollten umfangreicher bei der Steuer absetzbar sein
+In der jetzigen Form stellt das Ehegattensplitting ein Erwerbshindernis für Frauen dar und ist weder gerecht noch zeitgemäß
+Deshalb wollen wir es grundlegend geschlechtergerecht reformieren, indem wir für Neuehen eine individuelle Besteuerung mit übertragbarem Grundfreibetrag einführen
+Für Paare, die bereits verheiratet sind, ändert sich nichts - außer sie entscheiden sich freiwillig für das neue Modell
+Indem wir eine gleichberechtigte Erwerbsbeteiligung von Frauen ermöglichen, stärken wir ihre eigenständige Absicherung, schützen sie so vor Altersarmut und stärken gleichzeitig die Volkswirtschaft
+Deutschland muss für qualifizierte Arbeitskräfte aus aller Welt attraktiv, offen und einladend sein
+Wir wollen, dass Menschen, die bei uns arbeiten wollen, ihr Arbeitsvisum online beantragen können und dafür nur eine Ansprechstelle brauchen
+Eine digitale Einwanderungsagentur soll den Einwanderungsprozess modernisieren und beschleunigen
+Wir setzen uns dafür ein, dass ein Austausch mit Ämtern und Behörden noch leichter auf Englisch erfolgen kann
+Wir wollen die Anerkennung von ausländischen Berufsabschlüssen deutlich vereinfachen und, wo es möglich ist, praxisorientierte Nachweisoptionen ermöglichen
+Dafür schaffen wir eine zentrale Anerkennungsstelle und mehr personelle Ressourcen
+Bei der Anwerbung von Fachkräften aus dem Ausland achten wir darauf, eine übermäßige Talentabwanderung in den Herkunftsländern zu verhindern
+Die Arbeitshindernisse für Geflüchtete bauen wir weiter ab, auch weil sie über den Arbeitsmarkt schneller in unsere Gesellschaft integriert werden
+Wir wollen die Arbeitsaufnahme und Weiterqualifizierungsmöglichkeiten unbürokratisch und gut kombinierbar gestalten
+Für eine starke europäische Wirtschaft Der europäische Binnenmarkt mit seinen 450 Millionen Einwohner*innen und Billionen Euro Wirtschaftsleistung ist eine historische Errungenschaft
+Nur mit mehr Europa können wir im Wettbewerb mit den USA und China bestehen, können wir die gemeinsame Wachstums- und Innovationsschwäche überwinden und wieder treibende Kraft beim technologischen Fortschritt werden
+Das schafft und sichert auch Wohlstand und gute Jobs in Deutschland
+Wir wollen den europäischen Binnenmarkt weiter stärken und um eine vertiefte Digitalunion ergänzen, damit die Unternehmen der Zukunft auch in Europa groß werden
+Und wir wollen einen EU-Binnenmarkt für Forschung und Innovation
+So entfesseln wir die europäische Zusammenarbeit zwischen Universitäten, Forschungseinrichtungen und Unternehmen
+Gemeinsame Forschungsinfrastrukturen Seite und -agenturen stärken unsere Wettbewerbsfähigkeit und können uns wieder zum Spitzenreiter bei den Zukunftstechnologien machen
+Europa war bereits einmal Weltmarktführer bei sauberen, nachhaltigen Technologien wie Solarmodulen, Windturbinen und Elektrolyseure
+Der europäische Green Deal gibt mit klimapolitischen und ökologischen Zielen und Leitplanken den Rahmen für fairen Wettbewerb in der EU
+Bei pragmatischer Umsetzung kann Europa so auch zum innovativen Marktführer für nachhaltige Elektrotechnik, Chemie, Maschinenbau und Dienstleistungen werden
+Damit sichern wir durch Klima- und Ressourcenschutz gute Jobs im Industriebereich – einem wichtigen Zukunftsmarkt
+Dazu brauchen wir jetzt stabile Rahmenbedingungen für die Entwicklung und Skalierung von Zukunftstechnologien statt innovationsfeindliche Diskussionen um ein Rollback oder eine Bremsung des europäischen Green Deal
+Deswegen wird es mit uns keine Aufweichung bestehender Klimaschutzziele oder Abschwächung des Ambitionsniveaus zu deren Erreichung geben
+Wir unterstützen die Erweiterung des Green Deal durch die neue EU-Kommission zum Clean Industrial Deal
+Wir müssen von Klimaschutzmaßnahmen wirtschaftlich stärker profitieren und unsere klimaneutrale europäische Innovationskraft zu einem globalen Wettbewerbsvorteil ausbauen
+Dazu braucht es eine echte, europäisch koordinierte Industriepolitik
+Dafür wollen wir im nächsten EU- Finanzrahmen die entsprechenden Instrumente schaffen und sie mit den notwendigen Mitteln unterlegen
+Dazu gehört auch, dass wir das Beihilferecht der EU so ändern, dass es kurzfristig einer umfassenden Unterstützung der Dekarbonisierung der Industrie und dem Abbau gefährlicher Abhängigkeiten von Autokratien nicht im Wege steht
+Für funktionierende und nachhaltige Finanzmärkte Funktionierende Finanzmärkte sind ein essenzieller Bestandteil stabiler wirtschaftlicher Rahmenbedingungen und einer nachhaltigen Investitionsdynamik, die für klimaneutrale Erneuerung unerlässlich sind
+Um Finanzkrisen vorzubeugen, benötigen Banken, aber auch Versicherungen und andere Finanzmarktakteure ausreichend haftendes Eigenkapital
+Gerade kleine Banken und Finanzmarktakteure wollen wir von unnötig kleinteiliger Bürokratie entlasten
+Trotz der gemeinsamen Währung orientieren sich die Kapitalmärkte der EU- Mitgliedstaaten häufig noch an nationalen Staatsgrenzen
+Die uneinheitliche Regulierung hemmt Investitionen aus dem Ausland und schränkt Finanzierungsmöglichkeiten für in der EU ansässige Konzerne ein
+Aber auch kleine und mittelständische Firmen leiden, etwa unter dem vergleichsweise unterentwickelten europäischen Markt für Eigenkapitalinstrumente und Schuldverschreibungen
+Wir werden uns europäisch für eine rasche Vollendung der Kapitalmarkt- und Bankenunion einsetzen und eine starke europäische Kapitalmarktaufsicht schaffen
+Das Vertrags- und Insolvenzrecht für Finanzmarktakteure wollen wir dafür europaweit angleichen
+Wir wollen Finanzmarktakteuren die nachhaltige Finanzierung erleichtern und die Finanzierung der Biodiversität stärken
+Sustainable Finance leistet einen wichtigen Beitrag, Investitionen in fossile Energien unwirtschaftlich und Seite Investitionen in Zukunftstechnologien günstiger zu machen
+Deutschland soll eine führende Rolle bei der Verbesserung der Sustainable-Finance-Regulierung spielen
+Wir setzen uns dabei für mehr Konsistenz und Vereinfachung bei der Sustainable- Finance-Regulierung auf europäischer und internationaler Ebene ein, mit Fokus auf Wirkung und Effizienz
+Dazu braucht es klare Regeln gegen Greenwashing
+Alle Geldanlagen des Staates sollen nach Nachhaltigkeitskriterien und im Einklang mit den Zielen des Pariser Klimaabkommens angelegt werden
+Wir werden die EU- Nachhaltigkeitsberichterstattung (CSRD) in nationales Recht umsetzen und uns für eine Vereinfachung der ihr zugrunde liegenden Standards (ESRS) einsetzen, um sie für Unternehmen handhabbarer zu machen
+Die Green Asset Ratio (GAR) werden wir reformieren
+Für mehr Innovationskraft Deutschland und Europa müssen bei den Innovationen der Zukunft vorn mit dabei sein.Denn diese Innovationen sind nicht nur entscheidend für unsere wirtschaftliche Zukunft, sondern auch für die Bewältigung der großen gesellschaftlichen Aufgaben unserer Zeit – von der Klimakrise bis zur geopolitischen Behauptung gegen den Autoritarismus
+Die Spitzenposition der deutschen Forschung soll weiter gestärkt und ausgebaut werden
+Wir wollen erreichen, dass Staat und Unternehmen deutlich mehr als 3,Prozent der Wirtschaftsleistung in Forschung und Entwicklung investieren
+Unsere Forschungspolitik umfasst die Stärkung der freien Grundlagenforschung ebenso wie der missions- und anwendungsorientierten Forschung sowie den Transfer in marktreife Produkte
+Dabei fördern wir technische und soziale Innovationen gleichwertig, stärken die sozial-ökologische Forschung und unterstützen Großforschungsanlagen
+Wir werden die Zukunftsstrategie für Forschung und Innovation konkretisieren und weiterentwickeln
+Mit einem Forschungsdatengesetz werden wir die Verfügbarkeit von Daten verbessern und den offenen Zugang zu wissenschaftlichem Wissen fördern
+Wir werden die Bemessungsgrundlage für die Forschungszulage weiter ausweiten und so Unternehmen bei der Forschung besser unterstützen
+Gleichzeitig brauchen wir eine auskömmliche Grundfinanzierung in der Wissenschaft
+Mit der Deutschen Agentur für Transfer und Innovation (DATI) wollen wir regionale Innovationsökosysteme unterstützen, in denen Wissenschaft, Gesellschaft und die Wirtschaft gemeinsam an innovativen Lösungen arbeiten
+Die Bundesagentur für Sprunginnovationen (SPRIND) fördert Innovationen nicht klassisch durch Förderprogramme, sondern durch sogenannte Challenges
+Diesen Ansatz wollen wir ausbauen und auf europäischer Ebene nach dem ARPA-Modell flankieren
+Mit einem Reallabor-Gesetz werden wir Experimentierräume schaffen, in denen Wissenschaftler*innen und lokale Akteur*innen gemeinsam neue Technologien und Anwendungen erproben können
+Diese Räume sind auch Lernräume für Wirtschaft, Zivilgesellschaft und Verwaltung, etwa zur Entwicklung eines geeigneten regulatorischen Rahmens
+Wir werden die bürokratischen Hürden im Forschungs- und Seite Technologiebereich reduzieren und gleichzeitig auch die Forschung zu Risiken und die Technikfolgenabschätzung stärken
+Wir werden der Digitalisierung der Wirtschaft und Wissenschaft und der Entwicklung von digitalen Geschäftsmodellen einen deutlichen Schub geben, um unsere internationale Wettbewerbsfähigkeit und Innovationskraft zu sichern
+Wir haben eine große Kompetenz in Künstlicher Intelligenz (KI), müssen diese aber stärker in die Praxis bringen
+Dazu wollen wir die Entwicklung und Anwendung von KI, die Etablierung robuster Cybersicherheitsstandards sowie die Stärkung digitaler Kompetenzen in Unternehmen und Hochschulen etwa durch eine Weiterentwicklung der Mittelstandsdigitalzentren gezielt fördern und und die Datennutzung etwa durch den zügigen Aufbau des Dateninstituts erleichtern
+Mit einem Quick Check für rechtskonforme KI-Systeme sollen Anwender*innen niedrigschwellig prüfen können, in welche Risikokategorie die Verwendung fällt und welche Pflichten einzuhalten sind
+Wir schaffen zudem passende Rahmenbedingungen für interoperable Standards und für einen sicheren und effizienten Datenaustausch entlang der gesamten Wertschöpfungskette
+Der Staat sollte als vertrauensvoller Referenzkunde seine Marktmacht als Einkäufer nutzen, um innovative digitale Produkte zu fördern
+Dabei sollte er insbesondere Open- Source-Anwendungen einsetzen, Produkte von Start-ups und KMU berücksichtigen und IT-Sicherheit gewährleisten
+Für die notwendige Innovationskraft brauchen Deutschland und Europa eine neue Gründungskultur
+Wir werden Gründungen einfacher machen durch rechtliche Vereinfachungen, eine Digitalisierung und Automatisierung von Gründungsprozessen und indem wir Gründer*innen in One-Stop-Shops Begleitung und Beratung aus einer Hand anbieten
+Wir wollen Gründungen in ihrer Vielfalt unterstützen
+Dafür geben wir insbesondere Gründerinnen und nachhaltigen Start-ups einen Booster, etwa durch verbesserte Finanzierungsangebote
+Wir werden Wissenschaftler*innen ermöglichen, sich für die Gründung eines Unternehmens unbezahlt freistellen zu lassen
+Ausgründungen und IP-Transfer aus Hochschulen verschaffen wir mit den Start-up Factories einen echten Schub und stärken die EXIST-Hochschulförderung in der Breite inklusive EXIST Women und gezielter Formate für bisher unterrepräsentierte Gruppen bei Gründungen
+Den Transferauftrag für Hochschulen und außeruniversitäre Forschungseinrichtungen stärken wir
+Damit auch die Beschäftigten am Unternehmenserfolg beteiligt werden können, bauen wir die Mitarbeiterkapitalbeteiligung generell weiter aus
+Für die klimaneutrale Modernisierung der Industrie Unser Anspruch ist es, dass Deutschland ein starker Industriestandort bleibt, denn Industrieunternehmen sind in ihren Regionen identitätsstiftend und wichtige Arbeitgeber
+Wir wollen unsere Industrie bei der klimafreundlichen Modernisierung unterstützen, sie hier halten und verhindern, dass die Produktion in Länder abwandert, in denen es noch keinen CO2-Preis und nur laxe Umweltschutz- und Sozialstandards gibt
+In einer Welt, in der Krisen, Konflikte oder machtpolitische Bestrebungen jederzeit Lieferketten stören oder zerbrechen Seite lassen können, brauchen wir in essenziellen Bereichen eigene Produktionsmöglichkeiten, um fatale Abhängigkeiten zu vermeiden
+Damit die klimaneutrale Modernisierung der Industrie gelingen kann, setzen wir auf einen effizienten Instrumentenmix aus marktwirtschaftlichen Instrumenten wie dem CO2-Preis als zentralem Anreiz zur CO2-Einsparung, gezielter Unterstützung vor allem bei Investitionen und unbürokratischem Ordnungsrecht
+Wo Investitionshürden zu Beginn zu hoch sind und über den CO2-Preis nicht genug Anreize gesetzt werden, setzen wir auf wettbewerbsorientierte Instrumente wie die Klimaschutzverträge
+Den Anwendungsbereich der Klimaschutzverträge werden wir ausweiten und so diejenigen Unternehmen finanziell fördern, die pro Euro am meisten CO2 einsparen
+Neben einer Standortgarantie wollen wir die Klimaschutzverträge auch an eine Bezahlung nach Tarifvertrag binden
+Um ausreichend Nachfrage für klimaneutral hergestellte Produkte zu garantieren, werden wir grüne Leitmärkte in Sektoren wie Stahl und Zement europaweit etablieren
+Dafür wollen wir beispielsweise bei öffentlichen Aufträgen eine Mindestquote von grünem Stahl einführen, die stetig ansteigt
+Wir werden Unternehmen, insbesondere KMU, beim Umstieg von fossiler Wärme auf moderne strombasierte Wärmeproduktion gezielt unterstützen
+Die vollständige Klimaneutralität der Industrie wird aufgrund von schwer zu vermeidenden Emissionen bei bestimmten Produktionsprozessen nur mit der Abscheidung, Speicherung und Nutzung von CO2 (CCS/CCU) möglich sein
+Deshalb ermöglichen wir für diesen Bereich die Anwendung dieser Technologien
+Voraussetzung dafür ist, dass das abgeschiedene CO2 in einer sicheren und stabilen Form gespeichert oder im Rahmen geschlossener Kohlenstoffkreisläufe genutzt wird
+Wo technisch nicht vermeidbare Emissionen entstehen, kann dies unterstützt werden
+Grundsätzlich gilt für die Finanzierung das Verursacherprinzip
+Wir wollen einen europaweit einheitlichen Regelungsrahmen, einschließlich eines verbindlichen Haftungsrechts entwickeln
+Dazu schaffen wir eine integrierte europäische Infrastruktur, inklusive gemeinsamer europäischer CO₂-Speicher
+Wir berücksichtigen dabei bestehende Nutzungen gerade auch auf dem Meer, verbindliche ökologische Kriterien sowie den Ausschluss von Schutzgebieten und deren unmittelbarer Umgebung
+Wir erforschen und entwickeln auch negative Emissionen – also natürliche und technische Prozesse, die der Atmosphäre CO₂ entziehen - und setzen klare Ziele für das Erreichen von Negativemissionen, ohne diese gegen die Reduktionsziele des Emissionshandels anzurechnen
+Global ist der Wettbewerb zwischen Verbrenner und E-Autos längst entschieden
+Die Automobilindustrie mit ihren mittelständischen Zulieferbetrieben ist der größte Industriezweig in unserem Land
+Für diese Unternehmen und ihre Arbeitnehmer*innen ist Planungssicherheit entscheidend: Wir bleiben dabei, ab 2035 nur noch klimaneutrale Antriebe neu zuzulassen
+Wir unterstützen die EU- Flottengrenzwerteverordnung mit ihren Zielen für die CO2-Reduktion für die Jahre 2025, 2030 und 2035
+Mögliche Strafzahlungen sollen im Rahmen der bestehenden Regelungen gegebenenfalls gestreckt und für den Hochlauf der E-Mobilität durch europäische Programme genutzt werden, damit die Automobilindustrie dringend Seite notwendige Investitionen in die Modernisierung tätigen kann
+Wir beschleunigen den Hochlauf der Elektromobilität durch gezielte Förderung für die Ladeinfrastruktur und sozial ausgewogene Kauf- und Leasinganreize für verbrauchsarme E-Autos
+Förderung wollen wir dabei nur jenen gewähren, die auch in Europa mit seinen hohen sozialökologischen Standards produzieren: in Europa, für Europa
+Mit gezielten Forschungsprogrammen und dem Ausbau der regionalen Transformationsnetzwerke unterstützen wir die Fortentwicklung von Geschäftsmodellen und berufliche Weiterqualifizierung zur Vermeidigung von Arbeitslosigkeit, insbesondere in den Bereichen vernetztes Fahren, Batteriezellen und dem Einsatz von KI
+Unser Vermögen und unsere Zukunft liegt in klugen Köpfen und einem ambitionierten Forschergeist
+Durch eine stärkere Offenheit und Förderung in Schlüsselbereichen wie KI, Quantentechnologie, Mikrochips, Cloud-Computing, klimaneutrale Energielösungen, Biotechnologie und Robotik wollen wir künftig nicht nur mitgestalten, sondern zu den führenden Nationen aufschließen und globale Trends setzen
+Dabei legen wir besonderes Augenmerk auf europäische Firmen
+Insbesondere werden wir den Aufbau von Produktionskapazitäten für Schlüsseltechnologien wie beispielsweise Mikrochips und Batterien weiter vorantreiben
+Die gestiegene Bedeutung der Raumfahrt für Geopolitik, Sicherheit und Nachhaltigkeit muss sich noch stärker in nötigen Investitionen, einer wettbewerbsfähigen europäischen Raumfahrtindustrie auch durch New-Space Geschäftsmodelle sowie einem souveränen Zugang zum Weltraum etwa für Satellitenkommunikation, -navigation und Erdbeobachtung widerspiegeln
+Auch der Schritt zur Klimaneutralität ist ein Innovationsmotor
+Von der Herstellung von Wasserstoff durch Elektrolyseure bis zum E-Auto entstehen neue Zukunftstechnologien
+Deutschland wird seinen Wohlstand nur halten können, wenn wir in diesen Bereichen global führend sind
+Deswegen werden wir die Entwicklung und Forschung an Zukunftstechnologien fördern und ihre Markteinführung unterstützen
+So werden wir hochwertige Arbeitsplätze und den Wohlstand von morgen sichern
+Dafür wollen wir den Net-Zero Industry Act der EU möglichst schnell und umfassend in Deutschland umsetzen
+Chancen und Potenziale neuer Energietechnologien wie die Kernfusion und ihren Beitrag zur künftigen Energieversorgung wollen wir unter Berücksichtigung von Sicherheitsfragen weiter erforschen, auch wenn sie bis 2045 voraussichtlich noch keinen Beitrag zur Erfüllung der Klimaziele leisten können
+Für die Stärkung von Mittelstand und Handwerk Die ökonomische Kraft unseres Landes liegt in der Vielfalt seiner Unternehmen
+Die Tatkraft und Innovationsfähigkeit der Handwerksbetriebe, der Selbstständigen und Freiberufler*innen sowie der KMU sind Motor unserer Wirtschaft
+Sie treiben den Klimaschutz voran und sorgen gerade in ländlichen Räumen für Arbeitsplätze und Stabilität
+Der Entfaltung dieser Kraft wollen wir Rückenwind geben
+Das Handwerk bietet in einer nachhaltigen Wirtschaft krisensichere Arbeitsplätze.Durch Bürokratieabbau, die Unterstützung bei Nachfolgen und die Seite gezielte Förderung der Ausbildung im Handwerk wollen wir die Rahmenbedingungen verbessern
+Oberstes Ziel sind der Erhalt und die Zukunftsfähigkeit der Betriebe
+Damit Handwerksberufe noch attraktiver werden, setzen wir auf branchenspezifische Mindestvergütungen und mehr Gleichwertigkeit von beruflicher und akademischer Ausbildung
+Der Meisterbrief soll kostenlos werden
+Wir setzen uns dafür ein, dass die Zeit der Schwangerschaft auch im Handwerk und in der Selbstständigkeit auskömmlich abgesichert wird
+Wir nehmen auch die Bedarfe von Soloselbstständigen und Kleinstunternehmen verstärkt in den Blick und schaffen Rechtssicherheit bei der Auftragsvergabe
+Zentral ist dabei eine zeitgemäße Definition von Selbstständigkeit auf Basis von Positivkriterien, damit das Statusfeststellungsverfahren transparent und rechtssicher durchgeführt werden kann
+Wir stärken die sozialen Sicherungssysteme für Soloselbstständigkeit und setzen uns für mehr Gerechtigkeit bei Beiträgen, Leistungen und Besteuerung ein
+Preissteigerungen - wie zuletzt im Energiesektor durch den russischen Angriffskrieg auf die Ukraine ausgelöst - können dazu führen, dass das Leben für viele Menschen weniger bezahlbar ist
+Gleichzeitig wurde in verschiedenen Fällen unlauterer Profit aus diesen Krisen geschlagen
+Gegen diese Profitinflation braucht es eine starke deutsche und europäische Wettbewerbspolitik mit dem unabhängigen Bundeskartellamt und der EU-Kommission im Zentrum
+Das Wettbewerbsrecht braucht eine Weiterentwicklung, um KMU sowie Verbraucher*innen effektiver vor Monopolen zu schützen und für mehr Fairness zu sorgen
+Auf europäischer Ebene wollen wir dazu das von der Kommission bereits vorgeschlagene New Competition Tool wiederbeleben, vor allem um heimische Unternehmen vor unfairen Praktiken globaler Großunternehmen zu schützen
+Die schon jetzt übermächtigen Plattformunternehmen wollen wir an der Ausweitung ihrer Macht auf weitere Geschäftsbereiche, etwa im Finanzmarkt, hindern und dafür das Wettbewerbsrecht in aller Härte nutzen
+Umgekehrt sollen kleine Übernahme- und Fusionsfälle in Deutschland und Europa von bürokratischen Verfahren entlastet werden
+Unfaire und teure Praktiken von Onlineplattformen zulasten des mittelständischen Gewerbes und der Verbraucher*innen werden wir mithilfe des Wettbewerbsrechts zurückdrängen
+Über große Onlinehändler gelangen massenweise Waren zu uns, die europäische Standards nicht einhalten
+Im Internet entstehen immer wieder neue, unfaire und manipulative Praktiken
+Wir unterstützen den Digital Fairness Act der EU Kommission und setzen uns dafür ein, dass große Plattformen – genau wie der Laden um die Ecke – Produktverantwortung übernehmen müssen
+Wir wollen faire und transparente digitale Märkte für Gewerbetreibende, Kreativschaffende, Presse und nicht zuletzt ihre Kundschaft schaffen
+Um die Vergabestellen gerade der Kommunen und die Wirtschaft um Verwaltungskosten von über einer Milliarde Euro zu entlasten, modernisieren wir das Vergaberecht umfassend, um nachhaltige Beschaffung zu vereinfachen und zur Regel zu machen
+Wir werden auch die Regionalität von Produkten und die Resilienz der europäischen Wirtschaft als Kriterien bei geeigneten Vergaben Seite ermöglichen
+Auch die Losvergabe muss die Regel bleiben, um KMU den direkten Zugang zu öffentlichen Aufträgen zu erhalten
+Um die Vergabestellen gerade der Kommunen zu entlasten, werden wir die Direktauftragsgrenzen deutlich anheben
+Die nachhaltige Vergabe werden wir durch geeignete Hilfsinstrumente für alle Vergabestellen einfacher machen
+Wir berücksichtigen Start-ups bei der Vergabe besser
+Um Familienunternehmen und Start-ups weitere Nachfolgeoptionen zu bieten, wollen wir eine neue attraktive Rechtsform für Gesellschaften mit gebundenem Vermögen einführen
+Gemeinwohlorientierte Unternehmen sollen künftig die gleiche Förderung erhalten wie alle anderen Gründer*innen auch
+Gelder von verwaisten Konten werden wir zur Stärkung sozialer Innovationen und gemeinwohlorientierter Unternehmen verwenden
+Die Nationale Strategie für Soziale Innovationen und Gemeinwohlorientierte Unternehmen werden wir fortführen
+Von Wertschöpfung und Investitionen vor Ort in den Kommunen hängt die Wirtschaftskraft und Lebensqualität in ländlichen Räumen entscheidend ab
+Durch den Ausbau der Gemeinschaftsaufgabe Regionale Wirtschaftsentwicklung (GRW) stellen wir sicher, dass Menschen und Unternehmen sich überall im Land entfalten können
+Nicht nur in den vom Strukturwandel betroffenen Regionen wie der Lausitz, dem Mitteldeutschen Revier und dem Rheinischen Revier liegt das Potenzial für ambitionierten Klimaschutz und vorausschauende Wirtschaftspolitik
+Die Herausforderungen sind groß und dennoch wollen wir den Strukturwandel als Chance begreifen, um mit neuer Infrastruktur, neuen Wissenschaftsstandorten, Wirtschaftsförderung, Renaturierung und Investitionen in Zukunftstechnologien den Weg in eine nachhaltige Zukunft zu ebnen
+Wichtig ist uns dabei, die Menschen vor Ort durch transparente Entscheidungsprozesse, aber auch durch Unterstützung der Ideen und Wünsche vor Ort zu beteiligen
+Der Tourismus ist in Deutschland Motor für Wachstum und Beschäftigung, insbesondere in ländlichen Regionen
+Wir werden die Nationale Tourismusstrategie fortentwickeln und den Tourismusstandort Deutschland nachhaltiger, sozial gerechter und innovativer gestalten
+Wohlstand ist für uns mehr als nur die Höhe des Bruttoinlandsprodukts pro Kopf
+Wir haben daher erstmals im Jahreswirtschaftsbericht auch den Zustand von Umwelt und Klima sowie soziale Faktoren mit in den Blick genommen
+Diese umfassende Wohlstandsmessung wollen wir ausbauen und verstärkt kommunizieren
+Wir wollen Unternehmen unterstützen, die ihre betriebliche Erfolgsmessung weiterentwickeln wollen
+Für Wirtschaftssicherheit und zukunftsfähigen Außenhandel Unser Wohlstand und unsere wirtschaftliche Resilienz und Sicherheit hängen neben dem europäischen Binnenmarkt wesentlich von belastbaren internationalen Partnerschaften und vom globalen Handel ab
+Angesichts geopolitischer Konflikte, protektionistischer Maßnahmen und zunehmend schärferem internationalen Seite Wettbewerb brauchen wir eine zukunftsfähige Handelsagenda, die sich für alle auszahlt
+Ausgewogene Handelspartnerschaften eröffnen deutschen Unternehmen nicht nur neue Absatzmärkte, sondern stärken auch ihre Lieferketten
+Ungleichgewichte in der Handelsbilanz wollen wir schrittweise reduzieren
+Eine breitere Streuung unserer Wirtschaftsbeziehungen hilft zudem, Abhängigkeiten in kritischen Bereichen zu verringern
+Der strategische Fokus auf einzelne Sektoren und gezielte Abkommen für bestimmte Waren und Dienstleistungen verspricht dabei schnelle Verhandlungserfolge und stärkt die europäische Wirtschaft
+Hohe Standards bei sozialer Gerechtigkeit, Klima-, Natur- und Tierschutz sowie Menschenrechten bewahren gleichzeitig die europäische Wirtschaft vor einem schädlichen Unterbietungswettbewerb und schützen vor Ausbeutung oder Umweltzerstörung in anderen Ländern
+Wir verhandeln entsprechend folgender Prinzipien: rechtsverbindliche und einklagbare ökonomische, soziale und ökologische Standards; eine Verankerung des Vorsorgeprinzips; eine verbindliche Verankerung des Pariser Klimaabkommens, der zentralen Arbeitsschutzkonventionen der Internationalen Arbeitsorganisation (ILO) und des Übereinkommens zur biologischen Vielfalt; der Beendigung der missbräuchlichen Nutzung von Schiedsgerichten und die Begrenzung von zukünftigen Investitionsabkommen auf direkte Enteignung und Diskriminierung
+Europäische Einigung bei der Entscheidung über Abkommen ist uns wichtig
+Die EU-Lieferkettenrichtlinie ist eine große Errungenschaft: Verbraucher*innen in Europa können sicher sein, dass Produkte, die sie hier kaufen, frei von Ausbeutung und Kinderarbeit entstanden sind
+Wir sorgen dafür, dass die Lieferkettenrichtlinie unbürokratisch in deutsches Recht übertragen wird
+So schaffen wir einen Binnenmarkt, in dem die europäische Wirtschaft durch unseren Einsatz für das europäische und deutsche Lieferkettengesetz global Verantwortung übernimmt
+Die Instrumente der Außenwirtschaftsförderung müssen sich am Pariser Klimaabkommen ausrichten
+Unfaire Handelspraktiken und Marktverzerrungen erfordern entschiedenes Handeln – deshalb setzen wir uns, wo es geboten ist, bei der EU-Kommission für Ausgleichszölle ein, etwa auf Stahl
+Wir stärken der EU-Kommission in ihren Verhandlungen mit China über Dumping von E-Autos den Rücken, um die Interessen der europäischen Industrie zu wahren
+Die Schlupflöcher im Zollrecht müssen geschlossen werden, durch die besonders asiatische Onlinehändler wie Temu unsichere Wegwerfprodukte am Zoll vorbeischleusen und europäische Hersteller unterbieten
+Wer dauerhaft illegale Produkte im großen Stil nach Europa einführt, muss nach dem EU-Gesetz über digitale Dienstleistungen sanktioniert werden
+Wir werden den europäischen CO2-Zoll CBAM durch eine Ausweitung des Anwendungsbereichs, eine Berücksichtigung der Gesamtemissionen des Herstellers im Herkunftsland und die Nutzung von Standardwerten praxistauglicher und effektiver gestalten
+Damit er die Wettbewerbsnachteile ausgleicht, die europäischen Industrieunternehmen gegenüber Herstellern aus Ländern ohne CO2- Preis entstehen
+Seite Strategisch wichtige Branchen wie Energie und Telekommunikation werden wir mit einem neuen Investitionsprüfungsgesetz vor Übernahmen schützen
+Um unsere Unabhängigkeit und ungestörte Lieferketten zu sichern, gehen wir bei Ausschreibungen in Sektoren mit hoher Abhängigkeit entsprechend der Resilienzvorgaben des Net-Zero Industry Acts vor
+Staatliche Förderprogramme für den Kauf von Produkten wie E-Autos werden wir künftig für Produkte gewähren, die größtenteils auch in Europa mit seinen hohen sozialen und ökologischen Standards produziert wurden
+Wir werden das IT-Sicherheitsgesetz um Cybersicherheit im Energiesektor erweitern
+Für Rohstoffsicherheit und Kreislaufwirtschaft Eine nachhaltige, unabhängige und wettbewerbsfähige Wirtschaft erfordert eine gesicherte Versorgung mit Rohstoffen und den Übergang zu einer effektiven Kreislaufwirtschaft
+Auch für die Herstellung wichtiger Klimatechnologien sind wir auf eine verlässliche Versorgung mit Rohstoffen angewiesen
+Eine funktionierende Kreislaufwirtschaft ist auch Voraussetzung für Klimaschutz und Artenschutz sowie ein Wirtschaften im Einklang mit den planetaren Grenzen
+Unser Ansatz für mehr Rohstoffsicherheit basiert auf vier Säulen
+Erstens wollen wir den Verbrauch von Primärrohstoffen senken und langfristig halbieren
+Der Ausstieg aus der Verbrennung fossiler Energierohstoffe, Rohstoffeffizienz, Suffizienzstrategien und – wo möglich – der Ersatz von Rohstoffen, ebenso wie der gezielte Einsatz von Recyclingrohstoffen sind der Schlüssel dafür
+Zweitens fördern wir Abfallvermeidung, Langlebigkeit, Wiederverwendung, Reparatur und Recycling für den Aufbau einer effektiven Kreislaufwirtschaft
+Drittens setzen wir auf heimischen und europäischen Bergbau, auch mit einem modernisierten Bergrecht, das die Ziele Klimaschutz, Umweltschutz und Bürger*innenbeteiligung vereint mit beschleunigten und effektiveren Verwaltungsprozessen für den Rohstoffabbau, um dort wo möglich unabhängiger zu werden von Rohstoffimporten
+Und viertens entwickeln wir eine nachhaltige und faire Rohstoffaußenpolitik und schließen neue Rohstoffpartnerschaften, die an der Einhaltung der Menschenrechte und des Umweltschutzes ausgerichtet sind
+Niemand hat Lust, ständig Dinge wegzuwerfen und große Mengen an Müll zu produzieren
+Die Kreislaufwirtschaft macht daraus mit neuen Geschäftsmodellen wirtschaftliche Chancen , von Mehrwegflaschen über reparaturfähige Smartphones bis zum Wohnhaus aus ökologischen Baumaterialien
+Dies schafft zudem neue Arbeitsplätze
+Sie braucht dafür die richtigen regulatorischen und ökonomischen Rahmenbedingungen, eine gute Finanzierung ihrer Infrastruktur, mehr Materialstandardisierung und gleiche Wettbewerbsbedingungen für recyceltes Material
+Die Potentiale der Digitalisierung wollen wir besser nutzen
+Ein digitaler Produktpass stellt etwa bessere Informationen über verwendete Materialien bereit und schafft Transparenz
+Dafür werden wir jetzt die Kreislaufwirtschaftsstrategie umsetzen
+Auf europäischer Ebene haben wir unter anderem mit Ökodesignvorgaben die gesetzlichen Grundlagen dafür erreicht, dass Produkte künftig langlebiger und reparaturfreundlicher hergestellt werden
+Das wollen wir jetzt ambitioniert umsetzenund einen bundesweiten Reparaturbonus für Seite haushaltsübliche Elektro- und Elektronikgeräte einführen sowie ökologisch vorteilhafte Mehrwegsysteme stärken
+Zugleich sollen die abfallwirtschaftlichen Kompetenzen der Kommunen so gestaltet werden, dass insbesondere auch gewerbliche Abfälle besser vermieden, sortiert und wiederverwendet werden und Anreize für die Verbrennung wiederverwendbarer Rohstoffe wegfallen
+Zur Müllreduktion geben wir den Kommunen Rechtssicherheit zum Erlassen einer Verpackungssteuer
+Für einen starken Verbraucherschutz Faire Verträge und einklagbare Verbraucherrechte – darauf müssen sich Verbraucher*innen verlassen können
+Gerade in Zeiten steigender Lebenshaltungskosten kann und muss Verbraucherschutz dazu beitragen, das Leben einfacher zu machen und Menschen vor unfairen Preisen, Intransparenz und Betrug zu schützen
+Dies gilt auch bei der Versorgung mit medizinischen Produkten und Hilfsmitteln
+Gentechnikfreie Lebensmittel sind für viele Verbraucher*innen wichtig
+Damit das möglich bleibt, müssen alle, die gentechnikfrei arbeiten wollen, das auch in Zukunft können
+Dafür ist entscheidend, dass es keine Patente auf Leben gibt: Pflanzen, Tiere, Saatgut und Gene dürfen nicht patentiert werden
+Und es braucht Risikoprüfungen gemäß dem europäisch verankerten Vorsorgeprinzip, Rückverfolgbarkeit und eine Kennzeichnungspflicht für gentechnisch verändertes Saatgut und Lebensmittel
+Das gilt gleichermaßen für neue gentechnische Verfahren in der Landwirtschaft, die zugleich weiterhin hinsichtlich ihrer Chancen, Risiken und Folgen erforscht werden sollen
+Lebensmittel müssen für alle erschwinglich sein
+Verdeckte Preiserhöhungen durch Mogelpackungen und unfaire Handelspraktiken stellen wir ab
+Wir wollen leicht zugängliche Informationen und umfassende Transparenz über Zutaten und Herstellung von Lebensmitteln
+Die Ergebnisse von Lebensmittelkontrollen sollen für alle leicht erkennbar sein
+Steigende Energiepreise und die notwendige Energie- und Wärmewende stellen Verbraucher*innen vor große Herausforderungen
+Wir werden einen wirksamen Schutz vor Wärme- und Stromsperren auf den Weg bringen
+Damit für Stromkund*innen schnell und einfach sichtbar wird, ob sie aufgrund eines überteuerten Altvertrags Monat um Monat zu viel für ihren Strom bezahlen, machen wir die Stromrechnungen transparenter, unter anderem durch die Angabe des mittleren Strompreises und der Preisspanne für Neukund*innen auf der Energierechnung
+Dann weiß jede und jeder, wann sich ein Wechsel besonders lohnt
+Das wirkt als Teuer- Bremse für Stromtarife
+Um die Verbraucher*innen vor übermäßig hohen Kosten bei der Fernwärme zu schützen, führen wir eine bundesweite Preisaufsicht ein und sorgen für mehr Transparenz bei der Preiskalkulation durch die Fernwärmeversorger
+Wenn es ums Geld geht, sind transparente und einfach verständliche Informationen besonders wichtig
+Deshalb bedarf es beim finanziellen Verbraucherschutz Seite besonders hoher Standards und einer fairen und unabhängigen Finanzberatung
+Dazu zählen auch Schutz vor unseriösen und diskriminierenden Geschäftspraktiken sowie Hilfe bei Überschuldung, etwa über eine für alle zugängliche, einfache Schuldnerberatung und eine unabhängige Verbraucherbildung
+Im Zentrum steht der Schutz von Kleinanleger*innen
+In der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) wollen wir die Ausrichtung auf Nachhaltigkeit und den Verbraucherschutz stärken und sie auch beim Schutz vor Greenwashing von Finanzprodukten in die Pflicht nehmen
+Zudem setzen wir auf transparente und einfach verständliche Mindeststandards und Normen für nachhaltige Finanzprodukte, die sich auf Umwelt, Soziales und Unternehmensführung beziehen
+Die hohen Kosten des Zahlungsverkehrs für deutsche Unternehmen und Verbraucher*innen, etwa bei der Nutzung von Kreditkarten, wollen wir günstiger machen - mithilfe innovativer Wettbewerber, dem Wettbewerbsrecht und gesetzlichen Maßnahmen gegen Wucher wie einer Deckelung des effektiven Jahreszins für Verbraucher*innen
+Auf neue Gebühren für Verbraucher*innen wollen wir dabei verzichten
+Dort wo bargeldloses Zahlen noch kompliziert ist, wollen wir den Zugang vereinfachen
+Ein modernes und digitales Land Für einen Staat, der für die Menschen funktioniert Für die Herausforderungen im Heute und Morgen wollen wir unseren Staat besser aufstellen und bieten dafür den demokratischen und föderalen Partnern die Hand für eine Staatsreform
+Die Aufgaben und Rollen sollen an manchen Stellen in unserem föderalen Staat neu verteilt, gebündelt und auch klarer gestaltet werden
+Gerade bei der Digitalisierung erwarten die Bürger*innen bundeseinheitliche Lösungen auf allen Ebenen der öffentlichen Verwaltung
+Hier muss der Bund die Verantwortung übernehmen und dafür die entsprechenden Kompetenzen bekommen
+Wir setzen auf konstruktive Zusammenarbeit statt Doppelstrukturen und Gegeneinander
+Der Bund sollte bei Gesetzen und Förderprogrammen mehr Umsetzungsverantwortung auf Länder und Kommunen übertragen, statt alles detailliert selbst zu regeln
+Länder und Kommunen brauchen mehr Spielräume für eigenverantwortliches Handeln wie auch für konkrete Kooperationen
+Umgekehrt sollte der Bund für bundesweit gesetzlich geregelte Leistungen einen digitalen Dienst bereithalten, den Länder und Kommunen für die Leistungserbringung vor Ort nutzen können
+Durch solche zentralen Serviceeinheiten kann der Bund Routineaufgaben zentral erbringen, damit sich die Verwaltung vor Ort auf die Beratung konzentrieren kann
+Den Auftakt für diese Reformprozesse könnten die Diskussionen in einem Bürgerrat geben
+Die Gesetzgebung des Bundes muss die Praxistauglichkeit und die digitale Umsetzbarkeit im Prozess mitdenken
+Die Digital- und Praxischecks wollen wir dafür ausbauen und ressortübergreifend einheitliche Rechtsbegriffe und Verfahren nutzen
+Bei neuen Gesetzgebungsvorhaben ist das zugrunde liegende Stammgesetz zu modernisieren, sind Leistungen zu pauschalisieren sowie Experimentierräume und Seite Reallabore vorzusehen
+Die Bundeshaushaltsordnung und ihre Anlagen wollen wir entschlacken, ohne die Fehlverwendung öffentlicher Gelder zu begünstigen
+In der Bundeshaushaltsordnung wollen wir künftig Nachhaltigkeitsaspekte berücksichtigen
+Durch Modernisierung und Automatisierung, auch durch den Einsatz von KI und die Nutzung übergreifender Synergien innerhalb der Verwaltung, kann der Arbeitsaufwand für Verwaltungsprozesse geringer werden
+So schaffen wir einen effizienteren Staat, verkleinern die Ministerialverwaltung des Bundes und stärken die Umsetzungsverantwortung der nachgeordneten Bundesbehörden
+Mit einem strategischen Personalmanagement treiben wir die Modernisierung der Verwaltung voran
+Dies ist in Zeiten des Fachkräftemangels und unbesetzter Stellen dringend nötig
+Für eine serviceorientierte Verwaltung Wir werden unsere öffentliche Verwaltung konsequent modernisieren, digitalisieren und an den Bedürfnissen der Menschen ausrichten
+Die Menschen in Deutschland sollen mit dem Staat digital und auf Augenhöhe kommunizieren können
+Deshalb werden wir gemeinsam mit den Ländern und Kommunen eine plattformunabhängige Deutschland-App auf Open-Source-Basis einführen
+Darin sollen schrittweise alle staatlichen Verwaltungsangebote und Leistungen sicher, unkompliziert, barrierefrei und anwendungsfreundlich zur Verfügung stehen
+In dieser App kann man künftig mit wenigen Klicks zum Beispiel einen Personalausweis beantragen oder die neue Wohnung anmelden
+Die App dient als einfache Bedienungsoberfläche für alle Bürger*innen und als Zielbild für die deutsche Verwaltungsdigitalisierung
+Im Hintergrund der App bauen wir eine moderne, modulare und standardisierte IT-Architektur im Sinne von "Government as a Platform", bei der die Verwaltungsdomänen von Bund, Ländern und Kommunen sinnvoll ineinandergreifen und sichern die langfristige Finanzierung
+Das Datenschutzcockpit bauen wir als Transparenz- und Steuerungswerkzeug aus
+Wir setzen uns für eine Gesellschaft ohne digitale Gräben ein: für Verwaltungsleistungen, aber auch für wesentliche Bereiche der Daseinsvorsorge sollten - wo es nötig ist - analoge Zugänge offen gehalten und Beratungsangebote ausgebaut werden
+Die Beschäftigten in den Behörden sind motiviert, sie packen an und wollen Prozesse besser machen
+Wir wollen sie entlasten und mehr Effizienz ermöglichen
+Dafür fördern wir eine Innovationskultur in der Verwaltung, die offen ist für antragslose Verfahren, risikobereite Entscheidungen, Experimentierfreude, den Einsatz moderner Technik
+Dafür erhöhen wir die Ermessensspielräume der Entscheider*innen
+Wir ermöglichen den Einsatz von Automatisierung und KI- Anwendungen überall, wo sie hilfreich, sinnvoll, diskriminierungsarm und ethisch verantwortbar sind
+Digitale Kompetenzen sollen zu einem selbstverständlichen Teil der Verwaltungsaus- und fortbildung werden
+Damit Daten nicht immer wieder neu erhoben werden müssen, treiben wir die Registermodernisierung und - vernetzung voran
+Die Behörden sollen Datentools vorhalten, bei denen Bürger*innen und Unternehmen ihre Daten nur einmal einpflegen müssen
+Dann Seite müssen die verschiedenen Ebenen der Verwaltung darauf selbst zurückgreifen
+Das verschlankt persönliche Meldungen und Berichtspflichten
+Dafür brauchen wir auch eine eigene Cloud für die Verwaltung, die Sicherheit, Datenschutz, Quelloffenheit und Anbieterunabhängigkeit gewährleistet
+Außerdem wollen wir die Vereinbarkeit von digitaler Verwaltung in der EU stärken
+Für eine schnelle und umfassende Digitalisierung Die Digitalisierung zu gestalten, ist für unser Zusammenleben und unseren Wohlstand zentral
+Bisher ist das in Deutschland nicht ausreichend gelungen
+Dies liegt auch an der Zersplitterung der Zuständigkeiten dafür und der fehlenden Ressourcenbündelung
+Deswegen braucht es eine Bündelung von Zuständigkeiten, Verantwortlichkeiten und der Budgetverantwortung in einem Digitalministerium und eine gemeinsame Strategie innerhalb der Bundesregierung
+Damit gehen wir den Ausbau der digitalen Infrastruktur, die digitale Verwaltung, eine Zentralisierung der Beschaffung, eine kohärente Aufsicht für Digitalgesetze, die europäische und internationale Digitalpolitik und die Förderung von Open-Source fokussiert an
+Für den Digitalen Staat werden wir zentrale digitale Dienste wie die BundID und die Deutschland-App vorantreiben
+Um die Digitalisierung auf Bundesebene zu beschleunigen, sollen alle IT-Budgets in einem Einzelplan zentralisiert und zentral gesteuert werden
+Den Digitalcheck als aktives und begleitendes Instrument der Gesetzgebung entwickeln wir weiter und gestalten die Digitalisierung nachhaltig
+Der Schlüssel zur Beschleunigung der Digitalisierung Deutschlands liegt in der Überwindung der Grenzen der unterschiedlichen IT-Systeme von Unternehmen, Behörden und Forschungseinrichtungen durch Interoperabilität
+Nur dann können Prozesse durchgängig digital ohne Handarbeit oder Medienbrüche abgewickelt werden
+Diese Art der Vernetzung ist zu sehr vernachlässigt worden
+Wir werden offene Standards fördern und bei der Entwicklung neuer Standards Entwickler*innen, Zivilgesellschaft und KMU stets miteinbeziehen
+Diese Standards sollen gut dokumentiert und ohne Lizenzgebühren frei nutzbar sein
+Wir denken Interoperabilität und digitale Kooperation weiter, nämlich als eine notwendige Grundlage, um die Wettbewerbsfähigkeit, Resilienz und Nachhaltigkeit unserer Wirtschaft zu stärken
+Um das große Potenzial von Datenkollaboration für Innovation und Produktivität zu heben, muss die Umsetzung des Datenschutzes stark vereinfacht und weniger bürokratisch werden, ohne das Datenschutzniveau zu senken
+Der Staat muss mit gutem Beispiel vorangehen, weswegen wir den Rechtsanspruch auf Open Data und ein Transparenzgesetz vorantreiben und dadurch Datenbestände proaktiv bereitstellen.Die Datenschutzgrundverordnung muss effizienter und einheitlicher umgesetzt werden
+Eine Reform der Datenschutzaufsicht hin zu Einheitlichkeit, Verlässlichkeit und Einfachheit ist nötig, etwa durch die Bündelung von Zuständigkeiten für bestimmte Sektoren oder Forschung bei einzelnen Aufsichtsbehörden
+Zudem stärken wir die Datenschutzkonferenz als gemeinsame Koordinationsstelle der Datenschutzaufsichtsbehörden von Bund und Ländern und verleihen ihr eine dauerhafte Struktur
+Seite Deutschland braucht schnelles Internet in Stadt und Land
+Wir werden bessere Rahmenbedingungen für den Ausbau von Glasfaser und 5G-Mobilfunk setzen, indem wir Genehmigungsprozesse beschleunigen, alternative Verlegemethoden erleichtern und Open Access fördern
+Für ländliche Gebiete und strukturschwache Regionen werden wir die staatliche Gigabitförderung bedarfsorientiert erhöhen
+Wir stärken die Rechte von Verbraucher*innen auf schnelles Internet, indem wir die Mindestbandbreite schrittweise erhöhen und es einfach machen, mangelhaftes Internet nachzuweisen und einen besseren Zugang zu bekommen
+Für einen Deutschlandfonds und eine Reform der Schuldenbremse Wir werden in der Regierung entschlossen die Investitionen in tragfähige Infrastrukturen nachholen, die unser Land so dringend braucht
+Die schwarze Null im Haushalt ist eine Hypothek für die Zukunftsfähigkeit unseres Landes 
+Wir werden deshalb einen Deutschlandfonds für Bund, Länder und Kommunen errichten
+Daraus werden wir die Schienen bauen, auf denen Züge die Menschen pünktlich an ihr Ziel bringen, die Kitas, Schulen und Hochschulen sanieren, in denen gleiche Chancen für alle entstehen, die Forschung finanzieren, die die Ideen und Technologien für den Wohlstand von morgen begründet, und Unternehmen den Raum für Investitionen in ihre Zukunft ermöglichen
+Mittel aus dem Deutschlandsfonds werden reguläre Haushaltsmittel ergänzen
+Der Investitionsstau in Deutschland liegt im dreistelligen Milliardenbereich, obwohl wir ein wirtschaftlich starkes Land sind
+Die Schuldenbremse in ihrer aktuellen Form verhindert Investitionen und andere Maßnahmen, die unsere stagnierende Volkswirtschaft wieder ankurbeln
+Um die notwendigen Investitionen in Infrastruktur, in die Dekarbonisierung unseres Landes und in eine starke, zukunftsfähige Wirtschaft zu finanzieren, wollen wir die Schuldenbremse im Einklang mit den europäischen Regeln reformieren
+Die Aufnahme von staatlichen Krediten soll dazu in dem Umfang ermöglicht werden, wie vom Staat Investitionen getätigt werden
+Außerdem muss die Konjunkturkomponente ausgeweitet werden, um es dem Staat zu ermöglichen in wirtschaftlich schwierigen Zeiten handlungsfähiger zu sein
+Wir schaffen damit neue finanzielle Spielräume, die wir angemessen zwischen Bund und Ländern verteilen werden
+Zugleich werden wir sicherstellen, dass die Gesamtverschuldung dauerhaft tragfähig bleibt
+Das raten auch die führenden Wirtschaftsinstitute wie der Internationale Währungsfonds (IWF), die Bundesbank oder der Sachverständigenrat der Bundesregierung
+Auf europäischer Ebene setzen wir uns weiterhin für gemeinsame Fiskalregeln ein, die genügend Raum für nachhaltige Investitionen lassen
+Nachdem die Große Koalition das Land fast zwei Jahrzehnte kaputtgespart hat, haben wir in der Bundesregierung die Trendwende eingeleitet
+Investitionen in Klima- und Umweltschutz sowie in Verkehrs-, Energie-, Bildungs- und Forschungsinfrastruktur sowie in die nationale Sicherheit haben für uns Priorität
+Wir schlagen für investive Ausgaben eine Reform der Schuldenbremse und einen Deutschland-Investitionsfonds vor
+Um laufende Ausgaben zu finanzieren, wollen wir Gerechtigkeitslücken in unserem Steuersystem schließen
+Bis zur Umsetzung einer Reform der Schuldenbremse wollen wir mit dem Seite Deutschlandfonds der jüngeren Generation ein modernes, funktionierendes und klimaneutrales Land sowie eine wettbewerbsfähige Volkswirtschaft garantieren, statt ihnen aufgeschobene Lasten und marode Infrastrukturen zu hinterlassen und stärken so auch das Vertrauen in einen funktionierenden Staat und die liberale Demokratie
+Bürger*innen wollen wir ermöglichen, sich an diesen Investitionen für den Staat kostengünstig zu beteiligen
+Der Deutschlandfonds hilft, die Spielräume für dringend notwendige Zukunftsinvestitionen in Bund, Ländern und Kommunen zu erhöhen
+Er ist aber kein Ersatz für die Aufgabe, im Haushalt stärker zu priorisieren und effizienter mit den vorhandenen Einnahmen umzugehen
+Für eine verantwortungsvolle, wirkungsorientierte Haushaltspolitik braucht es auch klar definierte und messbare Ziele
+Viele wichtige Anliegen wie bessere Bildung oder stärkere Sicherheit erfordern auch konsumtive Ausgaben
+Wir wollen den Haushalt entlasten, indem wir Steuerschlupflöcher schließen und die Verwaltung durch die weitere Digitalisierung verschlanken
+Mit guten Rahmenbedingungen steigern wir die Erwerbsquote, erhöhen die Steuereinnahmen und stärken die Sozialversicherungen
+Wir setzen uns für die Einführung moderner Instrumente zur Haushaltssteuerung wie Gender Budgeting ein
+Und wir wollen insbesondere klima- und umweltschädliche Subventionen abbauen
+Dabei achten wir auf eine sozialverträgliche, verlässliche Umsetzung
+Die Verteilung der Steuern zwischen Bund, Ländern und Kommunen muss den tatsächlichen Aufgaben und Investitionsbedarfen entsprechen, um gleichwertige Lebensverhältnisse in allen Landesteilen zu ermöglichen
+Das aktuelle System des Bund-Länder-Finanzausgleichs werden wir in seiner jetzigen Form beibehalten
+Ein Klima, in dem wir gut leben können Für ein stabiles und sicheres Klima Die Staatengemeinschaft hat sich mit dem Pariser Klimaabkommen darauf verständigt, die Klimakrise einzudämmen
+Alle großen Länder mit hohen Treibhausgasemissionen haben sich auf diesen Weg gemacht – darauf kommt es an
+Die EU ist nach den USA und China aktuell der drittgrößte Emittent von klimaschädlichen Emissionen
+Es kommt also auch auf unser gemeinsames Handeln an
+Wir haben uns in der EU deshalb gemeinsam auf ein Ziel verpflichtet: Europa soll bis 2050 der erste klimaneutrale Kontinent werden
+Mit dem europäischen Green Deal haben wir in den vergangenen drei Jahren große Fortschritte auf dem Weg hin zur Klimaneutralität Europas erzielt und gleichzeitig begonnen, die europäische Wirtschaft und Industrie zu modernisieren
+Das wirkt: Obwohl der Green Deal angegriffen wird, ist die EU auf Kurs, ihre Klimaziele zu erfüllen
+Jetzt braucht die Wirtschaft Planungssicherheit
+Wir stellen uns der Abschwächung des Greens Deals und des „Fit for 55“-Pakets mit seinen Gesetzen entgegen und wollen, dass sie europaweit konsequent und möglichst unbürokratisch umgesetzt werden
+Seite Deutschland spielt dabei eine entscheidende Rolle
+Die Großen Koalitionen hatten hohe Klimaschutzziele beschlossen, aber keinen Plan und keine Maßnahmen entwickelt, wie diese Ziele erreicht werden
+Wir haben Deutschland und Europa erstmals auf einen Pfad gebracht, diese Lücke zu schließen
+Es hängt vom entschiedenen Handeln der nächsten Bundesregierung ab, ob sie diese Chance nutzt und die Ziele auch erreicht, durch konkrete Maßnahmen wie die Unterstützung für den geplanten europäischen Emissionshandel für Verkehr und Gebäude und den Clean Industrial Act
+Dazu gehört die Umsetzung der Emissionshandelssysteme auf europäischer Ebene wie geplant
+So stärken wir den CO2-Preis als einen zentralen Hebel für mehr Klimaschutz in Deutschland und Europa
+Die dafür notwendigen Veränderungen sind anspruchsvoll und haben deshalb auch viele hitzige Diskussionen, Sorgen und Ängste ausgelöst und neue Fragen aufgeworfen
+Es ist klar: Wir müssen noch mehr dafür tun, damit der Weg verlässlich ist und alle ihn mitgehen können
+Wir machen Klimaschutz einfacher und bezahlbarer und lösen Umsetzungsprobleme pragmatisch
+Dabei setzen wir gezielt verschiedene Instrumente ein – von marktwirtschaftlichen Anreizen wie dem Emissionshandel über eine gezielte Förderung für Wirtschaft und Haushalte bis hin zum Ordnungsrecht
+Die Anstrengungen lohnen sich: Die klimaschädlichen Emissionen sinken
+Erstmals ist Deutschland auf einem Kurs hin zum Erreichen der eigenen Klimaziele
+Es kommt nun darauf an, diesen Kurs zu halten, um weiterhin Verlässlichkeit und Planungssicherheit herzustellen und eine Orientierung für die klimaneutrale Modernisierung unseres ganzen Kontinents zu geben
+Europa muss nach wissenschaftlichem Rat nun bis 2040 seine Treibhausgasemissionen um mindestens 90 bis 95 Prozent gegenüber verringern
+Dazu wollen wir den Green Deal mutig und ambitioniert weiterführen und einen bedeutenden Beitrag von Deutschland als größtes Mitgliedsland mit den höchsten Emissionen und einem hohen Wohlstand
+Wir halten deshalb an den rechtlich festgeschriebenen Zielen der Klimaneutralität 2045 und den verbindlichen Zwischenzielen fest
+Die Energie- und Wärmewende setzen wir fort
+Der Verkehrsbereich hat den größten Aufholbedarf beim Erreichen der Klimaziele
+Deshalb erhöhen wir die Dynamik, indem wir den Ausbau der Bahn noch weiter intensivieren und den Umstieg auf E-Mobilität beschleunigen
+Um den Herausforderungen und der Dringlichkeit der Klimakrise zu begegnen, werden wir die Rolle des Expertenrates für Klimafragen sowie die Verantwortung von Sektoren im Bundes-Klimaschutzgesetz stärken, in denen Klimaschutz zu wenig vorankommt
+Bei prognostizierter längerfristiger Zielverfehlung soll in den jeweiligen Sektoren verbindlich nachgesteuert werden, denn andernfalls drohen Deutschland teure Strafzahlungen und zukünftig höhere CO2-Preise, beides wollen wir für öffentliche Haushalte und Bürger*innen vermeiden
+Jedes Ministerium muss deswegen unabhängig von der Gesamtbilanz der Bundesregierung geeignete Maßnahmen umsetzen, die zur Einhaltung der Klimaziele führen sollen
+Auch die Umweltauswirkungen von Ernährung, insbesondere auf das Klima und die Seite Biodiversität, wollen wir berücksichtigen, zum Beispiel durch die Unterstützung einer attraktiven, günstigen stärker pflanzenbasierten Ernährung
+Für sozial gerechten Klimaschutz Wir gestalten den Weg zur Klimaneutralität als Weg zu einer gerechteren Gesellschaft, indem wir besonders gefährdete und belastete Gruppen und Regionen gezielt unterstützen und vor übermäßigen Belastungen schützen
+Von einem erschwinglichen und flächendeckend gut ausgebauten öffentlichen Verkehr profitieren vor allem Menschen, die sich kein Auto leisten können oder möchten
+Elektromobilität sowie der Fuß- und Radverkehr tragen zu besserer Luftqualität für alle bei
+Gut gedämmte Häuser und klimaneutrale Wärme schützen die Menschen vor steigenden Heizkosten
+Der Weg zur Klimaneutralität ist also mit vielen Vorteilen verbunden, aber er bedarf auch großer Investitionen – sei es bei der Installation neuer Heizungsanlagen, der Wärmedämmung, dem Einbau eines Energiespeichers oder dem Wechsel zum E-Auto
+Investitionen brauchen Planungssicherheit und Vertrauen, gerade im Hinblick auf die Verfügbarkeit von Fördermitteln
+Dahin wollen wir mit einer berechenbaren Haushaltspolitik zurück
+Viele Menschen werden diese Investitionen ohne Unterstützung nicht leisten können
+Auch für Kommunen, Stadtwerke und kleine Unternehmen ist die Verfügbarkeit von passgenauen Förderprogrammen auf dem Weg zur Klimaneutralität entscheidend, etwa beim Kauf von E-Bussen
+Die Finanzierung der Investitionen zur klimaneutralen Erneuerung ist eine Generationenaufgabe, die entscheidend für das langfristige menschliche Leben auf diesem Planeten ist und die deshalb teilweise auch über Kreditaufnahme finanziert werden sollte
+Wir achten besonders darauf, dass alle die notwendige Modernisierung mitgehen können
+Damit klimafreundliche Alternativen für alle Menschen erschwinglich werden, wollen wir in Zukunft Förderprogramme weiter ausbauen und noch stärker so staffeln, dass Haushalte mit geringen und mittleren Einkommen deutlich höhere Förderbeträge erhalten
+Erste Schritte in diese Richtung haben wir bereits unternommen, zum Beispiel mit den sozial ausgestalteten Förderprogrammen für die Modernisierung von Heizungssystemen und bei der Sanierung von Wohnungen und Häusern
+Auch den Umstieg auf die E-Mobilität wollen wir für Menschen mit kleinen und mittleren Einkommen fördern, gerade im ländlichen Raum
+Dazu schlagen wir eine staatliche Unterstützung beim Erwerb eines verbrauchsarmen E-Autos vor, welches zusätzlich die europäische Automobilwirtschaft unterstützt
+Hierzu gehört unter anderem eine Ladekarte für das Tanken an öffentlichen Ladesäulen, und ein erschwingliches Leasing-Programm, das sogenannte Social Leasing
+Ergänzt wird dies durch eine steuerliche Förderung, die Menschen mit kleineren und mittleren Einkommen erreichen soll
+Zudem sorgen wir für kostensenkenden Wettbewerb und stärken den Verbraucherschutz
+Damit beenden wir überzogene Preise an Ladesäulen, sodass alle günstigen erneuerbaren Ladestrom nutzen können
+Wir setzen dabei auf vielfältige Preismodelle, zum Beispiel auch flexible, am Börsenstrom orientierte Preise
+Seite Wir geben ein Sicherheitsversprechen: Die Einnahmen der CO2-Bepreisung von Gebäudewärme und Transport werden wir für sozial gerechten Klimaschutz ausgeben
+Einen Großteil dieser Einnahmen werden wir als sozial gestaffeltes Klimageld an Menschen mit niedrigen und mittleren Einkommen auszahlen
+Für Menschen mit geringen Einkommen werden die CO2-Kosten durch das Klimageld in den meisten Fällen mehr als ausgeglichen
+Dabei soll das Klimageld gleichmäßig mit den Einnahmen aus der CO2-Bepreisung steigen
+Das Klimageld soll in der nächsten Legislatur so schnell wie möglich eingeführt werden und dann direkt und ohne vorherige Beantragung auf das Konto eingehen
+Wir werden ein Eine-Million- Balkone-Programm starten und Menschen mit geringeren Einkommen bei der Anschaffung von Steckersolargeräten unterstützen
+Derzeit subventioniert der Staat klima- und umweltschädliches Verhalten
+Das werden wir schrittweise abbauen, damit internationale Zusagen umsetzen und die frei werdenden finanziellen Mittel für den sozialen Ausgleich sowie für den Klima- und Umweltschutz verwenden
+Betroffene werden wir bei der Anpassung unterstützen, auf soziale Ausgewogenheit achten und Planungssicherheit geben
+Dafür legen wir im Jahr 2025 einen Plan vor und setzen uns für dessen Umsetzung bis 2030 ein, um unseren internationalen Verpflichtungen nachzukommen
+Als ersten Schritt werden wir das Dienstwagenprivileg so reformieren, damit es Anreize für klimaneutrale Mobilität setzt und werden uns weiterhin für den Abbau klimaschädlicher Subventionen im Luftverkehr einsetzen
+Das reichste Prozent der Weltbevölkerung inklusive der Superreichen verursacht mehr als doppelt so viele Treibhausgase wie die ärmere Hälfte der Weltbevölkerung
+Öl- und Gaskonzerne, die maßgeblich für die weltweiten CO2- Emissionen verantwortlich sind, machen weiter gigantische Gewinne
+Wir werden uns dafür einsetzen, dass diese Verschmutzer einen Beitrag zum Ausgleich der Kosten der Klimakrise leisten und Bürger*innen, Landwirt*innen und Unternehmen nicht mit immer größeren Schäden allein dastehen
+Auch in Deutschland gilt für uns ganz klar das Verursacherprinzip: Die Verursacher*innen von ökologischen und sozialen Schäden sollen die Kosten tragen
+So müssen die langfristigen Folgekosten des Kohleabbaus durch die Kohleunternehmen abgesichert werden, um nicht die Allgemeinheit zu belasten
+Weltweit und bei uns zu Hause: Es sind die Ärmsten, die am stärksten unter den Folgen einer eskalierenden Klimakrise leiden
+Die Klimakrise ist ein Beschleuniger von Ungleichheit, dem stellen wir uns mit sozial gerechter Klimapolitik und unserem internationalen Einsatz für Klimagerechtigkeit entgegen
+Ausbeutung und Umweltschäden in der fossilen Lieferkette sind für uns ein weiterer Grund, für saubere, erneuerbare Energie einzutreten
+Für günstige, verlässliche und klimaneutrale Energie Günstiger Strom aus erneuerbaren Energien wie Wind, Sonne, Wasserkraft, Geothermie und naturverträgliche Bioenergie sichert unseren Wohlstand
+Er ist auch die Grundlage für ein bezahlbares Leben, denn Wärme und Mobilität werden zunehmend elektrisch
+Wir halten Kurs beim erreichten Rekord-Ausbautempo und bauen die Infrastruktur so aus, dass sie sicher vor Angriffen ist und der Seite günstige Strom bei Menschen und Unternehmen ankommt
+Die Zukunft gehört den erneuerbaren Energien – in Form von Strom, Wärme und Wasserstoff
+Die vergangenen Jahre sind wir auf diesem Weg einen riesigen Schritt vorangekommen: 2024 kamen circa 60 Prozent unseres Stroms aus erneuerbaren Quellen, 2021 waren es erst 40 Prozent
+Bis 2030 wollen wir 80 Prozent erreichen; 2035 wird der Strom komplett klimaneutral hergestellt
+Eigentümer*innen, Mieter*innen, Unternehmen und Kommunen sollen ohne große bürokratische Hürden eigene Energie nutzen oder an Energieprojekten teilhaben können
+Dazu werden wir auch in Zukunft dezentrale Erzeuger von Solar- und Windenergie sowie Speicher, Elektrolyseure durch konsequenten Bürokratieabbau, Planungssicherheit und rentable Geschäftsmodelle unterstützen
+Mit Energy Sharing werden wir es möglich machen, günstig erzeugten erneuerbaren Strom noch einfacher gemeinschaftlich und kommunal zu teilen
+Erneuerbare Energien liefern enorm günstig, aber nicht gleichmäßig Strom
+Daher müssen wir Angebot und Nachfrage optimal und möglichst dezentral aufeinander abstimmen
+Dies erreichen wir durch kosteneffizienten Netzausbau und bessere Netznutzung, Speicher aller Arten, die effiziente Nutzung der enormen Flexibilitätspotenziale von Industrie, Gewerbe, Verkehr und privaten Verbraucher*innen und eine neue Generation von möglichst bald mit grünem Wasserstoff betriebenen Kraftwerken sowie die Ertüchtigung der künftig vorrangig mit Abfall- und Reststoffen betriebenen Biogaskraftwerke
+Wir setzen uns für einen leistungsfähigen europäischen Strombinnenmarkt ein und bauen die Stromnetze zu unseren europäischen Nachbarn aus
+Außerdem setzen wir auf die konsequente Digitalisierung des Energiesektors
+Mit digitalen und flexiblen Stromnetzen und dynamischen Stromtarifen werden künftig die Bürger*innen in die Lage versetzt, in Zeiten von viel Wind und Sonne den Strom per Batterie oder Wärmepumpe systemdienlich zu speichern oder das E-Auto laden zu lassen
+Damit kann jede und jeder Geld sparen und von den Vorteilen der erneuerbaren Stromwelt direkt profitieren
+Zugleich sinken die Kosten im Gesamtsystem
+Notwendig sind dazu auch neue Regeln, wie unser Strommarkt funktioniert
+Langfristige Sicherheit für Investitionen in Kraftwerke, zum Beispiel im Rahmen von Kapazitätsmärkten, müssen mit intelligenten kurzfristigen Anreizen zum effizienten Stromverbrauch einhergehen
+Dazu prüfen wir Modelle regionaler Energiemärkte
+Die Verteilnetze richten wir technisch und regulatorisch auf die effiziente und effektive Integration der Erneuerbaren Energien in regionale Wärme- und Mobilitätsmärkte aus
+Wir sorgen dafür, dass die Netzentgelte im Rahmen bleiben und fair getragen werden
+Damit ermöglichen wir einen zunehmend sich selbst tragenden Ausbau von Sonne, Wind und Speichern sowie sonstiger Infrastruktur und entlasten Strompreise und Bundeshaushalt
+Gerade weil der Umbau zum klimaneutralen Stromsystem hohe Investitionen erfordert, achten wir besonders auf die Kosten.Wir senken die Finanzierungskosten durch langfristig sichere Rahmenbedingungen, Garantien und intelligente Regulierung sowie durch höhere Netzauslastung und weitere Nutzung der Spitzenlastkappung
+Wir werden prüfen, ob und unter welchen Bedingungen eine Umstellung von neu zu planenden Hochspannungsgleichstromleitungen zu einfacheren Seite Freileitungen verzögerungsfrei und kostendämpfend möglich ist und darüber möglichst im gesellschaftlichen Konsens entscheiden
+Die Erdverkabelung werden wir bei besonderen örtlichen Erfordernissen nutzen, wobei wir besonders auf eine transparente und nachhaltige Planung achten
+Mit der Gas- und Strompreisbremse haben wir die Energiepreise für Millionen Menschen bezahlbarer gemacht
+Auch in Zukunft wollen wir diesen Weg weitergehen und bezahlbare Energie sicherstellen
+Weiterhin achten wir bei den dazugehörigen technischen Anlagen auf eine transparente, naturverträgliche und nachhaltige Planung und nutzen die kommunale Expertise
+Wir setzen zugleich den Weg fort, die Kosten nicht umzulegen, sondern anders zu finanzieren und Strom damit für Verbraucher*innen und Unternehmen billiger zu machen
+Die Umlage aus dem Erneuerbare-Energien-Gesetz (EEG) wurde für die Verbraucher*innen bereits abgeschafft und wird nun vollständig aus dem Haushalt finanziert
+Im nächsten Schritt senken wir die Stromsteuer auf das europäische Mindestmaß
+Zudem reformieren wir die Finanzierung des Netzausbaus, um die Netzentgelte zu senken
+Fossile Energie ist ein Auslaufmodell
+In diesem Sinne werden wir uns auch auf EU-Ebene einsetzen
+Gerade damit die Kohleregionen Planungssicherheit haben und der Strukturwandel geordnet unterstützt werden kann, halten wir daran fest, alle verbliebenen Kohlekraftwerke ab 2030 nicht mehr zu befeuern und mit dem Kohleausstieg die Kohleförderung in Deutschland einzustellen
+Auch die Nutzung von fossilem Gas werden wir schrittweise reduzieren und so schnell wie möglich, spätestens bis 2045, um die Klimaziele sicher einzuhalten
+Im Stromsektor werden wir uns in spätestens zehn Jahren vollständig erneuerbar versorgen
+Wir werden einen Plan für eine Gasunhängigkeitsstrategie vorlegen, der Auswirkungen auf Klima, Gesellschaft, Wirtschaft und Industrie berücksichtigt
+Neue Langfristverträge für den Gasimport sind nicht mit unseren Klimazielen und auch nicht mit einer europäischen Gas-Unabhängigkeitsstrategie vereinbar
+Denn anstatt uns mit umwelt- und klimaschädlichem Fracking-Gas erpressen zu lassen, beschleunigen wir die anlaufende Reduktion des europäischen Gasverbrauchs sowie den Umstieg auf grünen Wasserstoff und andere erneuerbare Energiequellen
+Dementsprechend werden wir in Abstimmung mit unseren europäischen Partnern unsere LNG-Infrastruktur kontinuierlich auf Notwendigkeit überprüfen und Lock-In-Effekte von Gas-Infrastruktur vermeiden
+Wir stehen für eine endgültige Absage an die umweltzerstörende Gewinnung von Erdöl und Erdgas in ganz Deutschland und möglichst bald auch weltweit – an Land wie auf dem Meer
+Neue Gas- und Ölförderprojekte sollen nicht mehr genehmigt werden
+Die Emissionen in der Vorkette werden wir berücksichtigen
+Eine Rückkehr zur Hochrisikotechnologie Atomkraft ist weder für das Erreichen der Klimaziele noch für die Versorgungssicherheit notwendig und für uns aufgrund der ungeklärten Endlagerfrage, der Kosten und der Gefahr der Verbreitung von atomwaffenfähigen Material keine Option
+Der lange geplante und parteiübergreifend beschlossene Atomausstieg hat unser Land sicherer gemacht
+Um Seite ihn zu vollenden, müssen auch Brennelementefertigung und Urananreicherung in Deutschland beendet werden
+Die von der russischen Firma Rosatom geplante Beteiligung in Lingen bedeutet ein zusätzliches Sicherheitsrisiko
+Wir haben uns immer für eine Ausweitung der europäischen Sanktionen eingesetzt, auch um das Spionage- und Sabotage-Risiko zu verringern
+Die Standortsuche für ein Endlager mit bestmöglicher Sicherheit, so zügig wie möglich und in einem partizipativen Verfahren bleibt eine Herausforderung, der sich das ganze Land stellen muss
+Auf dem langen Weg dorthin müssen die Zwischenlager sicher betrieben werden können
+Für verlässliche und bezahlbare Wärme Der Einstieg in eine verlässliche und klimaneutrale Wärmeversorgung ist jahrzehntelang verschlafen worden
+In den nächsten Jahren wollen wir gemeinsam mit den Kommunen den Weg dafür ebnen, allen Menschen den schrittweisen Umstieg auf klimaneutrales und bezahlbares Heizen zu ermöglichen
+Der Wärmesektor ist besonders geeignet, durch die Kombination von Wärmepumpen, Solarthermie, Abwärmenutzung, Wärmespeichern und Energieeffizienzmaßnahmen die wechselnde Verfügbarkeit von Solar- und Windenergie auszugleichen und so die Energiekosten für alle zu senken
+Mit einer Weiterentwicklung des Instrumentenmixes aus Förderung, Beratung und Standards bringen wir den Wärmesektor auf den notwendigen Pfad der Klimaneutralität
+Wir geben mit dem Gebäudeenergiegesetz und einer Förderung von bis zu 70 Prozent für den Einbau von fossilfreien Heizungen den Eigenheimbesitzer*innen, der Wirtschaft sowie den Mieter*innen und Vermieter*innen die nötige Planungssicherheit für Kauf und Einbau einer modernen klimafreundlichen Heizung, wie der Wärmepumpe, bis 2045
+Wir wollen Stadtwerke und Firmen unterstützen, um Wärme-Contracting, etwa mit Wärmepumpen, anzubieten
+Damit entfällt für Eigentümer*innen die hohe Startinvestition
+Dabei sichern wir die Rechte der Verbraucher*innen in hohem Maße
+Ebenso ausbauen werden wir die Energieberatung, deren Qualität und Unabhängigkeit wir sichern
+Zudem wollen wir die Klimakomponente im Wohngeld weiter stärken
+Wärmenetze sind ein wichtiger Baustein auf dem Weg zu klimafreundlicher und bezahlbarer Wärme für alle
+Vor allem in dicht besiedelten Gebieten und als Teil integrierter Energiesysteme in ländlichen Gemeinden an geeigneten Standorten können sie dazu beitragen, viele Häuser gleichzeitig mit klimafreundlicher Wärme zu versorgen
+Den Aus- und Umbau von Wärmenetzen hin zu erneuerbarer Wärme wollen wir mit der Verlängerung und Stärkung der Förderung für effiziente Wärmenetze (BEW) absichern, Genehmigungsprozesse optimieren und durch eine Senkung der Stromkosten auch die Bereitstellung von klimafreundlicher Wärme bei den Energieversorgern vor Ort stärken
+Ein gleichzeitig starker Verbraucherschutz ist dafür Voraussetzung
+Durch die kurzfristige Einführung einer Preisaufsicht und langfristig einer Preisregulierung wollen wir den Verbraucherschutz bei der Fernwärme, die vor allem von Mietshaushalten bezogen wird, weiter stärken
+Außerdem werden wir privates Kapital für den Ausbau der Wärmenetze aktivieren und die Seite Finanzierungskosten durch öffentliche Bürgschaften senken
+Um die Wärmewende in Bürgerhand voranzubringen, wollen wir die Gründung von Wärmenetzgenossenschaften fördern, in denen Bürger*innen die Wärmeversorgung gemeinschaftlich finanzieren und gestalten
+In der Nutzung von Wasserstoff für die Wärmeversorgung sehen wir keine Perspektive
+Zudem unterstützen wir Prozesse zur Erleichterung des Drittanbieterzugangs in der Fernwärme, um Investitionen zu erleichtern und die Dekarbonisierung voranzutreiben
+Die Wärmewende kann sich auf eine Vielzahl von Technologien stützen
+Entscheidend ist für uns jedoch, dass sich Verbraucher*innen auf Klimafreundlichkeit, Verlässlichkeit und Bezahlbarkeit verlassen können und sie nicht mit falschen Versprechen in Heiztechnologien investieren, mit denen sie einige Jahre später in der Kostenfalle landen
+Auch eine großindustrielle Holzverbrennung in bestehenden und neuen Kraftwerken ist keine klimaverträgliche Alternative
+Daher setzen wir uns dafür ein, dass bei Holzverbrennung emittiertes CO2 im Zertifikatehandel voll angerechnet wird
+Für vorsorgende Anpassungen an ein verändertes Klima Dürren und Hitzeperioden, Waldbrände, Überschwemmungen und Starkregen kosten Menschenleben, zerstören Wohnhäuser, Straßen und Brücken, schädigen die Landwirtschaft und unsere Lebensmittelerzeugung
+Indem wir unser Wirtschaften und Leben klimaneutral gestalten, bekämpfen wir ihre Ursachen
+Aber im Angesicht der sich verschärfenden Auswirkungen der Klimakrise müssen wir weitaus stärker Vorsorge leisten
+Wie groß die Schäden durch die Klimakrise sind, hängt auch davon ab, wie gut wir uns darauf vorbereitet haben
+Die Anpassung an die Klimakrise ist deshalb eine gesellschaftliche, ökonomische und soziale Kernaufgabe der kommenden Jahre und Jahrzehnte
+Im Mittelpunkt stehen dabei für uns die Menschen, die wir mit Blick auf die eigene Selbstschutzfähigkeit unterstützen wollen
+Mit dem Klimaanpassungsgesetz haben wir Bund, Länder und Kommunen in Deutschland verpflichtet, diese Aufgabe anzugehen
+Die Kommunen tragen die Hauptlast der Anpassungen – auch über ihre sozialen Dienstleister, freien Träger und gemeinnützige Organisationen – die uns als gesamte Gesellschaft betreffen
+Deshalb wollen wir Klimaschutz und -anpassung zur Gemeinschaftsaufgabe von Bund und Ländern machen und gemeinsam finanzieren
+Förderprogramme wie das Aktionsprogramm Natürlicher Klimaschutz wollen wir weiter stärken und mehr Mittel für Investitionen für Vorhaben sowie Personal für Klimaschutz und - anpassung in den Kommunen unterstützen
+Unser Einsatz gegen die Klimakrise hat dabei Vorrang, da Klimaanpassung allein die Schäden der Klimakrise nicht kompensiert
+Die vernichtende Ahrtalflut 2021 oder die zerstörerischen Fluten in Osteuropa 2024 führen uns vor Augen, wie verletzlich unsere Gesellschaft besonders angesichts von Hochwasserkatastrophen ist
+Deshalb werden wir den Hochwasserschutz zusammen mit den Ländern verbessern
+Insbesondere brauchen wir Investitionen in natürliche Überschwemmungsräume wie Auenwälder oder Erlenbrüche
+Flüsse und ihre natürlichen Auen werden wir im Interesse des Seite Hochwasserschutzes stärken und ihnen, wo immer möglich, durch Renaturierungen mehr Raum geben
+Wir brauchen aber auch Hochwasserschutzanlagen wie starke Deiche, funktionierende Rückhaltesysteme und einen gut ausgestatteten Katastrophenschutz
+Hochwasserschutzmaßnahmen wollen wir prioritär und beschleunigt umsetzen
+Der Katastrophenschutz muss vorausschauender agieren und dafür Prognosen wie etwa zu Extremwetterereignissen stärker ins Krisenmanagement integrieren können
+Den Versicherungsschutz gegen Elementarschäden werden wir sozialverträglich ausweiten
+Besonders die Menschen in dicht bebauten Städten müssen besser vor Hitzewellen und Starkregen geschützt werden
+Dafür sorgen wir mit mehr Bodenentsiegelung, Frischluftschneisen, Gebäudebegrünung, Stadtgrün und öffentlichen Trinkbrunnen
+Als Schwammstädte sollen sie künftig mehr Wasser aufnehmen, speichern und im Sommer kühlend wirken
+So werden diese Städte in die Lage versetzt, große Wassermengen besser zu nutzen, etwa für die Bewässerung von Grünanlagen
+Den Austausch und die Vernetzung der Städte und Landkreise wollen wir gezielt fördern, um Strategien zur Klimaanpassung schneller auszubauen
+Eine mobile Gesellschaft – Stadt und Land zusammen Für nachhaltiges, sicheres und zügiges Fortkommen Schienen, Straßen und Brücken sind Lebensadern unseres Landes, doch sie wurden über Jahrzehnte auf Verschleiß gefahren
+Die Folgen spüren wir alle in unserem Alltag: verspätete Züge, Umwege und Staus
+Das ist ein Schaden für Menschen, Wirtschaft und Umwelt
+Denn Mobilität ist auch ein Schlüssel zur sozialen Teilhabe
+Zugleich ist unser Verkehrssystem noch immer sehr weit davon entfernt, seinen Beitrag zum Erreichen der Klimaziele zu leisten
+Der Verkehrssektor muss endlich auf seinen Pfad entsprechend der Klimaziele zurückkehren
+Dafür werden wir sorgen, da wir die Ideen und Konzepte dafür haben
+Das ändern wir durch ein zuverlässiges Angebot an Bussen und Bahnen und mit dem klaren Signal hin zur klimafreundlichen E-Mobilität
+Wir wollen die Mobilität für alle verbessern
+Wir brauchen eine Grundsanierung unserer Verkehrsinfrastruktur
+Planungs- und Genehmigungsverfahren haben wir stark beschleunigt
+Jetzt gilt es, mit dem Deutschlandfonds eine ausreichende und überjährige Finanzierungsgrundlage für den Erhalt von Straßen und Brücken, für den Ausbau unserer Schieneninfrastruktur sowie unseres öffentlichen Nahverkehrs zu schaffen
+Hierfür benötigen wir langfristig neue Finanzierungsmodelle, die gleichzeitig verkehrsverlagernde und ökologische Wirkungen beinhalten
+Damit wollen wir die Finanzierung unserer Infrastruktur auf eine sichere und langfristige Basis stellen
+Durch erhebliche Investitionen in umfassende Barrierefreiheit, sichere Haltestellen und attraktive Mobilitätsangebote stellen wir sicher, dass klimafreundliche Mobilität für alle zugänglich ist und der Verkehrssektor seine Klimaziele erfüllen kann
+Seite Während unser Schienennetz deutschlandweit einen leistungsfähigen Ausbau braucht, ist das Straßennetz bereits flächendeckend gut ausgebaut und benötigt daher Sanierungen statt Neubau
+Dazu wollen wir einen integrierten Bundesmobilitätsplan erarbeiten, der Basis für eine klimaneutrale, flächenschonende und sozial gerechte Mobilität bis 2045 ist
+Bis der Bundesmobilitätsplan beschlossen ist, werden wir den Bundesverkehrswegeplan unter Berücksichtigung der Klimaziele kritisch überprüfen
+Verkehrswege wollen wir erhalten und sanieren, das Schienennetz spürbar ausbauen und stärker elektrifizieren, stillgelegte Bahntrassen – gerade in den ländlichen Räumen – reaktivieren und modernisieren sowie bundesweit den Ausbau eines guten Radwegenetzes dauerhaft und verlässlich finanzieren
+Die Antriebswende braucht es auch bei den Lastwagen
+Mit der Reform der Lkw-Maut haben wir klare Anreize für die Umstellung auf elektrische und andere klimaneutrale Antriebe gesetzt
+Um den Luft- und Schiffsverkehr klimaneutral zu modernisieren, unterstützen wir die Produktion nachhaltiger Kraftstoffe aus erneuerbaren Energien, zum Beispiel E-Kerosin, fördern Technologien zur Kraftstoffeinsparung und den schnellen Aufbau einer klimaneutralen Energieversorgung in Häfen, insbesondere einer klimaneutralen Landstromversorgung
+Die nachhaltige Entwicklung unserer Häfen untermauern wir mit einem langfristigen Finanzierungskonzept
+Der Staat kann als Ankerkunde einen Beitrag zum Hochlauf klimafreundlicher Kraftstoffe in der Schiff- und Luftfahrt spielen
+Ein wichtiger Grundsatz ist jedoch: Klimafreundliche Mobilität muss günstig sein und Tickets im Schienenverkehr bezahlbar
+Kurzstreckenflüge wollen wir durch eine Verbesserung der Bahn überflüssig machen
+Die Privilegien für Privatjets wollen wir abschaffen und diese enorm klimaschädliche Fortbewegungsart reduzieren
+Für die Schaffung neuer Start- und Landekapazitäten im Flugverkehr sehen wir nicht nur aus ökologischen, sondern auch aus wirtschaftlichen Gründen keinen Bedarf
+Den Lärmschutz für die Bevölkerung um Flughäfen wollen wir deutlich stärken, gerade in den Nachtstunden
+Für den Gesundheitsschutz schaffen wir einen Grenzwert für Ultrafeinstaub
+Wir wollen, dass alle in Stadt und Land günstig, sicher und klimafreundlich unterwegs sein können
+Mobil auf dem Land setzt vielerorts noch immer ein eigenes Auto voraus
+Wir wollen echte Wahlfreiheit und darum den öffentlichen Verkehr so entwickeln, dass er auch auf dem Land eine alltagstauglicheAlternative zum Auto wird
+Rufbusse und andere Konzepte wie digital vernetzte Kleinbusse und Carsharing-Angebote können den Taktverkehr in der Fläche ergänzen
+Einige Kommunen und Landkreise bieten solche flexiblen Konzepte bereits an
+Wir möchten solche Konzepte stärken und als Modellprojekte in möglichst vielen unterschiedlichen Regionen Deutschlands verwirklichen
+Mit einem Mobilitätsgesetz wollen wir die Mobilitätswende rechtlich verankern
+Statt eines Verkehrsmittels stellen wir den Menschen mit seinen vielfältigen Bedürfnissen in den Mittelpunkt
+Mit der Priorisierung des öffentlichen Personennahverkehrs, des Schienen-, Fuß- und Radverkehrs wird Deutschland zu einem Vorreiterland der modernen Mobilität
+Wir bringen das Verkehrsrecht auf Seite die Höhe der Zeit, um allen Menschen in Stadt und Land barrierefreie Mobilität, etwa mit E-Kleinfahrzeugen, zu ermöglichen
+Weniger Stau und Luftverschmutzung, mehr Barrierefreiheit und Verkehrssicherheit sind dabei unsere Ziele
+Wir wollen, dass ein funktionierendes Miteinander im Verkehr gelingt und alle sicher an ihr Ziel kommen
+Das ist nur erreichbar, wenn überhöhte Geschwindigkeiten reduziert werden
+In der Regierung haben wir mit der Reform des Straßenverkehrsrechts für Kommunen in einem ersten Schritt die Chance geschaffen, leichter Tempo-30-Strecken einzurichten, den Fuß- und Radverkehr zu stärken sowie verkehrsberuhigte und lebenswerte Quartiere zu schaffen
+In einem nächsten Schritt wollen wir unseren Kommunen noch mehr Spielräume einräumen, etwa um flächendeckend innerorts Tempo 30 zu ermöglichen
+Als einziges Land weltweit erlaubt Deutschland das unbegrenzte Rasen auf Autobahnen – zum Schaden von Menschenleben und Umwelt
+Ein Sicherheitstempo von 130 km/h auf Autobahnen als generelles Tempolimit ist deshalb überfällig
+Für Landstraßen wollen wir die Spielräume für Tempo 80 aus ortsspezifischen Gründen deutlich erweitern, um die Verkehrssicherheit zu erhöhen
+Den Bußgeldkatalog für schwere Verkehrsverstöße wollen wir auf europäisches Niveau bringen
+Um Verkehrsräume zu Stadträumen mit Aufenthaltsqualität zu entwickeln, werden wir öffentliche Räume attraktiver gestalten, Barrierefreiheit ausweiten und die Verkehrssicherheit insbesondere von Schulwegen erhöhen
+Wir wollen den Stadtumbau stärker fördern und veraltete Regelwerke erneuern, etwa um Ausnahmen bei der Barrierefreiheit im Nahverkehr zu beenden
+Unser Leitbild dabei ist die Vision Zero, also eine komplette Vermeidung von Verkehrstoten
+Verkehrsvermeidung, -verlagerung und -beruhigung sind für uns wichtige Faktoren, um lebenswerte Städte und Gemeinden zu schaffen
+Deshalb setzen wir auf angepasste klimafreundliche Konzepte, die unnötige Pendelfahrten vermeiden wie mehr Coworking, gerade auch in ländlichen Regionen
+Zudem setzen wir auf bessere Nahmobilität wie sichere Schulwege und Radwege
+Auch passgenaue Nahverkehrskonzepte wie Stadtbahnen oder klimaverträgliche Fährkonzepte werden wir unterstützen
+Für eine verlässliche und bezahlbare Bahn Mit dem Deutschlandticket haben wir den Tarifdschungel im öffentlichen Personennahverkehr (ÖPNV) gelichtet, Millionen von Kund*innen entlastet und ein attraktives Angebot entwickelt: Bus und Bahn im Nahverkehr sind heute so günstig wie nie zuvor
+Diese Erfolgsgeschichte wollen wir fortschreiben und das Deutschlandticket weiter zu einem günstigen Preis für alle anbieten
+Unser Ziel ist, gemeinsam mit den Ländern einen Ticketpreis von 49 Euro sicherzustellen
+Insbesondere bei Jobtickets sehen wir noch Potenziale
+Darüber hinaus begrüßen wir es, wenn Länder und Tarifverbünde Regelungen treffen, um junge Menschen kostenlos oder stark vergünstigt den ÖPNV nutzen zu lassen
+Neben dem Deutschland-Semesterticket wollen wir auch Lösungen für Auszubildende und Freiwilligendienstleistende finden, zudem ein bundesweit vergünstigtes Angebot Seite für Menschen mit geringem Einkommen
+Solche passgenauen Angebote, entkoppelt vom Normalpreis, wollen wir bundesweit ausbauen
+Wir werden das Nahverkehrsangebot in Deutschland weiter verbessern, um die Fahrgastzahlen in klimaneutralen Bussen und Bahnen bis 2040 zu verdoppeln
+Bundesmittel wollen wir zusammen mit höheren Ausgaben der Länder für den Nahverkehr weiter steigern
+Die Regionalisierungsmittel wollen wir so erhöhen, dass Kostensteigerungen und ein an den Fahrgastzielen orientierter Angebotsausbau gleichermaßen berücksichtigt werden
+Auch wollen wir die Länder, Kommunen und Verbünde dabei unterstützen, fahrscheinlosen Nahverkehr anzubieten und neue Finanzierungsquellen wie eine Beitragsfinanzierung zu erschließen
+Der öffentliche Nahverkehr soll mittelfristig im ganzen Land ein alltagstaugliches Angebot mit verlässlichen Taktverkehren garantieren, mit Schwerpunkt auf die gute Anbindung von Schulen, Ausbildungstätten und Freizeiteinrichtungen
+Damit man einfach überall vorankommt, wollen wir uns für einen einfachen, anbieterübergreifenden Ticketkauf über Verkehrs- und Tarifverbünde hinweg einsetzen
+Unser mittelfristiges Ziel ist eine Mobilitätsgarantie, die alle Dörfer vom frühen Morgen bis in die späten Abendstunden mindestens einmal pro Stunde anbindet
+In ländlichen Regionen wollen wir Bahnhöfe zu Mobilitätsstationen aufwerten, an denen regional zugeschnittene Lösungen für vernetzte Mobilität angeboten werden
+Zudem wollen wir Busse und Bahnen zu Orten machen, in denen sich Fahrgäste wohlfühlen
+Neben der Sauberkeit gehört dazu für uns auch die Sicherheit vor Übergriffen, insbesondere gegenüber Frauen
+Deutschland soll ein Bahnland werden, in dem man seine Wege preiswert, barrierefrei und bequem zurücklegen kann
+Hier bleibt viel zu tun, aber der Anfang ist gemacht: Immer mehr Menschen fahren Bahn, Takte werden verbessert und neue Züge eingesetzt
+Unser Ziel ist die beschleunigte Umsetzung des Deutschlandtaktes, der Städte und ländliche Regionen regelmäßig und verlässlich miteinander verbindet
+Auch europäische Nachtzugverbindungen als komfortable und leicht buchbare Angebote wollen wir deutlich ausbauen
+Wir setzen uns zudem für günstige, verlässliche und planbare Trassenpreise ein
+Das Schienennetz, das wir marode vorgefunden haben, werden wir weiter mit Hochdruck sanieren und im erforderlichen Maß ausbauen
+Auch für den Schienengüterverkehr wollen wir Kapazitäten, zum Beispiel im Kombiverkehr, ausbauen und die Verlagerung von Straßentransport auf die Schiene fördern
+Unser Ziel ist, den Anteil der Schiene am Güterverkehr innerhalb eines Jahrzehnts auf 30 Prozent zu steigern
+Für unsere Ausbauziele im Schienenverkehr und im öffentlichen Nahverkehr, ganz gleich ob in S-Bahn, Regionalbus, der Stadtbahn oder auf klimaneutralen Fähren, sind gute Beschäftigungsbedingungen ein wesentlicher Faktor
+Wir wollen dafür sorgen, dass die Arbeitsbedingungen der Beschäftigten im Nah- und Fernverkehr verbessert werden
+Dazu gehört, dass wir uns für eine gute Entlohnung ihrer Arbeit, ob am Tag oder in der Nacht, einsetzen
+Seite Für gleichwertige Lebensverhältnisse In den ländlichen Regionen liegt viel Kraft
+Hier gibt es von weltmarktführenden Unternehmen über fruchtbare Böden bis zu einzigartigen Naturschätzen vieles, was unser Land prägt
+Die vielfältigen Landschaften und Siedlungen, die regionalen Kulturen und lokalen Traditionen gilt es zu schützen und die Gleichwertigkeit der Lebensverhältnisse zu verbessern
+Damit sich Eigeninitiative, Unternehmergeist und Tatkraft voll entfalten können, braucht es eine zeitgemäße Infrastruktur in jedem Dorf, im ganzen Land
+Mit erneuerbaren Energien und Klimaschutz lassen sich vor Ort schwarze Zahlen schreiben
+Die Kommunen verdienen an der Energieerzeugung vor Ort aus Wind und Sonne mit und gewinnen damit eigene finanzielle Spielräume
+Sie entscheiden selbst, ob das Schwimmbad saniert oder das Gemeindezentrum erweitert wird
+Durch Umbau und Sanierung können leerstehende Dorfkerne wieder lebendig werden
+Eine digitale Infrastruktur auf der Höhe der Zeit ist unverzichtbar für wirtschaftliche Innovation und Homeoffice – genauso wie für gesellschaftliche Teilhabe
+Und das heißt: Glasfaser in Stadt und Land und Mobilfunk ohne Funklöcher
+Mit digitalen Standards können regionale Wirtschaftskreisläufe verbunden und gestärkt werden
+Jede und jeder muss sich überall in unserem Land auf eine gute und erreichbare gesundheitliche Versorgung verlassen können
+Kommunale Gesundheitszentren, in denen Ärzt*innen, Pflegekräfte und Therapeut*innen unter einem Dach arbeiten, können in vielen Regionen das Angebot verstärken
+Lebendige Ortskerne und offene Gemeindezentren sind oft die Voraussetzung für ehrenamtliches Engagement und Stärkung des Zusammenlebens
+Lebendige Regionen entstehen durch passende Rahmenbedingungen für das Zusammenleben und gute Infrastruktur – auch für junge Familien und ältere Menschen
+Sie wollen wir unterstützen und fördern
+Eine Natur, die wir schützen Für eine intakte Natur Indem wir die Natur wiederherstellen und schützen, schützen wir uns selbst: heute und in Zukunft
+Wir schützen die Natur zudem um ihrer selbst willen
+Damit schaffen wir die Grundlage für gute Lebensqualität und stärken die Demokratie mit einer resilienten Gemeinschaftsstruktur
+Der Schutz von Klima und Natur sollen daher im Grundgesetz verankert werden
+Eine intakte Natur ist mitentscheidend, Klimaneutralität zu erreichen
+Naturnahe Wälder, Moore und Auen binden billig und effizient CO2 aus der Luft
+Mit dem Aktionsprogramm Natürlicher Klimaschutz sind wir diese Aufgabe kraftvoll angegangen und haben die Naturschutzfinanzierung in Deutschland vervielfacht
+Das wollen wir verstetigen, erweitern und inhaltlich fortentwickeln und damit die Mittel für den natürlichen Klimaschutz über 2028 hinaus anwachsen lassen
+Unser Anspruch ist es, dass internationale Vereinbarungen und im europäischen Recht im Naturschutz konsequent eingehalten und umgesetzt werden
+Europäisch ist ein Meilenstein gelungen: ein Gesetz zur Wiederherstellung der Natur
+Um das Seite unter Einbeziehung einer naturverträglichen Nutzung schnellstmöglich umzusetzen, werden wir Flächen für die Wiederherstellung von Natur gesetzlich garantiert zur Verfügung stellen, denn auch ökosystembasierter Natur- und Artenschutz liegt in einem überragenden gesellschaftlichen Interesse
+Dazu wollen wir einen Schub für den Naturschutz: wirksame Maßnahmen gegen weiteren Flächenverbrauch, unbürokratische und schnellere Ausweisung von Naturschutzgebieten und die Übertragung von weiteren geeigneten Flächen ins Nationale Naturerbe sowie zusammenhängende Biotopverbünde und Großschutzgebiete nach dem Vorbild des ostdeutschen Großschutzgebietsprogramms während der Friedlichen Revolution
+Frei fließende Flüsse, naturnahe Wälder und Auen, Moore und extensiv genutzte Agrarlandschaft sowie wilde Weiden nehmen dabei eine zentrale Rolle ein und müssen – wo immer möglich – erhalten bleiben oder wiederhergestellt werden
+Den unnatürlichen und unwirtschaftlichen Ausbau der Flüsse, wie er zum Beispiel an der Mittelelbe oder an der Grenzoder geplant ist, lehnen wir ab und wollen die rechtlichen Grundlagen der grenzüberschreitenden Flusspolitik gemeinsam mit unseren Nachbarländern naturgerecht ausrichten
+Wir gestalten die Energiewende naturschutzverträglich und lösen unvermeidbare Zielkonflikte zwischen erneuerbaren Energien sowie Natur- und Artenschutz auf der Grundlage neu gewonnener Erkenntnisse und steuern dort, wo es notwendig ist, unter Einbindung des Fachverstandes von Wissenschaft, Naturschutz und Planer*innen nach
+Unsere Verantwortung für besonders typische Lebensräume wie das Wattenmeer, Buchenwälder und Streuobstbestände sowie für besonders bedrohte Arten wie den Luchs oder Feuersalamander werden wir durch Artenhilfsprogramme und besondere Schutzmaßnahmen wahrnehmen
+Den Bundesnaturschutzfonds werden wir weiter stärken sowie digitale Tools für Biodiversitätsforschung und -schutz vorantreiben
+Um dies alles umzusetzen, braucht es mehr Unterstützung für die Zivilgesellschaft, insbesondere in ländlichen Räumen
+Denn der Erfolg des Aktionsprogramms zeigt: Die Menschen, die Kommunen und viele Unternehmen wollen mehr Natur – es sind die Engagierten und Organisationen vor Ort, die sehr oft der Motor des Natur- und Artenschutzes sind
+Deshalb braucht es für einen funktionierenden Umwelt- und Naturschutz ein starkes Verbandsklagerecht
+Die Staatengemeinschaft hat vor zwei Jahren in Montreal eine globale Vereinbarung für den Schutz der Natur und Artenvielfalt mit ambitionierten Zielen beschlossen – das ist auch für uns ein klarer Auftrag, für den Erhalt und die Wiederherstellung intakter Ökosysteme zu arbeiten
+Wir setzen uns für eine schnelle Umsetzung des vereinbarten Ziels von 30% effektivem Schutz der Land- und Meeresfläche bis 2030 ein
+Mit einer verbindlichen Nationalen Biodiversitätsstrategie un deinem Biodiversitätsgesetz und einem Biodiversitätsgesetz werden wir diese Ziele national umsetzen
+Bei unvermeidbaren Eingriffen setzen wir dabei weiterhin auf den Vorrang des Ausgleichs in Form von konkreten Naturschutzprojekten in der Fläche
+Wir können nur das schützen und schätzen, was wir kennen
+Umweltbildung ist lebenslanges Lernen und findet durcheigene Erfahrungen und Erlebnisse in der Seite Natur, Bildung an Lernorten, in Kita, Schule und zu Hause statt
+Unsere Kulturlandschaft ist Lebensraum vieler gefährdeter Arten – wir wollen Landnutzung und Naturschutz in Einklang bringen
+Dort wo Artenschutz wirkt, treten bei wenigen Tierarten auch Konflikte auf
+Wir schaffen die Balance zwischen pragmatischen Lösungen vor Ort wie zum Beispiel schnelleren und unkomplizierteren Abschüssen von Wölfen in problematischen Ausnahmefällen, Koexistenzmaßnahmen wie Herdenschutz, unbürokratischen Entschädigungen und den Anforderungen des Naturschutzes
+Das für die Biodiversität wichtige EU- Naturschutzrecht mit seinem Gebiets- und Artenschutz werden wir dabei erhalten und konsequent umsetzen
+Geschützte Arten wie der Wolf gehören nicht ins Jagdrecht
+Das ist auch ein Beitrag zur Bürokratievermeidung
+Bei Eingriffen in die Natur müssen nicht verantwortbare Risiken wie die Gefährdung oder gar Ausrottung ganzer Populationen oder Arten etwa mittels gentechnischer Methoden (Gene Drives) ausgeschlossen werden
+Unsere Wälder sind wichtig für die Artenvielfalt und Verbündete beim Klimaschutz
+Gleichzeitig dienen sie als Erholungsräume für die Gesundheit des Menschen, Orte der Wildnisentwicklung und Grundlage für die forstwirtschaftliche Nutzung
+Aber wir erleben ein zweites Waldsterben
+Die Klimakrise hat in Verbindung mit dem großflächigen Nadelholzanbau, mit Trockenheit und Schädlingsbefall dazu geführt, dass Wälder inzwischen weniger CO2 speichern als erwartet
+Wir werden deshalb naturnahe und strukturreiche Wälder mit heimischen und standortgerechten Baumarten erhalten und entwickeln
+Um das Ökosystem Wald zu erhalten, setzen wir auf ein modernes Bundeswaldgesetz, das eine möglichst natürliche Entwicklung zu widerstandsfähigeren und artenreichen Mischwäldern vorsieht
+Wir unterstützen die Waldbesitzenden und stärken die Forstbehörden für ein Waldmanagement, das den Anforderungen von Natur-, Klima- und Tierschutz gerecht wird
+Damit eine natürliche Waldverjüngung auf der gesamten Waldfläche möglich wird, ist ein differenziertes Wildtiermanagement notwendig
+Für eine nachhaltige Holznutzung setzen wir auf eine Weiterentwicklung der holzverarbeitenden Wirtschaft hin zu langlebigen Produkten
+Dafür fördern wir die Holz- und Waldforschung
+Für eine gesunde Umwelt Die zunehmende Verschmutzung und Vermüllung ist neben der Klima- und Biodiversitätskrise die dritte große Herausforderung für den Schutz unserer natürlichen Lebensgrundlagen
+Mit intakten Böden, frischer Luft und Rückzugsorten, an denen man auch mal seine Ruhe genießen kann, sorgen wir für mehr Lebensqualität
+Ob dreckige Luft oder Lärm, im Luftkurort genauso wie an der viel befahrenen Straße in der Stadt: Wir wollen die Leitlinien der Weltgesundheitsorganisation (WHO) zum gesetzlichen Maßstab für ein gesundes Leben in Deutschland und Europa machen
+Durch einen stärker vorsorgenden Ansatz und ein neues Bodenschutzgesetz bringen wir den Schutz unserer Böden ins 21. Jahrhundert
+Dies bedeutet weniger giftige Stoffeinträge in den Boden, weniger Seite Pestizideinsatz inklusive eines Komplettverzichts auf besonders schädliche Substanzen wie Glyphosat und Neonikotinoide, und einen insgesamt schonenden Umgang aller mit der Ressource Boden
+So erhalten wir die Leistungsfähigkeit unserer Böden und entfesseln ihre Kraft
+Unser Ziel ist es, den Verpackungsmüll wirksam zu reduzieren und die Vermüllung von Landschaft und Gewässern zu stoppen
+Kunststoffhersteller werden wir stärker an den Umweltkosten ihrer Produkte beteiligen
+Spätestens ab 2045 soll kein vermeidbarer Verpackungsmüll mehr anfallen
+Private Feuerwerke stellen zunehmend eine unzumutbare Belastung für unsere Kommunen dar
+Auch kommt es zu häufig zur missbräuchlichen Verwendung
+Daher wollen wir private Feuerwerke reduzieren, um die Auswirkungen auf Menschen, Tiere und Umwelt möglichst gering zu halten: Wir stärken Städte und Gemeinden bei der Einschränkung von Feuerwerk und schaffen Rechtssicherheit bei der Aussprache von Verbotszonen für alle Kategorien von Feuerwerk
+Grundsätzlich halten wir ein ganzjähriges Verkaufsverbot für den Privatgebrauch für geboten und setzen uns für eine bundesweite Umsetzung ein
+Bei der Reform des europäischen Instruments für die Sicherheit von Chemikalien (REACH-Regelung) wollen wir schneller vorankommen und das erreichte Schutzniveau aufrechterhalten
+Wir unterstützen einen Ansatz, der die Wechselwirkungen der Chemikalien berücksichtigt und die Risiken für Umwelt und Mensch im Fokus hat
+Daher braucht es gerade für naturfremde Stoffe eine fundierte Prüfung und wachsame Zulassungsverfahren, sowie die strikte Anwendung des Verursacherprinzips im Abwasser- und Abfallmanagement
+Wichtig sind uns dabei die Beschleunigung der Verfahren und die Verbesserung der Sanktionsmöglichkeiten
+Stoffe, die den Menschen und Ökosysteme dauerhaft schädigen, wie die sogenannten Ewigkeitschemikalien nehmen wir besonders in den Blick
+Wir setzen uns für ein differenziertes Vorgehen ein mit dem Ziel, nach und nach ganz aus ihrer Verwendung auszusteigen
+Überall dort, wo sie nicht in kritischen Anwendungen sind oder gut ersetzt werden können, wollen wir ihre Verwendung zuerst rasch beenden
+Wir haben aber gleichzeitig im Blick, dass wir kritische Anwendungen und die Produktion wichtiger Zukunftstechnologien wie Elektrolyseure oder elektrischer Antriebe nicht gefährden, da noch nicht immer Alternativen verfügbar sind
+Wir setzen uns für klare, sachgerechte Fristen für die Substitution ein
+Dabei orientieren wir uns am neuesten Stand der wissenschaftlichen Erkenntnisse
+Zudem fordern wir, dass in der Übergangsphase Einträge in die Umwelt auf ein absolutes Minimum reduziert werden
+Wir wollen durch Anreize und eine Forschungsoffensive umweltfreundliche Alternativen fördern, damit diese schnell marktreif werden
+Für die Folgen der Verschmutzung von Wasser sollen die Verschmutzer aufkommen
+Dafür wollen wir die Hersteller von wassergefährdenden Stoffen stärker in die Verantwortung nehmen
+Der Eutrophierung und der Vermüllung von Flüssen und Meeren wollen wir durch Abwassermanagement entgegentreten, Nährstoffeinträge Seite reduzieren
+Besonders gefährliche und schlecht abbaubare Schadstoffe dürfen nicht mehr in den Wasserkreislauf gelangen
+Die Verhandlungen für ein internationales Plastikabkommen wollen wir mit verbindlichen Maßnahmen zur Verringerung der Herstellung von Plastik erfolgreich abschließen
+Unser Ziel ist eine Welt ohne Plastikverschmutzung
+Wir wollen Technik fördern, die ein umweltverträgliches Abfischen von Müll aus dem Meer ermöglicht
+Mit dem Sofortprogramm zur Munitionsbergung in Nord- und Ostsee ist uns ein Meilenstein zum Schutz unserer Meere vor giftigen Kriegsaltlasten gelungen
+Wir werden die kontinuierliche Fortführung der Bergungsarbeiten sicherstellen, damit die Munition bis Mitte des Jahrhunderts aus unseren Meeren geborgen ist
+Wir wollen den Rechtsrahmen auch im Umweltrecht stärken
+Zur Verfolgung von Umweltverbrechen setzen wir uns ein für die konsequente Umsetzung der neuen EU- Umweltstrafrechts-Richtlinie in Deutschland sowie für die Ächtung von schwersten Umweltverbrechen im Rahmen der Ergänzung des Römischen Statuts des Internationalen Strafgerichtshofs
+Für sauberes Wasser und lebendige Meere Sauberes Wasser ist zentral für unsere Gesundheit, unsere Lebensqualität und das Funktionieren unserer Ökosysteme
+Verschmutzung und die Klimakrise bedrohen unsere Wasserressourcen
+Wir sorgen dafür, dass wir weiterhin sauberes Trinkwasser haben, dass die Landwirtschaft versorgt wird und unsere Flüsse, Seen und Meere intakt bleiben
+Wir stehen zur EU-Wasserrahmenrichtlinie und setzen sie gemeinsam mit den Ländern konsequent um, um den guten Gewässerzustand zu erreichen
+Mit der Nationalen Wasserstrategie haben wir einen Masterplan vorgelegt, wie wir diese Ziele erreichen
+Wir wollen die finanziellen und personellen Bedingungen schaffen, damit wir sie – gemeinsam mit den Ländern, aber auch über unsere Landesgrenzen hinaus – effektiv umsetzen können
+Um das ökologische Gleichgewicht in unseren Flüssen besser zu schützen, braucht eine gleichberechtigte Zuständigkeit von Wasserstraßenmanagement und Naturschutz
+Wir wollen den natürlichen Wasserhaushalt wiederherstellen
+Dafür wollen wir Städte und Landschaften so nutzen und gestalten, dass sie Wasser aufnehmen, speichern und bei Bedarf wieder abgeben können
+Insbesondere wollen wir die Wasserrückhaltefähigkeit von landwirtschaftlichen Flächen und Forsten spürbar verbessern
+Durch faire Entgelte, besonders für intensive Nutzer, wollen wir die Nutzung lenken und dafür sorgen, dass Wassersparen noch stärker zur Selbstverständlichkeit wird
+Die verletzlichen Ökosysteme unserer Meere brauchen besonderen Schutz
+Deshalb setzen wir uns für ein weltweites Moratorium beim Tiefseebergbau, eine ambitionierte Umsetzung des internationalen Hochseeabkommens und Schutzgebiete in der Antarktis ein
+Auch in Nord- und Ostsee werden wir substanzielle Beiträge zum weltweiten Ziel leisten, ein Drittel der Meere unter wirksamen Schutz zu stellen
+Wir entwickeln eine ambitionierte Meeresstrategie und schaffen echte Seite Rückzugsgebiete für Fischschwärme und Meeressäuger
+In mindestens einem Zehntel der deutschen Nord- und Ostsee soll die Natur völlig unberührt bleiben, in denen sich die Meeresnatur erholen kann, während neue Schutzregeln auch in den übrigen Gewässern das Leben im Meer bewahren
+Die Fischerei wollen wir auf dem Weg in eine nachhaltige Zukunft unterstützen, unter anderem durch umwelt- und naturverträgliche Fangtechniken, wirksame Schongebiete, alternative Einkommensmöglichkeiten und eine bessere regionale Wertschöpfung
+Dabei wollen wir den Einsatz öffentlicher Gelder auf umweltverträgliche Nutzung konzentrieren, die dem Erreichen globaler und europäischer Nachhaltigkeitsziele dient
+Wir schreiben einen Fahrplan für den Ausstieg aus der Ölförderung in deutschen Gewässern und der Gasförderung in Deutschland bis 2035
+Darüber hinaus setzen wir uns dafür ein, dass Schifffahrtsrouten – insbesondere an nahen Schutzgebieten – auf den Prüfstand gestellt werden, schädliche Einleitungen gestoppt, die Klärwerke an Nord- und Ostsee ertüchtigt werden und gezielte Programme zum Schutz vor Plastikvermüllung aufgelegt werden
+Ein angemessener Anteil der öffentlichen Einnahmen aus dem Verkauf von Meeresflächen für Windkraftanlagen soll auch künftig direkt in den Meeresschutz und die Entwicklung einer natur- und klimaverträglichen Fischerei fließen – so verbinden wir umweltfreundliche Stromerzeugung mit dem Schutz der Meere
+Wir fühlen uns dem Schutz des Wattenmeers besonders verpflichtet
+Das Wattenmeer ist eines der bioproduktivsten Ökosysteme weltweit
+Es ist nicht nur Lebensraum für Schweinswale und Robben, sondern auch eine unersetzliche Nahrungsquelle für zahlreiche Zugvögel und Fischpopulationen
+Dieser Schatz der Natur darf durch Gasbohrungen um Borkum nicht zerstört werden
+Die Meeres- und Polarforschung liefert dafür wichtige Beiträge
+Wir sorgen für die notwendigen Investitionen und setzen auf europäische Kooperationen
+Eine zukunftsfeste Ernährung und Landwirtschaft Für starke Landwirtinnen und Landwirte Um die Ernährungssicherheit langfristig zu gewährleisten, braucht es krisenfeste Betriebe, die sich auf die Veränderungen einstellen können und ein verlässlicher Partner beim Schutz der natürlichen Grundlagen sind
+Auf dem Weg zu einer zukunftsfesten und klimafreundlichen Landwirtschaft setzen wir auf den Einsatz, den Unternehmergeist und das Wissen der Landwirt*innen, gerade auch Frauen, Junglandwirt*innen und Neueinsteiger*innen wollen wir dabei besser unterstützen
+Erste Weichen konnten wir in dieser Wahlperiode stellen, dennoch gibt es viel zu tun
+Die Landwirtschaft bekommt große finanzielle Unterstützung, insbesondere die Gelder aus der Gemeinsamen Agrarpolitik (GAP)
+Sie muss die finanzielle Basis für den Schutz der natürlichen Grundlagen werden
+Für die anstehende Seite Neugestaltung ab 2027 gilt für uns: öffentliche Gelder für öffentliche Leistungen
+Die Wettbewerbsposition von Landwirt*innen gegenüber anderen Akteuren der Wertschöpfungskette soll gestärkt werden
+Deswegen führen wir das Gebot des Kaufs zu kostendeckenden Preisen entlang der gesamten Lebensmittelkette ein und verankern verbindliche schriftliche Verträge im Agrarorganisationen- und Lieferkettengesetz
+Wir wollen eine kartellrechtliche Prüfung, um auch im oligopolen Lebensmittelhandel faire Erzeugerpreise und Wettbewerb zu sichern
+In Landwirtschaft und Fleischindustrie – gerade in der Saisonarbeit – gibt es noch viele prekäre Beschäftigungsverhältnisse
+Hier gilt es, guten Arbeits-, Gesundheits- und Sozialversicherungsschutz sicherzustellen
+Die Hoheit über die von der Agrarindustrie erfassten Betriebsdaten muss bei den landwirtschaftlichen Betrieben verbleiben
+Die Wiedervernässung von Mooren ist ein wichtiger Beitrag zum Biodiversitäts- und Klimaschutz
+Wir unterstützen Landwirt*innen beim Übergang auf nasse Bewirtschaftung und werden die Rahmenbedingungen so gestalten, dass Genehmigungsverfahren für den Umstieg einfacher und schneller funktionieren und landwirtschaftliche Flächen durch die Wiedervernässung an wirtschaftlicher Attraktivität gewinnen
+Für die Tierhalter in Deutschland braucht es eine Antwort auf die veränderten Konsumgewohnheiten aus tierethischen, gesundheits-, umwelt- und klimapolitischen Gründen
+Bei stetig sinkendem Fleischkonsum sind industrielle Tierhaltung und Billigexporte keine langfristig tragfähigen Konzepte
+Zukunftsfähig ist dagegen sowohl im Sinne der Unternehmen als auch der Tiere: weniger Tiere besser halten
+Tiere brauchen mehr Bewegungsfreiheit
+Wir haben den Umbau der Ställe für Schweine hin zu einer tiergerechteren Haltung so stark gefördert wie keine Bundesregierung zuvor
+Wir setzen uns dafür ein, dass es auch in der nächsten Legislatur dafür ausreichend Mittel gibt, um die Lebensbedingungen für alle Tiere zu verbessern und die Haltung den Bedürfnissen der Tiere anzupassen
+Weidehaltung auf extensivem, artenreichen Dauergrünland hat sowohl positive Biodiversitäts- wie auch Klimaeffekte
+Das wollen wir ebenso fördern wie die Wiedereinführung robuster Rassen, die mit dieser Haltungsform gut zurechtkommen
+Wir haben die Haltungskennzeichnung für Schweinefleisch eingeführt und ermöglichen Verbraucher*innen damit eine bewusste Kaufentscheidung
+Diese Kennzeichnung werden wir bürokratiearm auch auf die anderen Tierarten und die Außer-Haus-Verpflegung ausweiten
+Auch regionale Produkte sind bei immer mehr Menschen gefragt
+Deshalb wollen wirlandwirtschaftliche Betriebe mit dem regionalen Lebensmittelhandwerk zusammenbringen – beispielsweise mit der Förderung regionaler Wertschöpfungsketten
+Zusätzlich soll eine Lebensmittelverarbeitungsstrategie erarbeitet werden, die unter anderem die externalisierten wahren Kosten wissenschaftlich betrachtet
+Dem Ausverkauf landwirtschaftlichen Bodens durch sogenannte Share Deals treten wir entschieden entgegen
+Seite Zusätzliche Verdienstmöglichkeiten für die Landwirt*innen treiben wir etwa durch den Ausbau von Agri-Photovoltaik, Agri-Tourismus sowie die Stärkung von pflanzlichen Rohstoffen als Baustoffe, wie z.B. Schilf oder Hanf, voran
+Den Anbau, die Verarbeitung und den Handel von Industriehanf wollen wir gesichert straffrei ermöglichen
+Und wir unterstützen Betriebe sowie die ganze Wertschöpfungskette dabei, in neuen innovativen Märkten wie beispielsweise alternative und pflanzliche Proteine Fuß zu fassen
+Das Kompetenzzentrum „Proteine der Zukunft“ und das Chancenprogramm Höfe werden wir entsprechend weiterführen
+Wir stärken die Forschungsförderung und sorgen für effiziente und zuverlässige Zulassungsverfahren für neuartige Lebensmittel wie moderne Fermentationsverfahren und Zellkultivierung
+Für die natürlichen Grundlagen unserer Ernährung Die Auswirkungen der Klimaerhitzung, des Insektensterbens und der Umgang mit unseren Böden sind zentrale Herausforderungen für unsere Ernährungssicherheit
+Zukunftsfeste Landwirtschaft stellt sich diesen Herausforderungen
+Dafür braucht es neben mehr Wertschätzung auch genügend Wertschöpfung
+Wir unterstützen Effizienzgewinne durch die Nutzung digital gestützter Arbeitsmethoden in der Landwirtschaft und setzen uns für EU-weite Standardisierung ein
+Unnötige Bürokratie werden wir aktiv abbauen, ohne notwendige Standards im Umwelt-, Tier- und Verbraucherschutz abzubauen
+Landwirtschaft und Umwelt brauchen einen möglichst sparsamen und bedachten Einsatz von Pestiziden und Düngemitteln
+Die Einführung einer Nährstoffbilanz unterstützt den gezielteren Düngereinsatz und kann helfen, ihn zu senken
+Mit der Umsetzung der EU-Farm-to-Fork-Strategie kann der Pestizideinsatz EU-weit bis 2030 halbiert werden
+Hierzu fördern wir den Ökolandbau sowie setzen auf Innovation, Digitalisierung, Weiterbildung und die konsequente Umsetzung agrarökologischer Maßnahmen
+Eine einkommenswirksame und gemeinwohlorientierte Honorierung von Umwelt- und Biodiversitätsleistungen ist für uns dabei ein wichtiges Instrument
+Und wir setzen auf marktwirtschaftliche Lösungen wie eine Pestizidabgabe, die wirksam und unbürokratisch ist und zur Förderung umweltschonender Methoden des Pflanzenschutzes genutzt werden kann
+Wir kämpfen gegen das Wildbienensterben und unterstützen die Imkerschaft bei ihrem Kampf gegen das Honigbienensterben
+Außerdem schaffen wir genügend geschützte Rückzugsräume für die Natur – in Brachen, Feuchtgebieten, Feldhecken und anderen Strukturen der Agrarlandschaft
+Kooperativer Naturschutz mit erfolgsabhängiger Förderung ist dabei ein interessanter Ansatz, vor Ort neue Potentiale für naturerhaltende Bewirtschaftung zu erschließen
+Wir setzen uns auch für bestäuberfreundliche ökologische Pflanzenzüchtung und Permakultur ein
+Wir bringen Agroforstsysteme raus aus der Nische und rein in die Fläche
+Wir unterstützen die Landwirt*innen dabei, hier Bäume und Ackerkultur zu kombinieren
+Damit leisten sie einen Beitrag zum Schutz der Böden und Artenvielfalt
+Genetische Vielfalt wollen wir ebenso fördern wie die Züchtung und Einführung robuster Sorten, die mit weniger Pestiziden und synthetischem mineralischen Dünger auskommen und an die Seite Klimabedingungen angepasst sind
+Die Förderung schonender Bodenbearbeitung und mechanischer Unkrautregulierung im Aktionsprogramm Natürlicher Klimaschutz führen wir weiter
+Die ökologische Land- und Lebensmittelwirtschaft ist unser Leitbild, sie spielt eine wichtige Rolle beim Schutz der natürlichen Grundlagen
+Naturschonende Erzeugungsformen müssen einen Vorteil gegenüber Produktionsweisen haben, die starke Umweltfolgen nach sich ziehen
+Um das Ziel 30 Prozent Ökolandbau bis zu erreichen, setzen wir die Biostrategie 2030 konsequent um und stellen die notwendigen Mittel dafür bereit
+Insbesondere für junge Landwirt*innen wollen wir den Einstieg erleichtern
+Wir fördern die Innovationskraft der Biobetriebe und die Vermarktung
+Und wir weiten die Forschung für den ökologischen Landbau deutlich aus
+Wir brauchen auch einen sorgsameren Umgang mit wertvollen Agrarflächen
+Daher wollen wir im Planungsrecht Vorrangflächen für die Nahrungsmittelproduktion einführen und Agri-Photovoltaik und weitere Ansätze zu höherer Flächeneffizienz stärken
+Bei der Biomasse setzen wir auf die sorgsame Kaskaden- und Mehrfachnutzung sowie auf die verstärkte Nutzung von Grüngut aus der Landschaftspflege
+Um den Einsatz von fossilen Brennstoffen auch in der Landwirtschaft schnell und deutlich zu senken, fördern wir die Entwicklung und Markteinführung von alternativen Antrieben und Treibstoffen
+Übernutzte und geschädigte Böden gefährden die Neubildung sauberen Grundwassers und die Erzeugung gesunder Lebensmittel
+Sie speichern weniger Wasser und verlieren relevante Nährstoffe
+Dem wollen wir durch ein neues Bodenschutzgesetz vorbeugen
+Für gute Ernährung Jede und jeder soll selbst und gut entscheiden können, was auf den Teller kommt
+Aber nicht alle können sich so ernähren, wie sie gern würden
+Das ist auch eine soziale Frage: Dort, wo Menschen sozial benachteiligt werden, sind ernährungsbedingte Krankheiten besonders häufig
+Deshalb wollen wir die Rahmenbedingungen so gestalten, dass die Wahlfreiheit bei der Ernährung verbessert wird
+Ein erweitertes pflanzenbasiertes Angebot und eine verständliche Kennzeichnung von Lebensmitteln sollen für Verbraucher*innen mehr Auswahl und bessere Entscheidungsgrundlagen liefern
+Dazu soll auch eine gerechtere Besteuerung pflanzlicher Lebensmittel beitragen
+Dafür bauen wir auf die Ernährungsstrategie der Bundesregierung „Gutes Essen für Deutschland“ auf und schaffen eine bessere Ernährungsumgebung
+Ein besonderes Augenmerk legen wir dabei auf die Gemeinschaftsverpflegung – von Kitas über Kantinen bis Pflegeeinrichtungen
+Außerdem werden wir Kinder vor Werbung für ungesunde Lebensmittel schützen und Geschmacksaromen für E-Zigaretten, die besonders junge Menschen zum Konsum verleiten, vom Markt verbannen
+Zudem tragen stark zuckerhaltige Softdrinks wesentlich zu Übergewicht, Adipositas und Folgeerkrankungen bei
+Gerade im Sinne des Kinder- und Jugendschutzes setzen wir uns für wirksame Maßnahmen zum Senken des Zuckergehalts von Softdrinks ein
+Wir Seite begrüßen die Empfehlungen des Bürgerrats "Ernährung im Wandel", die wichtige Maßnahmenvorschläge enthalten, die wir aufgreifen wollen
+Und wir werden weiter daran arbeiten, dass immer weniger Lebensmittel, die noch gut sind, weggeschmissen werden
+Wir wollen deshalb, dass die Rettung und Weitergabe von Lebensmitteln Standard wird, dafür verpflichtende Maßnahmen im Lebensmittelhandel einführen und das Retten von Lebensmitteln entkriminalisieren
+Für einen besseren Umgang mit Tieren Tierschutz ist für uns eine Frage der Haltung
+Wie für den Umwelt- und Naturschutz ergreifen wir schon immer auch für die Tiere konsequent Partei
+Sowohl national als auch auf europäischer und internationaler Ebene setzen wir uns daher für eine Tierschutzgesetzgebung und hohe Standards ein, die Tiere wirklich schützen
+Die meisten Tiere in Deutschland werden in der Landwirtschaft gehalten
+Hier wollen wir, dass weniger Tiere besser gehalten werden, dass sie sich frei bewegen und ihrer natürlichen Lebensweise nachgehen können
+Wir werden die Zucht stärker auf Tiergesundheit ausrichten und die bereits verbotenen Qualzuchten von Tieren endgültig beenden
+Dazu gehören zum Beispiel Puten, deren Brustfleisch so schnell wächst, dass sie sich nicht mehr auf den Beinen halten können, oder auch Hunde und Katzen, die kaum atmen können
+Tierquälerei soll entschiedener bestraft werden
+Um Vollzugsdefiziten im Tierschutz zu begegnen, braucht es bessere Kontrollen
+Wir wollen allen Menschen, die Tiere halten, Zugang zu den notwendigen Kenntnissen geben
+Da Tiere ihre Rechte nicht selbst einklagen können, setzen wir uns für ihre bessere rechtliche und politische Interessenvertretung ein
+Dafür wollen wir unter anderem das in dieser Wahlperiode bereits geschaffene Amt einer oder eines Bundestierschutzbeauftragten verbindlich verankern und ein umfassendes Verbandsklagerecht für anerkannte Tierschutzorganisationen einführen
+Unser Ziel ist, die Dauer von Tiertransporten europaweit auf vier Stunden zu begrenzen
+Transporte aus Europa heraus wollen wir verbieten und Wege der Umgehung durch neue Transitländer verhindern und dafür unsere nationalen Spielräume nutzen
+Schlachtmethoden und ihre Kontrollen wollen wir im Sinne des Tierschutzes verbessern
+Dezentrale und mobile (Weide-)Schlachtungen vermeiden lange Transporte und stärken regionale Wirtschaftskreisläufe
+Auch verbesserte Arbeitsbedingungen, die nicht auf Akkordlöhne, Stück- und Streckenprämien bei Schlachtung und Transport setzen, helfen beim Tierschutz
+Tierversuche wollen wir durch eine wissenschaftliche Reduktionsstrategie verringern und – wo immer möglich – durch innovative, tierfreie Methoden ersetzen, die wir umfassend fördern und deren strukturelle Hürden wir abbauen wollen
+Dafür entwickeln wir perspektivisch einen geeigneten rechtlichen Rahmen
+Das stärkt auch den modernen Forschungsstandort Deutschland
+Tiere in Not müssen besser versorgt werden
+Tierheime und andere Auffangstrukturen sowie Notfallnummern sind bundesweit am Limit
+Wir wollen, Seite dass sie finanziell besser unterstützt und entlastet werden
+Illegaler Tierhandel und unkontrollierter Wildtierhandel schaden den Tieren und erzeugen Gesundheitsrisiken für den Menschen
+Wildtiere gehören in die Wildnis und nicht in Zirkusse, sie sollten auch nicht über gewerbliche Onlineseiten und Wildtierbörsen angeboten werden
+Kommerzielle Importe von Wildfängen und die Einfuhr von Jagdtrophäen wollen wir beenden

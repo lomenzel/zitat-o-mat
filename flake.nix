@@ -19,15 +19,15 @@
       in
       {
         packages = rec {
-          btwQuizz = pkgs.stdenv.mkDerivation
+          btw-quizz = pkgs.stdenv.mkDerivation
             {
-              pname = "btwQuizz";
+              pname = "btw-quizz";
               version = "0.1";
-              src = ./.;
-              installphase = ''
-                # mkdir -p $out/wahlprogramme
-                # cp -r $src/* $out/
-                # cp -r ${./wahlprogramme}/* $out/wahlprogramme
+              src = ./src;
+              installPhase = ''
+                mkdir -p $out/wahlprogramme
+                cp -r $src/* $out/
+                cp -r ${./resources/wahlprogramme}/* $out/wahlprogramme
               '';
             };
         };
@@ -37,7 +37,6 @@
             nativeBuildInputs = with pkgs; [
               nodejs
             ];
-
           };
       }
     );

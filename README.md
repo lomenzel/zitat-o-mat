@@ -32,7 +32,7 @@ NixOS: Nichts weiter Notwendig
 
 ### Für Alle
 
-> Flakes sollten aktiviert sein
+> Die Experimentellen Features `flakes` und `pipe-operators` müssen aktiviert sein
 
 um eine Shell zu öffnen in der alle für dieses Projekt notwendigen Abhängigkeiten installiert sind (bisher nur nodejs für npx) aber das könnten ja noch mehr werden:
 

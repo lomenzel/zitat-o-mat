@@ -1,3 +1,5 @@
+{ "party": "Die PARTEI", "type": "election programm", "election": "BTW 2025", "source": "https://www.die-partei.de/btw25/"}
+
 Wir werden weitreichende Gesetzesänderungen durchsetzen, die das zur Verfügung stehende Menschenmaterial für den maximalen Einsatz in der Wirtschaft aufbereiten und gleichzeitig der Tatsache ein Ende setzen, dass große Bevölkerungsschichten vom Arbeitsmarkt altersdiskriminiert werden.
 Wer arbeiten will, wird arbeiten dürfen!
 „Kinderarbeit“ ist ein unschöner und unzeitgemäßer Begriff aus dem letzten Jahrtausend, der uns eine entscheidende Ressource zu unendlichem Wohlstand vorenthält.

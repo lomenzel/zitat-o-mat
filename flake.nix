@@ -105,6 +105,17 @@
             in
            rec {
           default = btw-quizz;
+            btw-quizz = pkgs.buildNpmPackage rec {
+            pname = "btw-quizz";
+            version = "0.0.1-vue-beta";
+            src = ./.;
+            npmDepsHash = "sha256-RBL5/BJtz04cgAFrRfBdTqe6nZ0Yi3LfjH5PHHx2Wkg=";
+            installPhase = ''
+              mkdir -p $out
+              cp -r dist/* $out
+            '';
+          };
+          dataDir = pkgs.stdenv.mkDerivation
           
           srcWithData = pkgs.stdenv.mkDerivation {
             pname = "quizz-src";

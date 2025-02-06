@@ -1,4 +1,8 @@
-Menschen in Deutschland sind zu Recht stolz auf das, was sie schaffen, auf die Qualität ihrer Arbeit, auf ihre Erfahrungen und Kompetenz – ob im Erwerbsleben, in der familiären Erziehung, in der Pflege von Angehörigen oder im Ehrenamt
+{ "party": "Bündnis 90/Die Grünen", "type": "election programm", "election": "BTW 2025", "source": "https://cms.gruene.de/uploads/assets/20250205_Regierungsprogramm_DIGITAL_DINA5.pdf"}
+
+# Kapitel 1
+
+Die Menschen in Deutschland sind zu Recht stolz auf das, was sie schaffen, auf die Qualität ihrer Arbeit, auf ihre Erfahrungen und Kompetenz – ob im Erwerbsleben, in der familiären Erziehung, in der Pflege von Angehörigen oder im Ehrenamt
 Ihre Leistungen verdienen unsere Anerkennung
 Deutschland muss auf diese Kraft bauen, um die großen strukturellen Herausforderungen anzugehen, vor denen wir stehen: Der Angriffskrieg von Russland auf die Ukraine und der Systemkonflikt zwischen liberalen Demokratien und autoritären Staaten im Umfeld Chinas erfordern eine Neuausrichtung von Wirtschaftssicherheit und Handel, Lieferketten und Absatzmärkten
 Wir werden diesen Wettstreit auch im Ökonomischen nur gewinnen, wenn wir den großen Vorteil der liberalen Demokratie maximal zur Geltung bringen: dass Menschen neue Ideen haben und Dinge frei entdecken und entfalten können

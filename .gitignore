@@ -30,3 +30,5 @@ coverage
 *.tsbuildinfo
 
 public/result.json
+
+result

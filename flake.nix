@@ -44,27 +44,36 @@
       in
       {
         packages = rec {
-          btw-quizz = pkgs.stdenv.mkDerivation
-            {
-              pname = "btw-quizz";
-              version = "0.1";
-              src = ./src;
-              installPhase = ''
-                mkdir -p $out
-                cp -r $src/* $out/
-                cp -f ${data} $out/data.json
-              '';
-            };
+          default = btw-quizz;
           data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources
             |> map parseProgramFile
             |> toJSON
           );
+          btw-quizz = pkgs.buildNpmPackage rec {
+            pname = "btw-quizz";
+            version = "0.0.1-vue-beta";
+            src = ./.;
+            npmDepsHash = "sha256-RBL5/BJtz04cgAFrRfBdTqe6nZ0Yi3LfjH5PHHx2Wkg=";
+            installPhase = ''
+              mkdir -p $out
+              cp -r dist/* $out
+            '';
+          };
+
         };
 
         devShell = pkgs.mkShell
           {
             nativeBuildInputs = with pkgs; [
               nodejs
+              (vscode-with-extensions.override {
+                vscodeExtensions = with pkgs.vscode-extensions; [
+                  jnoortheen.nix-ide
+                  vue.volar
+                ];
+                vscode = vscodium;
+              })
+
             ];
           };
       }

@@ -37,13 +37,18 @@ NixOS: Nichts weiter Notwendig
 um eine Shell zu öffnen in der alle für dieses Projekt notwendigen Abhängigkeiten installiert sind (bisher nur nodejs für npx) aber das könnten ja noch mehr werden:
 
 ```bash
-$ nix develop
+nix develop
+```
+
+um eine VsCode instanz zu öffnen in der alle Benötigten extensions und abhängigkeiten drin sind
+```bash
+nix develop -c codium .
 ```
 
 um ein Fertigen Ordner zu erstellen der so Für eine Produktiv version verwendet werden kann:
 
 ```bash
-nix build .\#btw-quizz
+nix build
 ```
 
 wenn man nur die data.json mit echten daten möchte
@@ -54,4 +59,4 @@ nix build .\#data
 
 das ergebnis des builds ist in `./result`
 
-> Pro Tipp: nix build funktioniert auch wenn man das repo nicht geklont hat :) wer also nur den build braucht und auf der maschine nicht entwikeln möchte kann einfach `nix build github:lomenzel/btw-quizz/main\#btw-quizz` ausführen
+> Pro Tipp: nix build funktioniert auch wenn man das repo nicht geklont hat :) wer also nur den build braucht und auf der maschine nicht entwikeln möchte kann einfach `nix build github:lomenzel/btw-quizz/main` ausführen

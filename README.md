@@ -26,6 +26,10 @@ NixOS: Nichts weiter Notwendig
 
 [Nix](https://nixos.org/download/#nix-install-macos) Paketmanager installieren. (Ein Docker Container mit nix sollte auch reichen)
 
+### Android
+
+[Nix-On-Droid](https://github.com/nix-community/nix-on-droid) installieren
+
 ### Für Alle
 
 > Flakes sollten aktiviert sein

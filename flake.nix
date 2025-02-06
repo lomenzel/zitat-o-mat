@@ -16,6 +16,21 @@
       system:
       let
         pkgs = import nixpkgs { inherit system; };
+        lib = pkgs.lib;
+        parseProgramFile = path: 
+          let
+            content = builtins.readFile path;
+            lines = lib.splitString "\n" content;
+            metadata = lines
+              |> builtins.head
+              |> builtins.fromJSON
+              ;
+            phrases = builtins.tail lines
+              |> builtins.map (l: lib.trim l)
+              |> builtins.filter (l: l != "")
+              ;
+          in
+            metadata // { inherit phrases;};
       in
       {
         packages = rec {
@@ -25,11 +40,15 @@
               version = "0.1";
               src = ./src;
               installPhase = ''
-                mkdir -p $out/wahlprogramme
+                mkdir -p $out
                 cp -r $src/* $out/
-                cp -r ${./resources/wahlprogramme}/* $out/wahlprogramme
+                cp -f ${data} $out/data.json
               '';
             };
+          data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources
+            |> map parseProgramFile
+            |> builtins.toJSON
+          );
         };
 
         devShell = pkgs.mkShell

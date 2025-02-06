@@ -8,6 +8,7 @@ const gun = Gun({
 });
 const stats = gun.get('werWillWas/citationStats');
 
+let data = [];
 
 function shuffle(arr) {
     let array = JSON.parse(JSON.stringify(arr))
@@ -40,7 +41,7 @@ function getRandomPhrase(data) {
 }
 
 function safeBtoa(str) {
-   return btoa(encodeURIComponent(str))
+    return btoa(encodeURIComponent(str))
 }
 
 function remove(arr, elem) {
@@ -211,91 +212,7 @@ async function fetchTextFile(url) {
 }
 
 async function initData() {
-    let processedCount = 0;
-
-    // Single-file entries
-    const singleFileParties = [
-        { party: "AfD", file: './wahlprogramme/AfD.pdf' },
-        { party: "Bayernpartei", file: './wahlprogramme/Bayernpartei.pdf' },
-        { party: "BSW", file: './wahlprogramme/BSW.pdf' },
-        { party: "Bündnis C", file: './wahlprogramme/Bündnis C.pdf' },
-        { party: "Bündnis Deutschland", file: './wahlprogramme/Bündnis Deutschland.pdf' },
-        { party: "BüSo", file: './wahlprogramme/BüSo.pdf' },
-        { party: "CDU/CSU", file: './wahlprogramme/CDU CSU.pdf' },
-        { party: "Die Basis", file: './wahlprogramme/Die Basis.pdf' },
-        { party: "FDP", file: './wahlprogramme/FDP.pdf' },
-        { party: "Freie Wähler", file: './wahlprogramme/Freie Wähler.txt', isTxt: true },
-        { party: "Die Linke", file: './wahlprogramme/Linke.pdf' },
-        { party: "Menschliche Welt", file: './wahlprogramme/Menschliche Welt.txt', isTxt: true },
-        { party: "MERA25", file: './wahlprogramme/MERA25.pdf' },
-        { party: "MLPD", file: './wahlprogramme/MLPD.pdf' },
-        { party: "ÖDP", file: './wahlprogramme/ÖDP.pdf' },
-        { party: "Die PARTEI", file: './wahlprogramme/PARTEI.txt', isTxt: true },
-        { party: "PDF", file: './wahlprogramme/PDF.pdf' },
-        { party: "PdH", file: './wahlprogramme/PdH.pdf' },
-        { party: "Piratenpartei", file: './wahlprogramme/Piraten.txt', isTxt: true },
-        { party: "SGP", file: './wahlprogramme/SGP.txt', isTxt: true },
-        { party: "SPD", file: './wahlprogramme/SPD.pdf' },
-        { party: "SSW", file: './wahlprogramme/SSW.pdf' },
-        { party: "Team Todenhöfer", file: './wahlprogramme/Team Todenhöfer.pdf' },
-        { party: "Tierschutzpartei", file: './wahlprogramme/Tierschutzpartei.pdf' },
-        { party: "Verjüngungsforschung", file: './wahlprogramme/Verjüngungsforschung.txt', isTxt: true },
-        { party: "Volt", file: './wahlprogramme/Volt.pdf' },
-        { party: "Werteunion", file: './wahlprogramme/Werteunion.txt', isTxt: true }
-    ];
-
-    const totalFiles = singleFileParties.length + 1;
-    citation.textContent = `Wahlprogramme werden Analysiert ${processedCount}/${totalFiles}`;
-
-    for (const { party, file, isTxt } of singleFileParties) {
-        // Create safe cache key (replace special characters)
-        const cacheKey = `phrases_${party.replace(/[^a-zA-Z0-9]/g, '_')}`;
-        let phrases;
-
-        // Check cache first
-        const cachedData = localStorage.getItem(cacheKey);
-        if (cachedData) {
-            phrases = JSON.parse(cachedData);
-        } else {
-            // Process file if no cache
-            phrases = isTxt
-                ? splitText(await fetchTextFile(file))
-                : splitText(await extractPDFText(file));
-
-            // Store in localStorage (with 24h expiration example)
-            localStorage.setItem(cacheKey, JSON.stringify(phrases));
-            localStorage.setItem(`${cacheKey}_timestamp`, Date.now());
-        }
-
-        data.push({ party, phrases });
-        citation.textContent = `Wahlprogramme werden Analysiert ${++processedCount}/${totalFiles}`;
-    }
-
-
-    // Special case: Grüne (4 PDFs) with caching
-    const gruneCacheKey = 'phrases_B_ndnis_90_Die_Gr_nen'; // Sanitized key
-    let grunePhrases = JSON.parse(localStorage.getItem(gruneCacheKey)) || [];
-
-    if (grunePhrases.length === 0) {
-        // Only process if no cached version exists
-        const gruneFiles = [
-            './wahlprogramme/Grüne Präambel.pdf',
-            './wahlprogramme/Grüne 1.pdf',
-            './wahlprogramme/Grüne 2.pdf',
-            './wahlprogramme/Grüne 3.pdf'
-        ];
-
-        for (const file of gruneFiles) {
-            grunePhrases.push(...splitText(await extractPDFText(file)));
-            citation.textContent = `Wahlprogramme werden Analysiert ${totalFiles}/${totalFiles}`;
-        }
-
-        // Store combined result
-        localStorage.setItem(gruneCacheKey, JSON.stringify(grunePhrases));
-        localStorage.setItem(`${gruneCacheKey}_timestamp`, Date.now());
-    }
-
-    data.push({ party: "Bündnis 90/Die Grünen", phrases: grunePhrases });
+    data = await fetch("./data.json").then(res => res.json())
 }
 
 function addHistoryEntry(phrase, userAnswer, correctAnswer) {

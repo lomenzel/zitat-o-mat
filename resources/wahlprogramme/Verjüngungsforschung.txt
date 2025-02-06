@@ -1,6 +1,6 @@
 { "party": "Verjüngungsforschung", "type": "election programm", "election": "BTW 2025", "source": "https://verjuengungsforschung.de/wahlprogramm-fuer-die-bundestagswahl-2025"}
 
-Wahlprogramm der Partei für Verjüngungsforschung für die Bundestagswahl 2025
+# Wahlprogramm der Partei für Verjüngungsforschung für die Bundestagswahl 2025
 
 Wir treten bei der Bundestagswahl an, um uns für die schnellere Entwicklung von Verjüngungstherapien einzusetzen, die die Schäden des Alterns reparieren und mit denen Menschen tausende Jahre gesund leben können.
 Alterskrankheiten und der altersbedingte Tod wären damit kein unausweichliches Schicksal mehr.

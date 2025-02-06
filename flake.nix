@@ -14,20 +14,30 @@
     }:
     flake-utils.lib.eachDefaultSystem (
       system:
+      with builtins;
       let
         pkgs = import nixpkgs { inherit system; };
         lib = pkgs.lib;
         parseProgramFile = path: 
           let
-            content = builtins.readFile path;
+            repeat = element: n: if n <= 0 then [] else [element] ++ (repeat element (n - 1));
+            withArticles = name: [
+              "Die ${name}"
+              "die ${name}"
+              "Das ${name}"
+              "das ${name}"
+              name
+            ];
+            content = readFile path;
             lines = lib.splitString "\n" content;
             metadata = lines
-              |> builtins.head
-              |> builtins.fromJSON
+              |> head
+              |> fromJSON
               ;
-            phrases = builtins.tail lines
-              |> builtins.map (l: lib.trim l)
-              |> builtins.filter (l: l != "")
+            phrases = tail lines
+              |> map (l: lib.trim l)
+              |> filter (l: l != "" && ! lib.hasPrefix "# " l)
+              |> map (replaceStrings (withArticles metadata.party) (repeat "[Parteiname]" 5))
               ;
           in
             metadata // { inherit phrases;};
@@ -47,7 +57,7 @@
             };
           data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources
             |> map parseProgramFile
-            |> builtins.toJSON
+            |> toJSON
           );
         };
 

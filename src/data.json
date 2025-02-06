@@ -1,0 +1,21 @@
+[
+    {
+        "party": "TEST PARTEI 1",
+        "type": "election program",
+        "election": "BTW 2025",
+        "source": "https://obercoolepartei.example.com/wahlprogramm-zur-bundestagswahl2025.pdf",
+        "phrases": [ "Wir wollen forderung A.", "Andere Parteien sehen das anders."]
+    },
+    {
+        "party": "TEST PARTEI 1",
+        "type": "party platform",
+        "source": "https://obercoolepartei.example.com/wiki/grundsatzprogram",
+        "phrases": [ "Detailierte Aussage zu wirtschaftspolitik"]
+    },
+    {
+        "party": "TEST PARTEI 1",
+        "type": "mission statement",
+        "source": "https://obercoolepartei.example.com/leitbild",
+        "phrases": [ "Unsere Werte leiten sich aus der Phylosophie von PHILOSOPH B ab", "Wir stehen für [POLITISCHER WERT]"]
+    }
+]

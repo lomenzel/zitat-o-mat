@@ -156,7 +156,6 @@
                 "b": 15
             }
         ]
-
     },
     "SPD": {
         "wikipedia": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
@@ -173,7 +172,6 @@
                 "b": 15
             }
         ]
-
     },
     "PDH": {
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_der_Humanisten",
@@ -195,6 +193,21 @@
                 "b": 248
             }
         ]
-
+    },
+    "PIRATEN": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland",
+        "website": "https://www.piratenpartei.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland#/media/Datei:Piratenpartei_deutschland_logo.svg"
+        },
+        "full-name": "Piratenpartei Deutschland",
+        "short-name": "Piraten",
+        "colors": [
+            {
+                "r": 255,
+                "g": 135,
+                "b": 0
+            }
+        ]
     }
 }

@@ -1,4 +1,4 @@
-{ "party": "Die Linke", "type": "election programm", "election": "BTW 2025", "source": "https://www.die-linke.de/bundestagswahl-2025/wahlprogramm"}
+# https://www.die-linke.de/bundestagswahl-2025/wahlprogramm
 
 
 Alle wollen regieren. Wir wollen verändern. Reichtum teilen. Preise senken. Füreinander.

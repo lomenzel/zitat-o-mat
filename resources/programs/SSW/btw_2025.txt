@@ -1,4 +1,4 @@
-{ "party": "SSW", "type": "election programm", "election": "BTW 2025", "source": "https://www.ssw.de/fileadmin/user_upload/daten/aktuelles/2025/BTW25/SSW-Wahlprogramm_BTW_2025.pdf"}
+# https://www.ssw.de/fileadmin/user_upload/daten/aktuelles/2025/BTW25/SSW-Wahlprogramm_BTW_2025.pdf"
 
 Wir wussten, dass viele Entscheidungen in Berlin über unsere Köpfe hinweg getroffen und wir zu oft vergessen werden
 Deshalb haben wir gesagt: Wir bringen die Anliegen unserer Heimat auf die große Bühne!

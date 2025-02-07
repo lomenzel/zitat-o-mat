@@ -1,4 +1,4 @@
-{ "party": "Bündnis 90/Die Grünen", "type": "election programm", "election": "BTW 2025", "source": "https://cms.gruene.de/uploads/assets/20250205_Regierungsprogramm_DIGITAL_DINA5.pdf"}
+# https://cms.gruene.de/uploads/assets/20250205_Regierungsprogramm_DIGITAL_DINA5.pdf
 
 # Kapitel 1
 

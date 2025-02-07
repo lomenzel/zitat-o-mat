@@ -38,5 +38,20 @@
                 "b": 255
             }
         ]
+    },
+    "Die Linke": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Die_Linke",
+        "website": "https://die-linke.de",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Die_Linke#/media/Datei:Logo_Die_Linke_(2023).svg"
+        },
+        "full-name": "Die Linke",
+        "colors": [
+            {
+                "r": 227,
+                "g": 0,
+                "b": 15
+            }
+        ]
     }
 }

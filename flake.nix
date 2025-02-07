@@ -67,7 +67,7 @@
             pname = "btw-quizz";
             inherit version;
             src = srcWithData;
-            npmDepsHash = "sha256-RBL5/BJtz04cgAFrRfBdTqe6nZ0Yi3LfjH5PHHx2Wkg=";
+            npmDepsHash = "sha256-JxBrO7BSif/9sqzCYEPSnUi8/kWzUw+V41ygetvm0vs=";
             installPhase = ''
               mkdir -p $out
               cp -r dist/* $out

@@ -53,5 +53,20 @@
                 "b": 15
             }
         ]
+    },
+    "MENSCHLICHE WELT": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Menschliche_Welt",
+        "website": "https://www.menschlichewelt.de/",
+        "logo": {
+            "png": "https://de.wikipedia.org/wiki/Menschliche_Welt#/media/Datei:Logo_von_MENSCHLICHE_WELT.png"
+        },
+        "full-name": "Menschliche Welt – für das Wohl und Glücklichsein aller",
+        "colors": [
+            {
+                "r": 238,
+                "g": 101,
+                "b": 0
+            }
+        ]
     }
 }

@@ -1,4 +1,4 @@
-{ "party": "Verjüngungsforschung", "type": "election programm", "election": "BTW 2025", "source": "https://verjuengungsforschung.de/wahlprogramm-fuer-die-bundestagswahl-2025"}
+# https://verjuengungsforschung.de/wahlprogramm-fuer-die-bundestagswahl-2025"
 
 # Wahlprogramm der Partei für Verjüngungsforschung für die Bundestagswahl 2025
 

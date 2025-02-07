@@ -140,13 +140,12 @@
                 "b": 3
             }
         ]
-
     },
     "OEDP": {
         "wikipedia": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei",
         "website": "https://www.oedp.de",
         "logo": {
-            "jpg": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei#/media/Datei:OEDP_Logo_CMYK.svg"
+            "svg": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei#/media/Datei:OEDP_Logo_CMYK.svg"
         },
         "full-name": "Ökologisch-Demokratische Partei",
         "short-name": "ÖDP",
@@ -154,6 +153,22 @@
             {
                 "r": 243,
                 "g": 102,
+                "b": 15
+            }
+        ]
+    },
+    "SPD": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
+        "website": "https://www.spd.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands#/media/Datei:SPD-Logo_2022_(rot).svg"
+        },
+        "full-name": "Sozialdemokratische Partei Deutschlands",
+        "short-name": "SPD",
+        "colors": [
+            {
+                "r": 227,
+                "g": 0,
                 "b": 15
             }
         ]

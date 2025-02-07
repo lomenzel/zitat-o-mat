@@ -113,5 +113,17 @@
                 "b": 0
             }
         ]
+    },
+    "Partei für Verjüngungsforschung": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Verj%C3%BCngungsforschung",
+        "website": "https://verjuengungsforschung.de/",
+        "logo": {
+            "jpg": "https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Verj%C3%BCngungsforschung#/media/Datei:NeuesParteilogo-1.jpg"
+        },
+        "full-name": "Partei für Verjüngungsforschung",
+        "colors": [
+            {"r": 100, "g": 152,"b": 114},
+            {"r": 199, "g": 0, "b": 3}
+        ]
     }
 }

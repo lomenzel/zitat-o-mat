@@ -68,7 +68,7 @@ watch(
         class="flex flex-col items-center justify-center w-full rounded-xl shadow-lg bg-brand-900 px-10 py-8 gap-6 border-black border">
         <div class="flex items-center justify-between w-full">
             <span class="text-sm uppercase">Frage {{ gameStore.currentQuestion?.index }}</span>
-            <button>
+            <button class="cursor-pointer" @click="gameStore.nextQuestion">
                 <RedoDot :size="18" />
             </button>
         </div>

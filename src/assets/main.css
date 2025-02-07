@@ -34,4 +34,6 @@
    animations can be calculated correctly. */
 .list-leave-active {
     position: absolute;
+    visibility: hidden;
+    display: none;
 }

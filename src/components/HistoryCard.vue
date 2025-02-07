@@ -1,10 +1,12 @@
 <script lang="ts" setup>
-import { type Question } from '@/stores/game';
+import { useGameStore, type Question } from '@/stores/game';
 import { Trash } from 'lucide-vue-next';
 
 const props = defineProps<{
     question: Question
 }>()
+
+const gameStore = useGameStore()
 </script>
 
 <template>
@@ -19,7 +21,7 @@ const props = defineProps<{
                 <div class="bg-brand-200 rounded-full h-1 w-1"></div>
                 <span>{{ props.question.answer === props.question.correct ? "Richtig" : "Falsch" }} beantwortet</span>
             </div>
-            <button>
+            <button @click="gameStore.removeQuestionFromHistory(props.question.index)" class="cursor-pointer">
                 <Trash :size="16" />
             </button>
         </div>

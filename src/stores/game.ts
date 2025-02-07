@@ -107,10 +107,9 @@ export const useGameStore = defineStore('game', () => {
         currentIndex.value = 0
     }
 
-    function getContext() {
-        // Get the 2 sentences before and after the senctenceindex
-
-        return context
+    function removeQuestionFromHistory(index: number) {
+        answeredQuestions.value = answeredQuestions.value.filter(q => q.index !== index)
+        saveState({ answeredQuestions: answeredQuestions.value, index: currentIndex.value })
     }
 
     return {
@@ -122,7 +121,8 @@ export const useGameStore = defineStore('game', () => {
         loadManifesto,
         startGame,
         nextQuestion,
-        answerQuestion
+        answerQuestion,
+        removeQuestionFromHistory
     }
 })
 

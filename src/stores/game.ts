@@ -49,7 +49,7 @@ export const useGameStore = defineStore('game', () => {
 
     const loadManifesto = async () => {
         loading.value = true
-        const response = await fetch('/result.json')
+        const response = await fetch('/data.json')
         data.value = await response.json()
         loading.value = false
     }

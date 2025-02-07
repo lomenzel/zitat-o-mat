@@ -1,4 +1,4 @@
-{ "party": "Menschliche Welt", "type": "election programm", "election": "BTW 2025", "source": "https://www.menschlichewelt.de/wahlprogramm"}
+# https://www.menschlichewelt.de/wahlprogramm"
 
 MENSCHLICHE WELT setzt sich für eine Friedenspolitik der Verständigung und der Verhandlungen ein – anstatt des Wettrüstens und der militärischen Konfrontation
 Friedenspolitik bedeutet grundlegend die Einhaltung der UN-Charta und des Verbots des Angriffskrieges

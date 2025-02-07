@@ -1,4 +1,4 @@
-{ "party": "AfD", "type": "election programm", "election": "BTW 2025", "source": "https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf"}
+# https://www.afd.de/wp-content/uploads/2025/02/AfD_Bundestagswahlprogramm2025_web.pdf"
 
 Wir stehen fest zu den Prinzipien der Sozialen Marktwirtschaft, die seit Jahrzehnten Wohlstand und sozialen Frieden in unserem Land sichern.
 Wir wollen in einer Zeit globaler Herausforderungen die Grundwerte unserer Wirtschaftsordnung bewahren und so weiterentwickeln, dass wir eine freiheitliche und erfolgreiche Gesellschaft gewährleisten, in der die Bürger ihr Leben eigenverantwortlich und selbstbestimmt führen können.

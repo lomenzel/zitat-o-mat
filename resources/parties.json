@@ -173,5 +173,28 @@
                 "b": 15
             }
         ]
+
+    },
+    "PDH": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Partei_der_Humanisten",
+        "website": "https://www.pdh.eu/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Partei_der_Humanisten#/media/Datei:PdH_Logo_B_RGB.svg"
+        },
+        "full-name": "Partei der Humanisten",
+        "short-name": "PdH",
+        "colors": [
+            {
+                "r": 238,
+                "g": 26,
+                "b": 88
+            },
+            {
+                "r": 0,
+                "g": 214,
+                "b": 248
+            }
+        ]
+
     }
 }

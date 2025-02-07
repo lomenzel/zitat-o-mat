@@ -18,6 +18,7 @@
       let
         pkgs = import nixpkgs { inherit system; };
         lib = pkgs.lib;
+        parties = readFile ./resources/parties.json |> fromJSON;
         parseProgramFile = path: 
           let
             repeat = element: n: if n <= 0 then [] else [element] ++ (repeat element (n - 1));
@@ -30,17 +31,42 @@
             ];
             content = readFile path;
             lines = lib.splitString "\n" content;
-            metadata = lines
+            source = lines
               |> head
-              |> fromJSON
+              |> lib.splitString " "
+              |> (e: elemAt e 1)
               ;
             phrases = tail lines
               |> map (l: lib.trim l)
               |> filter (l: l != "" && ! lib.hasPrefix "# " l)
-              |> map (replaceStrings (withArticles metadata.party) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles party) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles parties.${party}.full-name) (repeat "[Parteiname]" 5))
+              ;
+            
+            fileName = (lib.path.splitRoot path).subpath 
+              |> lib.path.subpath.components
+              |> lib.last
+              ;
+
+            election = fileName
+              |> lib.splitString "."
+              |> head
+              ;
+
+            type = if election == "mission_statement" || election == "party_platform" then 
+              election else "election";
+
+            metadata = if type == "election" then
+              {inherit election type;} else
+              {inherit type;};
+
+            party = (lib.path.splitRoot path).subpath 
+              |> lib.path.subpath.components
+              |> lib.init
+              |> lib.last
               ;
           in
-            metadata // { inherit phrases;};
+            {party = parties.${party} // {short-name = party;};} // { inherit phrases source; } // metadata;
       in
       {
         packages = rec {
@@ -56,7 +82,7 @@
                 cp -f ${data} $out/data.json
               '';
             };
-          data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources
+          data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources/programs
             |> map parseProgramFile
             |> toJSON
           );

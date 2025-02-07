@@ -1,0 +1,17 @@
+{
+    "Grüne": {
+        "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen",
+        "website": "https://www.gruene.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen#/media/Datei:B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo_(transparent).svg"
+        },
+        "full-name": "Bündnis 90/Die Grünen",
+        "colors": [
+            {
+                "r": 26,
+                "g": 160,
+                "b": 55
+            }
+        ]
+    }
+}

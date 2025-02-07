@@ -67,6 +67,36 @@
               ;
           in
             {party = parties.${party} // {short-name = party;};} // { inherit phrases source; } // metadata;
+
+          data = lib.filesystem.listFilesRecursive ./resources/programs
+            |> map parseProgramFile
+            ;
+
+          mission_statements = data
+            |> filter (e: e.type == "mission_statement")
+            |> toJSON
+            |> pkgs.writeText "mission_statements.json"
+            ;
+
+          party_platforms = data
+            |> filter (e: e.type == "party_platform")
+            |> toJSON
+            |> pkgs.writeText "party_platforms.json"
+            ;
+
+          byElection = election: data
+            |> filter (e: e.type == "election")
+            |> filter (e: e.election == election)
+            |> toJSON
+            |> pkgs.writeText "${election}.json"
+            ;
+
+          elections = data
+            |> filter (e: e.type == "election")
+            |> map (e: e.election)
+            |> lib.lists.unique
+            ;
+
       in
       {
         packages = rec {
@@ -79,13 +109,27 @@
               installPhase = ''
                 mkdir -p $out
                 cp -r $src/* $out/
-                cp -f ${data} $out/data.json
+                cp -rf ${dataDir}/* $out/
               '';
             };
-          data = pkgs.writeText "data.json" (lib.filesystem.listFilesRecursive ./resources/programs
-            |> map parseProgramFile
-            |> toJSON
-          );
+          dataDir = pkgs.stdenv.mkDerivation
+            {
+              pname = "data-directory";
+              version = "btw-2025";
+              src = ./.;
+              installPhase =
+                let
+                  toElectionCopyString = election:
+                    "cp ${byElection election} $out/election/${election}.json";
+                in ''
+                  mkdir -p $out/election
+                  cp ${mission_statements} $out/mission_statements.json
+                  cp ${party_platforms} $out/party_platforms.json
+                  ${map toElectionCopyString elections |> foldl' (acc: curr: acc + "\n" + curr) ""}
+                  cp ${elections |> toJSON |> pkgs.writeText "elections.json"} $out/elections.json
+                '';
+            };
+          
         };
 
         devShell = pkgs.mkShell

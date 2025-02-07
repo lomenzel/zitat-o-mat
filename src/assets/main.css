@@ -1,1 +1,37 @@
 @import "tailwindcss";
+
+@theme {
+    --color-brand-50: #f6f6f6;
+    --color-brand-100: #e7e7e7;
+    --color-brand-200: #d1d1d1;
+    --color-brand-300: #b0b0b0;
+    --color-brand-400: #888888;
+    --color-brand-500: #6d6d6d;
+    --color-brand-600: #5d5d5d;
+    --color-brand-700: #4f4f4f;
+    --color-brand-800: #303030;
+    --color-brand-900: #1f1f1f;
+    --color-brand-950: #161616;
+
+    --color-correct: #2a3727;
+    --color-wrong: #372727;
+}
+
+.list-move,
+/* apply transition to moving elements */
+.list-enter-active,
+.list-leave-active {
+    transition: all 0.5s ease;
+}
+
+.list-enter-from,
+.list-leave-to {
+    opacity: 0;
+    transform: translateY(-30px);
+}
+
+/* ensure leaving items are taken out of layout flow so that moving
+   animations can be calculated correctly. */
+.list-leave-active {
+    position: absolute;
+}

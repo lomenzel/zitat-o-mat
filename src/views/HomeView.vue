@@ -1,25 +1,24 @@
 <script setup lang="ts">
+import QuestionCard from '@/components/QuestionCard.vue';
+import HistoryCard from '@/components/HistoryCard.vue';
 import { useGameStore } from '@/stores/game';
 import { onMounted } from 'vue';
 
 const gameStore = useGameStore()
 
-onMounted(() => {
-  gameStore.loadManifesto()
+onMounted(async () => {
+  await gameStore.loadManifesto()
+  gameStore.startGame()
 })
 </script>
 
 <template>
-  <main>
-    <button v-if="!gameStore.currentQuestion" @click="gameStore.startGame" class="p-3 bg-amber-200 cursor-pointer">Spiel
-      starten!</button>
-    <div v-if="gameStore.currentQuestion">
-      <h2>{{ gameStore.currentQuestion.sentence }}</h2>
-      <ul>
-        <li v-for="option in gameStore.currentQuestion.options" :key="option">
-          <button @click="gameStore.answerQuestion(option)">{{ option }}</button>
-        </li>
-      </ul>
+  <main class="max-w-4xl w-full">
+    <QuestionCard />
+    <div class="mt-20 flex flex-col gap-6">
+      <TransitionGroup name="list">
+        <HistoryCard v-for="question in gameStore.answeredQuestions" :question="question" :key="question.index" />
+      </TransitionGroup>
     </div>
   </main>
 </template>

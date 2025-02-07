@@ -1,7 +1,7 @@
-import { ref, computed, watch } from 'vue'
+import { ref, computed } from 'vue'
 import { defineStore } from 'pinia'
 
-interface Manifesto {
+export interface Manifesto {
     party: string
     type: string,
     election: string,
@@ -9,24 +9,29 @@ interface Manifesto {
     phrases: string[]
 }
 
-interface Question {
+export interface Question {
     index: number,
     sentence: string,
     sentenceIndex: number,
     options: string[]
     correct: string
-    answer: string
+    answer: string,
+    context?: string[]
 }
 
-const saveState = (answeredQuestions: Question[]) => {
-    const state = { answeredQuestions: answeredQuestions }
-    localStorage.setItem('state', JSON.stringify(state))
+export interface GameState {
+    answeredQuestions: Question[],
+    index: number
+}
+
+const saveState = (gamestate: GameState) => {
+    localStorage.setItem('state', JSON.stringify(gamestate))
 }
 
 const loadState = () => {
     const state = localStorage.getItem('state')
     if (state) {
-        return JSON.parse(state).answeredQuestions
+        return JSON.parse(state)
     } else {
         return []
     }
@@ -37,13 +42,10 @@ export const useGameStore = defineStore('game', () => {
 
     const data = ref<Manifesto[]>([])
     const currentQuestion = ref<Question | null>(null)
-    const answeredQuestions = ref<Question[]>(loadState())
+    const answeredQuestions = ref<Question[]>(loadState().answeredQuestions || [])
+    const currentIndex = ref(loadState().index || 0)
 
     const score = computed(() => answeredQuestions.value.filter(q => q.answer === q.correct).length)
-
-    watch(answeredQuestions, (newValue) => {
-        saveState(newValue)
-    })
 
     const loadManifesto = async () => {
         loading.value = true
@@ -53,7 +55,6 @@ export const useGameStore = defineStore('game', () => {
     }
 
     function startGame() {
-        console.log('Starting game')
         nextQuestion()
     }
 
@@ -62,6 +63,11 @@ export const useGameStore = defineStore('game', () => {
         const manifesto = data.value[Math.floor(Math.random() * data.value.length)]
         const sentenceIndex = Math.floor(Math.random() * manifesto.phrases.length)
         const sentence = manifesto.phrases[sentenceIndex]
+
+        if (answeredQuestions.value.some(q => q.sentence === sentence && q.sentenceIndex === sentenceIndex && q.correct === manifesto.party)) {
+            nextQuestion()
+            return
+        }
 
         let options = data.value
             .filter(m => m.party !== manifesto.party)
@@ -74,16 +80,37 @@ export const useGameStore = defineStore('game', () => {
         options.push(manifesto.party)
         options = options.sort(() => 0.5 - Math.random())
 
+        const index = sentenceIndex
+        const sentences = manifesto.phrases
+        const start = Math.max(0, index - 2)
+        const end = Math.min(sentences?.length || 0, index + 3)
+        const context = sentences?.slice(start, end)
+
         const correct = manifesto.party
         const answer = ''
-        currentQuestion.value = { index: answeredQuestions.value.length, sentence, sentenceIndex, options, correct, answer }
+        currentQuestion.value = { index: ++currentIndex.value, sentence, sentenceIndex, options, correct, answer, context }
     }
 
-    const answerQuestion = (answer: string) => {
-        if (!currentQuestion.value) return
+    const answerQuestion = async (answer: string) => {
+        if (!currentQuestion.value || currentQuestion.value.answer) return
         currentQuestion.value.answer = answer
-        answeredQuestions.value.push(currentQuestion.value)
+        // Insert the current question to the start of the answeredQuestions array
+        answeredQuestions.value = [currentQuestion.value, ...answeredQuestions.value]
+        saveState({ answeredQuestions: answeredQuestions.value, index: currentIndex.value })
+        await sleep(1000)
         nextQuestion()
+    }
+
+    const deleteState = () => {
+        localStorage.removeItem('state')
+        answeredQuestions.value = []
+        currentIndex.value = 0
+    }
+
+    function getContext() {
+        // Get the 2 sentences before and after the senctenceindex
+
+        return context
     }
 
     return {
@@ -98,3 +125,7 @@ export const useGameStore = defineStore('game', () => {
         answerQuestion
     }
 })
+
+async function sleep(ms: number) {
+    return new Promise(resolve => setTimeout(resolve, ms))
+}

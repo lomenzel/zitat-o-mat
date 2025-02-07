@@ -66,7 +66,7 @@
               |> lib.last
               ;
           in
-            {party = parties.${party} // {short-name = party;};} // { inherit phrases source; } // metadata;
+            {party = parties.${party};} // { inherit phrases source; } // metadata;
 
           data = lib.filesystem.listFilesRecursive ./resources/programs
             |> map parseProgramFile

@@ -1,4 +1,4 @@
-{ "party": "ÖDP", "type": "election programm", "election": "BTW 2025", "source": "https://www.oedp.de/fileadmin/user_upload/01-instanzen/00/programm/programme/OEDPWahlprogrammBundestagswahl2025.pdf"}
+# https://www.oedp.de/fileadmin/user_upload/01-instanzen/00/programm/programme/OEDPWahlprogrammBundestagswahl2025.pdf
 
 
 Mit Ihnen & Dir für ein gerechtes Wir.

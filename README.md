@@ -54,7 +54,7 @@ nix build
 wenn man nur die data.json mit echten daten möchte
 
 ```bash
-nix build .\#data
+nix build .\#dataDir
 ```
 
 das ergebnis des builds ist in `./result`

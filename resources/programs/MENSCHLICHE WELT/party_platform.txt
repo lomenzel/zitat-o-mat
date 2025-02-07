@@ -1,4 +1,4 @@
-{ "party": "Menschliche Welt", "type": "party platform", "source": "https://www.menschlichewelt.de/grundsatzprogramm"}
+# https://www.menschlichewelt.de/grundsatzprogramm"
 
 
 Wir laden dich ein, gemeinsam eine menschliche Welt zu erschaffen

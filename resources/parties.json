@@ -156,6 +156,7 @@
                 "b": 15
             }
         ]
+
     },
     "SPD": {
         "wikipedia": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
@@ -172,6 +173,7 @@
                 "b": 15
             }
         ]
+
     },
     "PDH": {
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_der_Humanisten",
@@ -193,5 +195,6 @@
                 "b": 248
             }
         ]
+
     }
 }

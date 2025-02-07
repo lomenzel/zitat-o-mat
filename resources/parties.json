@@ -77,9 +77,41 @@
         },
         "full-name": "Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",
         "colors": [
-           { "r": 182, "g": 28,"b": 49 },
-           { "r": 0, "g": 0,"b": 0},
-           { "r": 255, "g": 255,"b": 255}
+            {
+                "r": 182,
+                "g": 28,
+                "b": 49
+            },
+            {
+                "r": 0,
+                "g": 0,
+                "b": 0
+            },
+            {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            }
+        ]
+    },
+    "SSW": {
+        "wikipedia": "https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband",
+        "website": "https://www.ssw.de",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband#/media/Datei:S%C3%BCdschleswigscher_W%C3%A4hlerverband,_Logo.svg"
+        },
+        "full-name": "Südschleswigscher Wählerverband",
+        "colors": [
+            {
+                "r": 0,
+                "g": 57,
+                "b": 143
+            },
+            {
+                "r": 253,
+                "g": 204,
+                "b": 0
+            }
         ]
     }
 }

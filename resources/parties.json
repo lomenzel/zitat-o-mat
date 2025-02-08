@@ -156,7 +156,6 @@
                 "b": 15
             }
         ]
-
     },
     "SPD": {
         "wikipedia": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands",
@@ -173,7 +172,6 @@
                 "b": 15
             }
         ]
-
     },
     "PDH": {
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_der_Humanisten",
@@ -195,6 +193,32 @@
                 "b": 248
             }
         ]
-
+    },
+    "BUENDNIS_C": {
+        "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_C_%E2%80%93_Christen_f%C3%BCr_Deutschland",
+        "website": "https://buendnis-c.de/",
+        "logo": {
+            "jpg": "https://buendnis-c.de/wp-content/uploads/2023/11/BC-Logo-kurz_cmyk_2023.jpg",
+            "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_der_Partei_B%C3%BCndnis_C_-_Christen_f%C3%BCr_Deutschland.svg/250px-Logo_der_Partei_B%C3%BCndnis_C_-_Christen_f%C3%BCr_Deutschland.svg.png"
+        },
+        "full-name": "Bündnis C – Christen für Deutschland",
+        "short-name": "Bündnis C",
+        "colors": [
+            {
+                "r": 0,
+                "g": 77,
+                "b": 255
+            },
+            {
+                "r": 140,
+                "g": 198,
+                "b": 63
+            },
+            {
+                "r": 236,
+                "g": 0,
+                "b": 140
+            }
+        ]
     }
 }

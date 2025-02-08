@@ -105,7 +105,7 @@
             in
            rec {
           default = btw-quizz;
-             srcWithData = pkgs.stdenv.mkDerivation {
+          srcWithData = pkgs.stdenv.mkDerivation {
             pname = "quizz-src";
             inherit version;
             src = ./.; 
@@ -115,28 +115,7 @@
               cp -fr ${dataDir}/* $out/public/
             '';
           };
-          btw-quizz = pkgs.buildNpmPackage rec {
-            pname = "btw-quizz";
-            inherit version;
-            src = srcWithData;
-            npmDepsHash = "sha256-RBL5/BJtz04cgAFrRfBdTqe6nZ0Yi3LfjH5PHHx2Wkg=";
-            installPhase = ''
-              mkdir -p $out
-              cp -r dist/* $out
-            '';
-          };
-          dataDir = pkgs.stdenv.mkDerivation
-          
-          srcWithData = pkgs.stdenv.mkDerivation {
-            pname = "quizz-src";
-            inherit version;
-            src = ./.; 
-            installPhase = ''
-              mkdir -p $out/public
-              cp -r $src/* $out
-              cp ${data} $out/public/data.json
-            '';
-          };
+
           btw-quizz = pkgs.buildNpmPackage rec {
             pname = "btw-quizz";
             inherit version;

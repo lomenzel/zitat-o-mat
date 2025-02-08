@@ -45,6 +45,9 @@
               |> map (replaceStrings (withArticles parties.${party}.full_name) (repeat "[Parteiname]" 5))
               |> map (replaceStrings (withArticles (lib.toUpper parties.${party}.full_name)) (repeat "[Parteiname]" 5))
               |> map (replaceStrings (withArticles (lib.toUpper parties.${party}.short_name)) (repeat "[Parteiname]" 5))
+              |> (p: if hasAttr "alias" parties.${party} then foldl' (acc: curr:
+                map (replaceStrings (withArticles curr) (repeat "[Parteiname]" 5)) acc
+              ) p parties.${party}.alias else p)
 
               # Satzzeichen
               |> map (lib.removeSuffix ".")

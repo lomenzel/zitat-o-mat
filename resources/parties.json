@@ -220,5 +220,48 @@
                 "b": 140
             }
         ]
+    },
+    "BSW": {
+        "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_Sahra_Wagenknecht",
+        "website": "https://bsw-vg.de/",
+        "logo": {
+            "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/B%C3%BCndnis_Sahra_Wagenknecht_logo_2.svg/300px-B%C3%BCndnis_Sahra_Wagenknecht_logo_2.svg.png",
+            "svg": "https://bsw-vg.de/wp-content/themes/bsw/assets/bsw-logo_quer.svg"
+        },
+        "full-name": "Bündnis Sahra Wagenknecht",
+        "short-name": "BSW",
+        "colors": [
+            {
+                "r": 239,
+                "g": 122,
+                "b": 0
+            },
+            {
+                "r": 249,
+                "g": 172,
+                "b": 0
+            }
+        ]
+    },
+    "BAYERNPARTEI": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Bayernpartei",
+        "website": "https://bayernpartei.de/",
+        "logo": {
+            "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayernpartei_Logo.svg/180px-Bayernpartei_Logo.svg.png"
+        },
+        "full-name": "Bayernpartei",
+        "short-name": "BP",
+        "colors": [
+            {
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            {
+                "r": 152,
+                "g": 245,
+                "b": 255
+            }
+        ]
     }
 }

@@ -32,3 +32,5 @@ coverage
 public/result.json
 
 result
+
+public/**/*.json

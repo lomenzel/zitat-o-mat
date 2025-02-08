@@ -40,7 +40,7 @@
               |> map (l: lib.trim l)
               |> filter (l: l != "" && ! lib.hasPrefix "# " l)
               |> map (replaceStrings (withArticles party) (repeat "[Parteiname]" 5))
-              |> map (replaceStrings (withArticles parties.${party}.full-name) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles parties.${party}.full_name) (repeat "[Parteiname]" 5))
               ;
             
             fileName = (lib.path.splitRoot path).subpath 
@@ -99,20 +99,34 @@
 
       in
       {
-        packages = rec {
+        packages =
+            let
+              version = "0.0.1-vue-beta";
+            in
+           rec {
           default = btw-quizz;
-          btw-quizz = pkgs.stdenv.mkDerivation
-            {
-              pname = "btw-quizz";
-              version = "0.1";
-              src = ./src;
-              installPhase = ''
-                mkdir -p $out
-                cp -r $src/* $out/
-                cp -rf ${dataDir}/* $out/
-              '';
-            };
-          dataDir = pkgs.stdenv.mkDerivation
+          srcWithData = pkgs.stdenv.mkDerivation {
+            pname = "quizz-src";
+            inherit version;
+            src = ./.; 
+            installPhase = ''
+              mkdir -p $out/public
+              cp -r $src/* $out
+              cp -fr ${dataDir}/* $out/public/
+            '';
+          };
+
+          btw-quizz = pkgs.buildNpmPackage rec {
+            pname = "btw-quizz";
+            inherit version;
+            src = srcWithData;
+            npmDepsHash = "sha256-JxBrO7BSif/9sqzCYEPSnUi8/kWzUw+V41ygetvm0vs=";
+            installPhase = ''
+              mkdir -p $out
+              cp -r dist/* $out
+            '';
+          };
+        dataDir = pkgs.stdenv.mkDerivation
             {
               pname = "data-directory";
               version = "btw-2025";
@@ -129,13 +143,20 @@
                   cp ${elections |> toJSON |> pkgs.writeText "elections.json"} $out/elections.json
                 '';
             };
-          
         };
 
         devShell = pkgs.mkShell
           {
             nativeBuildInputs = with pkgs; [
               nodejs
+              (vscode-with-extensions.override {
+                vscodeExtensions = with pkgs.vscode-extensions; [
+                  jnoortheen.nix-ide
+                  vue.volar
+                ];
+                vscode = vscodium;
+              })
+
             ];
           };
       }

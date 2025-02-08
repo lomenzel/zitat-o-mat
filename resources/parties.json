@@ -5,8 +5,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen#/media/Datei:B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo_(transparent).svg"
         },
-        "full-name": "Bündnis 90/Die Grünen",
-        "short-name": "Grüne",
+        "full_name": "Bündnis 90/Die Grünen",
+        "short_name": "Grüne",
         "colors": [
             {
                 "r": 26,
@@ -21,8 +21,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland#/media/Datei:AfD_Logo_2021.svg"
         },
-        "full-name": "Alternative für Deutschland",
-        "short-name": "AfD",
+        "full_name": "Alternative für Deutschland",
+        "short_name": "AfD",
         "colors": [
             {
                 "r": 0,
@@ -47,8 +47,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Die_Linke#/media/Datei:Logo_Die_Linke_(2023).svg"
         },
-        "full-name": "Die Linke",
-        "short-name": "Die Linke",
+        "full_name": "Die Linke",
+        "short_name": "Die Linke",
         "colors": [
             {
                 "r": 227,
@@ -63,8 +63,8 @@
         "logo": {
             "png": "https://de.wikipedia.org/wiki/Menschliche_Welt#/media/Datei:Logo_von_MENSCHLICHE_WELT.png"
         },
-        "full-name": "Menschliche Welt – für das Wohl und Glücklichsein aller",
-        "short-name": "MENSCHLICHE WELT",
+        "full_name": "Menschliche Welt – für das Wohl und Glücklichsein aller",
+        "short_name": "MENSCHLICHE WELT",
         "colors": [
             {
                 "r": 238,
@@ -79,8 +79,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Die_PARTEI#/media/Datei:Die_PARTEI_Logo_Blur_Schatten_Vektor_V2.svg"
         },
-        "full-name": "Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",
-        "short-name": "Die Partei",
+        "full_name": "Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",
+        "short_name": "Die Partei",
         "colors": [
             {
                 "r": 182,
@@ -105,8 +105,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband#/media/Datei:S%C3%BCdschleswigscher_W%C3%A4hlerverband,_Logo.svg"
         },
-        "full-name": "Südschleswigscher Wählerverband",
-        "short-name": "SSW",
+        "full_name": "Südschleswigscher Wählerverband",
+        "short_name": "SSW",
         "colors": [
             {
                 "r": 0,
@@ -126,8 +126,8 @@
         "logo": {
             "jpg": "https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Verj%C3%BCngungsforschung#/media/Datei:NeuesParteilogo-1.jpg"
         },
-        "full-name": "Partei für Verjüngungsforschung",
-        "short-name": "Partei für Verjüngungsforschung",
+        "full_name": "Partei für Verjüngungsforschung",
+        "short_name": "Partei für Verjüngungsforschung",
         "colors": [
             {
                 "r": 100,
@@ -147,8 +147,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei#/media/Datei:OEDP_Logo_CMYK.svg"
         },
-        "full-name": "Ökologisch-Demokratische Partei",
-        "short-name": "ÖDP",
+        "full_name": "Ökologisch-Demokratische Partei",
+        "short_name": "ÖDP",
         "colors": [
             {
                 "r": 243,
@@ -163,8 +163,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands#/media/Datei:SPD-Logo_2022_(rot).svg"
         },
-        "full-name": "Sozialdemokratische Partei Deutschlands",
-        "short-name": "SPD",
+        "full_name": "Sozialdemokratische Partei Deutschlands",
+        "short_name": "SPD",
         "colors": [
             {
                 "r": 227,
@@ -179,8 +179,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Partei_der_Humanisten#/media/Datei:PdH_Logo_B_RGB.svg"
         },
-        "full-name": "Partei der Humanisten",
-        "short-name": "PdH",
+        "full_name": "Partei der Humanisten",
+        "short_name": "PdH",
         "colors": [
             {
                 "r": 238,
@@ -194,7 +194,6 @@
             }
         ]
     },
-
     "BUENDNIS_C": {
         "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_C_%E2%80%93_Christen_f%C3%BCr_Deutschland",
         "website": "https://buendnis-c.de/",
@@ -202,8 +201,8 @@
             "jpg": "https://buendnis-c.de/wp-content/uploads/2023/11/BC-Logo-kurz_cmyk_2023.jpg",
             "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_der_Partei_B%C3%BCndnis_C_-_Christen_f%C3%BCr_Deutschland.svg/250px-Logo_der_Partei_B%C3%BCndnis_C_-_Christen_f%C3%BCr_Deutschland.svg.png"
         },
-        "full-name": "Bündnis C – Christen für Deutschland",
-        "short-name": "Bündnis C",
+        "full_name": "Bündnis C – Christen für Deutschland",
+        "short_name": "Bündnis C",
         "colors": [
             {
                 "r": 0,
@@ -229,8 +228,8 @@
             "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/B%C3%BCndnis_Sahra_Wagenknecht_logo_2.svg/300px-B%C3%BCndnis_Sahra_Wagenknecht_logo_2.svg.png",
             "svg": "https://bsw-vg.de/wp-content/themes/bsw/assets/bsw-logo_quer.svg"
         },
-        "full-name": "Bündnis Sahra Wagenknecht",
-        "short-name": "BSW",
+        "full_name": "Bündnis Sahra Wagenknecht",
+        "short_name": "BSW",
         "colors": [
             {
                 "r": 239,
@@ -250,8 +249,8 @@
         "logo": {
             "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bayernpartei_Logo.svg/180px-Bayernpartei_Logo.svg.png"
         },
-        "full-name": "Bayernpartei",
-        "short-name": "BP",
+        "full_name": "Bayernpartei",
+        "short_name": "BP",
         "colors": [
             {
                 "r": 255,
@@ -263,7 +262,7 @@
                 "g": 245,
                 "b": 255
             }
-          ]
+        ]
     },
     "PIRATEN": {
         "wikipedia": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland",
@@ -271,8 +270,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland#/media/Datei:Piratenpartei_deutschland_logo.svg"
         },
-        "full-name": "Piratenpartei Deutschland",
-        "short-name": "Piraten",
+        "full_name": "Piratenpartei Deutschland",
+        "short_name": "Piraten",
         "colors": [
             {
                 "r": 255,
@@ -292,8 +291,8 @@
                 "svg": "https://de.wikipedia.org/wiki/CDU/CSU#/media/Datei:CSU_Logo_since_2016.svg"
             }
         },
-        "full-name": "CDU/CSU",
-        "short-name": "Union",
+        "full_name": "CDU/CSU",
+        "short_name": "Union",
         "colors": [
             {
                 "r": 0,
@@ -323,8 +322,8 @@
         "logo": {
             "svg": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei#/media/Datei:Logo_der_Freien_Demokraten.svg"
         },
-        "full-name": "Freie Demokratische Partei",
-        "short-name": "FDP",
+        "full_name": "Freie Demokratische Partei",
+        "short_name": "FDP",
         "colors": [
             {
                 "r": 255,

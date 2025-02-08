@@ -324,6 +324,7 @@
         },
         "full_name": "Freie Demokratische Partei",
         "short_name": "FDP",
+        "alias": ["Freie Demokraten", "Freien Demokraten"],
         "colors": [
             {
                 "r": 255,

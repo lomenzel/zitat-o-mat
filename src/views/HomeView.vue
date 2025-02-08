@@ -1,24 +1,22 @@
-<script setup lang="ts">
-import QuestionCard from '@/components/QuestionCard.vue';
-import HistoryCard from '@/components/HistoryCard.vue';
-import { useGameStore } from '@/stores/game';
+<script lang="ts" setup>
+import { useGameTypesStore } from '@/stores/gameTypes';
 import { onMounted } from 'vue';
 
-const gameStore = useGameStore()
+const gameTypesStore = useGameTypesStore()
 
-onMounted(async () => {
-  await gameStore.loadManifesto()
-  gameStore.startGame()
+onMounted(() => {
+    gameTypesStore.fetchGameTypes()
 })
 </script>
 
 <template>
-  <main class="max-w-4xl w-full">
-    <QuestionCard />
-    <div class="mt-20 flex flex-col gap-6">
-      <TransitionGroup name="list">
-        <HistoryCard v-for="question in gameStore.answeredQuestions" :question="question" :key="question.index" />
-      </TransitionGroup>
-    </div>
-  </main>
+    <ul class="flex flex-col gap-4 w-full max-w-4xl @container">
+        <router-link v-for="gameType in gameTypesStore.gameTypes" :key="gameType.sentenceSource"
+            :to="{ name: 'game', params: { gameType: gameType.name, id: gameType.election } }">
+            <li
+                class="@lg:text-xl text-lg uppercase w-full bg-brand-900 border-black px-4 py-10 rounded-lg font-bold flex items-center justify-center hover:bg-brand-800 transition-all cursor-pointer">
+                {{ gameType.election ? gameType.election : gameType.name }}
+            </li>
+        </router-link>
+    </ul>
 </template>

@@ -65,7 +65,7 @@ watch(
         'input-error': gameStore.currentQuestion?.answer && gameStore.currentQuestion?.correct !== gameStore.currentQuestion?.answer,
         'input-success': gameStore.currentQuestion?.answer && gameStore.currentQuestion?.correct === gameStore.currentQuestion?.answer
     }"
-        class="flex flex-col items-center justify-center w-full rounded-xl shadow-lg bg-brand-900 px-10 py-8 gap-6 border-black border">
+        class="@container flex flex-col items-center justify-center w-full rounded-xl shadow-lg bg-brand-900 px-5 py-5 gap-4 @lg:px-10 @lg:py-8 @lg:gap-6 border-black border">
         <div class="flex items-center justify-between w-full">
             <span class="text-sm uppercase">Frage {{ gameStore.currentQuestion?.index }}</span>
             <button class="cursor-pointer" @click="gameStore.nextQuestion">
@@ -73,20 +73,20 @@ watch(
             </button>
         </div>
         <div
-            class="bg-brand-950 px-4 py-8 w-full rounded-lg font-mono flex justify-center items-center h-36 overflow-y-auto">
+            class="bg-brand-950 px-2 py-4 @lg:px-4 @lg:py-8 w-full rounded-lg font-mono flex justify-center items-center h-36 overflow-y-auto">
             <!-- Binde die Referenz an das p-Element -->
             <p ref="sentenceRef" class="text-center">
                 {{ gameStore.currentQuestion?.sentence }}
             </p>
         </div>
-        <div class="grid-cols-2 grid w-full gap-4">
+        <div class="@sm:grid-cols-2 grid-cols-1 grid w-full gap-4">
             <button v-for="option in gameStore.currentQuestion?.options" @click="gameStore.answerQuestion(option)"
-                class="bg-brand-800 w-full text-lg p-4 rounded-lg cursor-pointer transition-all" :class="{
+                class="@container bg-brand-800 w-full @lg:text-lg p-4 rounded-lg cursor-pointer transition-all" :class="{
                     'bg-correct duration-150 ease-initial': gameStore.currentQuestion?.answer && gameStore.currentQuestion?.correct === option,
                     'bg-wrong duration-150 ease-initial': gameStore.currentQuestion?.answer === option && gameStore.currentQuestion?.correct !== option,
                     'bg-brand-800 hover:bg-brand-700 duration-300': !gameStore.currentQuestion?.answer
                 }">
-                {{ option }}
+                <span class="block truncate">{{ option }}</span>
             </button>
         </div>
     </div>

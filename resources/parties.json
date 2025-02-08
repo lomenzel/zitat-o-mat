@@ -245,5 +245,26 @@
                 "b": 20
             }
         ]
+    },
+    "FDP": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei",
+        "website": "https://www.fdp.de",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei#/media/Datei:Logo_der_Freien_Demokraten.svg"
+        },
+        "full-name": "Freie Demokratische Partei",
+        "short-name": "FDP",
+        "colors": [
+            {
+                "r": 255,
+                "g": 238,
+                "b": 0
+            },
+            {
+                "r": 230,
+                "g": 0,
+                "b": 125
+            }
+        ]
     }
 }

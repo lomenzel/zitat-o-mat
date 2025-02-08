@@ -8,9 +8,8 @@ const gameStore = useGameStore()
 </script>
 
 <template>
-  <div class="w-screen min-h-screen bg-brand-950 text-brand-100 flex flex-col items-center px-5 pb-10">
-    <div
-      class="w-full max-w-4xl flex flex-wrap gap-4 items-center justify-between @lg:pt-14 @lg:pb-20 pt-8 pb-10 @container">
+  <div class="@container w-screen min-h-screen bg-brand-950 text-brand-100 flex flex-col items-center px-5 pb-10">
+    <div class="w-full max-w-4xl flex flex-wrap gap-4 items-center justify-between @lg:pt-14 @lg:pb-16 pt-8 pb-10">
       <div class="flex flex-col">
         <div class="flex items-center gap-4">
           <h1 class="@lg:text-3xl text-xl font-bold uppercase">

@@ -40,7 +40,7 @@
               |> map (l: lib.trim l)
               |> filter (l: l != "" && ! lib.hasPrefix "# " l)
               |> map (replaceStrings (withArticles party) (repeat "[Parteiname]" 5))
-              |> map (replaceStrings (withArticles parties.${party}.full-name) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles parties.${party}.full_name) (repeat "[Parteiname]" 5))
               ;
             
             fileName = (lib.path.splitRoot path).subpath 

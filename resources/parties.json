@@ -352,5 +352,26 @@
                 "b": 36
             }
         ]
+    },
+    "BUESO": {
+        "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCrgerrechtsbewegung_Solidarit%C3%A4t",
+        "website": "https://bueso.de",
+        "logo": {
+            "png": "https://de.wikipedia.org/wiki/B%C3%BCrgerrechtsbewegung_Solidarit%C3%A4t#/media/Datei:B%C3%BCSo_Logo.png"
+        },
+        "full_name": "Bürgerrechtsbewegung Solidarität",
+        "short_name": "BüSo",
+        "colors": [
+            {
+                "r": 0,
+                "g": 69,
+                "b": 132
+            },
+            {
+                "r": 241,
+                "g": 162,
+                "b": 3
+            }
+        ]
     }
 }

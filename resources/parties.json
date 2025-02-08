@@ -334,7 +334,22 @@
                 "r": 230,
                 "g": 0,
                 "b": 125
-
+            }
+        ]
+    },
+    "MLPD": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Marxistisch-Leninistische_Partei_Deutschlands",
+        "website": "https://www.mlpd.de/",
+        "logo": {
+            "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MLPD_Logo_2011_%282%29.svg/200px-MLPD_Logo_2011_%282%29.svg.png"
+        },
+        "full_name": "Marxistisch-Leninistische Partei Deutschlands",
+        "short_name": "MLPD",
+        "colors": [
+            {
+                "r": 228,
+                "g": 27,
+                "b": 36
             }
         ]
     }

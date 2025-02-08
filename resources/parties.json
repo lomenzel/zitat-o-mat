@@ -194,6 +194,7 @@
             }
         ]
     },
+
     "BUENDNIS_C": {
         "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_C_%E2%80%93_Christen_f%C3%BCr_Deutschland",
         "website": "https://buendnis-c.de/",
@@ -261,6 +262,80 @@
                 "r": 152,
                 "g": 245,
                 "b": 255
+            }
+          ]
+    }
+    "PIRATEN": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland",
+        "website": "https://www.piratenpartei.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland#/media/Datei:Piratenpartei_deutschland_logo.svg"
+        },
+        "full-name": "Piratenpartei Deutschland",
+        "short-name": "Piraten",
+        "colors": [
+            {
+                "r": 255,
+                "g": 135,
+                "b": 0
+            }
+        ]
+    },
+    "CDUCSU": {
+        "wikipedia": "https://de.wikipedia.org/wiki/CDU/CSU",
+        "website": "https://www.cducsu.de/",
+        "logo": {
+            "cdu": {
+                "svg": "https://de.wikipedia.org/wiki/CDU/CSU#/media/Datei:CDU_Logo_2023.svg"
+            },
+            "csu": {
+                "svg": "https://de.wikipedia.org/wiki/CDU/CSU#/media/Datei:CSU_Logo_since_2016.svg"
+            }
+        },
+        "full-name": "CDU/CSU",
+        "short-name": "Union",
+        "colors": [
+            {
+                "r": 0,
+                "g": 138,
+                "b": 197
+            },
+            {
+                "r": 12,
+                "g": 12,
+                "b": 16
+            },
+            {
+                "r": 194,
+                "g": 22,
+                "b": 34
+            },
+            {
+                "r": 247,
+                "g": 153,
+                "b": 20
+            }
+        ]
+    },
+    "FDP": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei",
+        "website": "https://www.fdp.de",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei#/media/Datei:Logo_der_Freien_Demokraten.svg"
+        },
+        "full-name": "Freie Demokratische Partei",
+        "short-name": "FDP",
+        "colors": [
+            {
+                "r": 255,
+                "g": 238,
+                "b": 0
+            },
+            {
+                "r": 230,
+                "g": 0,
+                "b": 125
+
             }
         ]
     }

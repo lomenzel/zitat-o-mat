@@ -39,8 +39,16 @@
             phrases = tail lines
               |> map (l: lib.trim l)
               |> filter (l: l != "" && ! lib.hasPrefix "# " l)
-              |> map (replaceStrings (withArticles party) (repeat "[Parteiname]" 5))
+
+              # Filter Party Names
+              |> map (replaceStrings (withArticles parties.${party}.short_name) (repeat "[Parteiname]" 5))
               |> map (replaceStrings (withArticles parties.${party}.full_name) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles (lib.toUpper parties.${party}.full_name)) (repeat "[Parteiname]" 5))
+              |> map (replaceStrings (withArticles (lib.toUpper parties.${party}.short_name)) (repeat "[Parteiname]" 5))
+
+              # Satzzeichen
+              |> map (lib.removeSuffix ".")
+              |> map (e: e + ".")
               ;
             
             fileName = (lib.path.splitRoot path).subpath 

@@ -324,7 +324,10 @@
         },
         "full_name": "Freie Demokratische Partei",
         "short_name": "FDP",
-        "alias": ["Freie Demokraten", "Freien Demokraten"],
+        "alias": [
+            "Freie Demokraten",
+            "Freien Demokraten"
+        ],
         "colors": [
             {
                 "r": 255,
@@ -372,6 +375,30 @@
                 "r": 241,
                 "g": 162,
                 "b": 3
+            }
+        ]
+    },
+    "BUENDNIS_DEUTSCHLAND": {
+        "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_Deutschland",
+        "website": "https://buendnis-deutschland.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/B%C3%BCndnis_Deutschland#/media/Datei:B%C3%BCndnis_Deutschland_Logo_(2023).svg"
+        },
+        "full_name": "Bündnis Deutschland",
+        "short_name": "BD",
+        "alias": [
+            "BÜNDNIS DEUTSCHLAND"
+        ],
+        "colors": [
+            {
+                "r": 232,
+                "g": 40,
+                "b": 113
+            },
+            {
+                "r": 17,
+                "g": 151,
+                "b": 213
             }
         ]
     }

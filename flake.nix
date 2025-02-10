@@ -1,5 +1,5 @@
 {
-  description = "Packages and dev Shell for the btw-quizz Website";
+  description = "Packages and dev Shell for the zitat-o-mat-org Website";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -115,7 +115,7 @@
               version = "0.0.1-vue-beta";
             in
            rec {
-          default = btw-quizz;
+          default = web;
           srcWithData = pkgs.stdenv.mkDerivation {
             pname = "quizz-src";
             inherit version;
@@ -127,11 +127,11 @@
             '';
           };
 
-          btw-quizz = pkgs.buildNpmPackage rec {
-            pname = "btw-quizz";
+          web = pkgs.buildNpmPackage rec {
+            pname = "zitat-o-mat";
             inherit version;
             src = srcWithData;
-            npmDepsHash = "sha256-JxBrO7BSif/9sqzCYEPSnUi8/kWzUw+V41ygetvm0vs=";
+            npmDepsHash = "sha256-1lDBnQTzEyg0oZgxrlX2RtyhB4kWh7eDjooNNP3GBfw=";
             installPhase = ''
               mkdir -p $out
               cp -r dist/* $out

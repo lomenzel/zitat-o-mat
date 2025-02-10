@@ -457,5 +457,51 @@
                 "b": 91
             }
         ]
+    },
+    "TIERSCHUTZPARTEI": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz",
+        "website": "https://www.tierschutzpartei.de",
+        "logo": {
+            "png": "https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz#/media/Datei:Logo_Tierschutzpartei_(2024).png"
+        },
+        "full_name": "Partei Mensch Umwelt Tierschutz",
+        "short_name": "Tierschutzpartei",
+        "colors": [
+            {
+                "r": 0,
+                "g": 83,
+                "b": 94
+            },
+            {
+                "r": 241,
+                "g": 57,
+                "b": 45
+            },
+            {
+                "r": 89,
+                "g": 45,
+                "b": 150
+            },
+            {
+                "r": 250,
+                "g": 160,
+                "b": 29
+            },
+            {
+                "r": 255,
+                "g": 210,
+                "b": 0
+            },
+            {
+                "r": 17,
+                "g": 171,
+                "b": 89
+            },
+            {
+                "r": 0,
+                "g": 145,
+                "b": 240
+            }
+        ]
     }
 }

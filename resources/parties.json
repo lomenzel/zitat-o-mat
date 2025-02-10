@@ -433,5 +433,29 @@
                 "b": 25
             }
         ]
+    },
+    "WERTEUNION": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Werteunion",
+        "website": "https://werteunion.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Werteunion#/media/Datei:WerteUnion_Logo.svg"
+        },
+        "full_name": "Werteunion",
+        "short_name": "WU",
+        "alias": [
+            "WerteUnion"
+        ],
+        "colors": [
+            {
+                "r": 243,
+                "g": 146,
+                "b": 0
+            },
+            {
+                "r": 7,
+                "g": 59,
+                "b": 91
+            }
+        ]
     }
 }

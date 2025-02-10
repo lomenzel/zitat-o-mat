@@ -598,5 +598,21 @@
                 "b": 17
             }
         ]
+    },
+    "MERA25": {
+        "wikipedia": "https://de.wikipedia.org/wiki/MERA25_(Deutschland)",
+        "website": "https://mera25.de/de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/MERA25_(Deutschland)#/media/Datei:MERA25_(Germany)_2024_logo.svg"
+        },
+        "full_name": "MERA25",
+        "short_name": "MERA25",
+        "colors": [
+            {
+                "r": 231,
+                "g": 5,
+                "b": 17
+            }
+        ]
     }
 }

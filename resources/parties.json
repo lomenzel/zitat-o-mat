@@ -412,7 +412,25 @@
         "short_name": "Volt",
         "colors": [
             {
-               "r": 79,"g": 29,"b": 121
+                "r": 79,
+                "g": 29,
+                "b": 121
+            }
+        ]
+    },
+    "SGP": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Sozialistische_Gleichheitspartei",
+        "website": "https://www.gleichheit.de",
+        "logo": {
+            "png": "https://de.wikipedia.org/wiki/Sozialistische_Gleichheitspartei#/media/Datei:Sozialistische_Gleichheitspartei_Logo.png"
+        },
+        "full_name": "Sozialistische Gleichheitspartei",
+        "short_name": "SGP",
+        "colors": [
+            {
+                "r": 185,
+                "g": 19,
+                "b": 25
             }
         ]
     }

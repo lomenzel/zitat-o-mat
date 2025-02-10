@@ -51,7 +51,7 @@
 
               # Satzzeichen
               |> map (lib.removeSuffix ".")
-              |> map (e: e + ".")
+              |> map (e: if lib.hasSuffix "!" e then e else e + ".")
               ;
             
             fileName = (lib.path.splitRoot path).subpath 

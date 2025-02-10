@@ -534,5 +534,19 @@
                 "b": 26
             }
         ]
+    },
+    "TODENHOEFER": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Team_Todenh%C3%B6fer",
+        "website": "https://www.diegerechtigkeitspartei.de",
+        "logo": {
+            "png": "https://de.wikipedia.org/wiki/Team_Todenh%C3%B6fer#/media/Datei:Gerechtigkeitsparteilogo.png"
+        },
+        "full_name": "Die Gerechtigkeitspartei – Team Todenhöfer",
+        "short_name": "Team Todenhöfer",
+        "alias": [ "Gerechtigkeitspartei" ],
+        "colors": [
+            { "r": 197, "g": 43, "b": 56 },
+            { "r": 36, "g": 39, "b": 78 }
+        ]
     }
 }

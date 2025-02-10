@@ -1,3 +1,5 @@
+# https://www.spd.de/fileadmin/Dokumente/Beschluesse/Programm/SPD_Programm_bf.pdf
+
 Wir leben in schwierigen Zeiten: Es herrscht Krieg mitten in Europa, unsere Unternehmen stehen in einem verschärften internationalen Wettbewerb, der Zusammenhalt im Land steht auf der Probe
 Selten kam es so sehr darauf an, dass Respekt für alle herrscht
 Respekt für jede und jeden Einzelnen – egal, wie viel sie verdienen, woran sie glauben oder woher sie kommen
@@ -14,19 +16,21 @@ Mit unserem neuen Staatsangehörigkeitsrecht ermöglichen wir es, dass aus Mitme
 Unsere Bundeswehr haben wir mit einem Sondervermögen ausgestattet, damit wir unser Land gegen alle Bedrohungen von außen verteidigen können
 Deutschland steht fest an der Seite der überfallenen Ukraine – und zugleich achtet Bundeskanzler Olaf Scholz darauf, dass der Krieg nicht zur direkten Konfrontation zwischen NATO und Russland eskaliert
 Mit klarer Haltung, mit klaren Werten, vernünftig und besonnen – nur so werden wir auch künftige Herausforderungen bewältigen
-Genau deshalb braucht Deutschland in dieser schwierigen Zeit eine starke SPD: • Wir sorgen dafür, dass das Leben bezahlbar bleibt – mit einem höheren Mindestlohn, Entlastungen für Gering- und Normalverdiener bei der Einkommensteuer, weniger Mehrwertsteuer auf Lebensmittel sowie wirksamen Regeln für bezahlbares Wohnen
-• Wir investieren weiter in Schienen, Brücken und digitale Netze
-• Wir unterstützen unsere Unternehmen und ihre Beschäftigten im weltweiten Wettbewerb – mit günstigen Energiepreisen und einem „Made in Germany“-Investitionsbonus für Zukunftsinvestitionen und sichere Arbeitsplätze
-• Wir kämpfen für gute Löhne überall in Deutschland – in der Industrie, im Handel, im Handwerk und in allen anderen Bereichen der Wirtschaft
-• Wir stabilisieren die Renten und sichern gute Gesundheitsversorgung und Pflege, die alle erreicht und für alle bezahlbar bleibt
-• Wir kämpfen für innere und äußere Sicherheit und stellen uns den Feinden der offenen Gesellschaft konsequent entgegen
-• Wir sorgen dafür, dass Kitas und Schulen zuverlässig an der Seite der Familien stehen
-• Wir setzen uns ein für gesellschaftlichen Fortschritt, für gleiche Rechte und Chancen von Frauen und Männern. Für Vielfalt und Toleranz
-• Wir kappen unnötige Bürokratie, beschleunigen und digitalisieren die Verwaltung – und auch beim Ausbau der Erneuerbaren Energien halten wir das Tempo hoch
+# Genau deshalb braucht Deutschland in dieser schwierigen Zeit eine starke SPD: 
+Wir sorgen dafür, dass das Leben bezahlbar bleibt – mit einem höheren Mindestlohn, Entlastungen für Gering- und Normalverdiener bei der Einkommensteuer, weniger Mehrwertsteuer auf Lebensmittel sowie wirksamen Regeln für bezahlbares Wohnen
+Wir investieren weiter in Schienen, Brücken und digitale Netze
+Wir unterstützen unsere Unternehmen und ihre Beschäftigten im weltweiten Wettbewerb – mit günstigen Energiepreisen und einem „Made in Germany“-Investitionsbonus für Zukunftsinvestitionen und sichere Arbeitsplätze
+Wir kämpfen für gute Löhne überall in Deutschland – in der Industrie, im Handel, im Handwerk und in allen anderen Bereichen der Wirtschaft
+Wir stabilisieren die Renten und sichern gute Gesundheitsversorgung und Pflege, die alle erreicht und für alle bezahlbar bleibt
+Wir kämpfen für innere und äußere Sicherheit und stellen uns den Feinden der offenen Gesellschaft konsequent entgegen
+Wir sorgen dafür, dass Kitas und Schulen zuverlässig an der Seite der Familien stehen
+Wir setzen uns ein für gesellschaftlichen Fortschritt, für gleiche Rechte und Chancen von Frauen und Männern. Für Vielfalt und Toleranz
+Wir kappen unnötige Bürokratie, beschleunigen und digitalisieren die Verwaltung – und auch beim Ausbau der Erneuerbaren Energien halten wir das Tempo hoch
 Zupackende Politik für die breite Mehrheit der Bürgerinnen und Bürger, die unser Land am Laufen halten, und für diejenigen, die nicht auf der Sonnenseite des Lebens stehen
 Politik mit Maß und Mitte, die verbindet und nicht spaltet. Darauf kommt es jetzt an
 Darüber entscheiden die Wählerinnen und Wähler bei der Bundestagswahl am 23. Februar 2025. 
-Regierungsprogramm der SPD für die Bundestagswahl 2025 Ein neuer Aufschwung für Deutschland Viele Menschen machen sich derzeit Sorgen um die Wirtschaft in unserem Land
+# Regierungsprogramm der SPD für die Bundestagswahl 2025 Ein neuer Aufschwung für Deutschland 
+Viele Menschen machen sich derzeit Sorgen um die Wirtschaft in unserem Land
 Oder noch schlimmer: Man sorgt sich um den eigenen Arbeitsplatz
 Es geht um Fragen der Wettbewerbsfähigkeit im globalen Wettstreit moderner industrieller Produktionsstandorte
 Es geht aber auch um die richtigen Strategien, den Fachkräftebedarf im Handel, in der Gastronomie und in der Verwaltung zu sichern
@@ -60,7 +64,7 @@ Wir investieren in eine sichere und bezahlbare Energieversorgung durch Erneuerba
 Wir wollen international wettbewerbsfähige Energiepreise
 Wir geben Planungs- und Investitionssicherheit bei den Energiekosten durch stabile Preise, von den Netzentgelten über die Stromsteuer bis zum CO2-Preis
 Besonders im Norden und Osten, wo ein großer Anteil der Windenergie Deutschlands produziert wird, sind hohe Netzentgelte ein dringendes Problem
-Regierungsprogramm der SPD für die Bundestagswahl 2025 Mit der Umstellung auf günstige Erneuerbare Energien ist ein massiver Ausbau der Stromnetze verbunden
+Mit der Umstellung auf günstige Erneuerbare Energien ist ein massiver Ausbau der Stromnetze verbunden
 Der kostet viel Geld, das als Netzentgelte auf den Strompreis aufgeschlagen wird
 Das ist eine Herausforderung insbesondere für die im internationalen Wettbewerb stehende Wirtschaft und die Verbraucherinnen und Verbraucher
 Wir werden die Entgelte für das Übertragungsnetz, das die Regionen in Deutschland verbindet und massiv ausgebaut wird, zunächst stabilisieren, dann schnellstmöglich auf 3 Cent pro Kilowattstunde deckeln und so den Netzausbau unterstützen
@@ -87,7 +91,7 @@ Damit auch der Urlaub oder die Geschäftsreise elektrisch werden, fordern wir ei
 Wir werden außerdem den Kauf von E-Autos stärker ankurbeln
 Wir wollen mit einem zeitlich befristeten Steuerabzugsbetrag für die Anschaffung eines in Deutschland produzierten E-Autos auch den privaten Neuwagenkauf fördern
 Das ist einfach und unkompliziert umsetzbar: kaufen, bei der Steuer angeben, Zuschuss direkt aufs Konto
-Regierungsprogramm der SPD für die Bundestagswahl 2025 Einbeziehung von jungen Gebrauchten sowie Leasingmodellen helfen wir auch Menschen mit geringeren Einkommen
+Einbeziehung von jungen Gebrauchten sowie Leasingmodellen helfen wir auch Menschen mit geringeren Einkommen
 Mit diesem Paket unterstützen wir vor allem Haushalte mit niedrigen und normalen Einkommen beim Umstieg auf ein E-Auto, noch bevor sich die Mobilitätskosten der Verbrenner durch den Anstieg des CO2-Preises deutlich erhöhen
 Wir wollen diesen Weg gemeinsam mit unseren europäischen Nachbarn gehen und erwarten von der EU-Kommission kurzfristig eine entsprechende Initiative für die ganze Union oder die Freigabe einer solchen deutschen Lösung
 Ein Großteil der Neuwagen wird gewerblich genutzt
@@ -113,7 +117,7 @@ Mit der neuen Investitionsprämie für bestehende Unternehmen und Neuansiedlunge
 Die erfolgreichen Förderprogramme wie GRW oder GAK für die regionale Wirtschaft werden fortgeführt
 Wenn Personenunternehmen ihre Gewinne wieder investieren, wollen wir sie steuerlich entlasten
 Wir wollen mit der „Gesellschaft mit gebundenem Vermögen” eine eigenständige
-Regierungsprogramm der SPD für die Bundestagswahl 2025 Rechtsform einführen, die Nachfolgerinnen und Nachfolgern im Mittelstand – zum Beispiel aus der Belegschaft – die treuhänderische Nachfolge einfacher ermöglicht
+Rechtsform einführen, die Nachfolgerinnen und Nachfolgern im Mittelstand – zum Beispiel aus der Belegschaft – die treuhänderische Nachfolge einfacher ermöglicht
 Dabei werden Möglichkeiten zur Steuerhinterziehung ausgeschlossen
 Das europäische Beihilferecht werden wir modernisieren, um Unternehmen im Strukturwandel zu unterstützen
 Wir wollen Bürokratie abbauen und Verfahren beschleunigen
@@ -142,8 +146,7 @@ In den letzten Jahren und Jahrzehnten wurden in Deutschland zahlreiche technolog
 Mit fundamental neuen Technologien wie der Künstlichen Intelligenz (KI) oder der Quantentechnologie muss sich auch die Innovationspolitik des Bundes wandeln
 Für uns steht deshalb die Weiterentwicklung der KI-Strategie an erster Stelle
 Der Fokus soll dabei insbesondere auf der Entwicklung systemischer Innovationen liegen
-Dazu zählen unter anderem der Aufbau von branchenspezifischen KI-Ökosystemen sowie die Entwicklung generativer Sprachmodelle für 
-Regierungsprogramm der SPD für die Bundestagswahl 2025 die Bereiche Medizin, Materialforschung und Bildung
+Dazu zählen unter anderem der Aufbau von branchenspezifischen KI-Ökosystemen sowie die Entwicklung generativer Sprachmodelle für die Bereiche Medizin, Materialforschung und Bildung
 Dabei soll auf die bestehenden Strukturen der KI-Landschaft in Deutschland aufgebaut und in die Recheninfrastruktur und Kompetenzen an Hochschulen in der Breite investiert werden
 Auch bei der KI-Förderung wollen wir soziale Innovationen und gemeinwohlorientierte Projekte und Strukturen besonders berücksichtigen
 Weitere Schwerpunkte sollen die Themen Quantencomputing, Robotik sowie Netzwerktechnologien der nächsten Generation sein
@@ -171,7 +174,7 @@ Wir erleben einen globalen Wettlauf um Technologien, Ressourcen und Standards
 Ganz konkret geht es um die Frage, ob wir mit den Entwicklungen mithalten und es schaffen, Deutschland als Teil des europäischen Wirtschaftsraums stark für die Zukunft zu machen
 Dafür verfolgen wir eine verlässliche, langfristige und europäisch verankerte Industriestrategie, die Klimaschutz und Wettbewerbsfähigkeit miteinander verbindet
 In unseren Erfolgsbranchen Stahl und Automobil, Maschinen- und Anlagenbau, Chemie und Pharma, bei den Halbleitern und in der Batterieproduktion muss Deutschland ein Standort bleiben für große Konzerne wie auch für den starken Mittelstand
-Regierungsprogramm der SPD für die Bundestagswahl 2025 Wir wollen eine stabile, breit aufgestellte und zukunftsfähige Wirtschaft
+Wir wollen eine stabile, breit aufgestellte und zukunftsfähige Wirtschaft
 Unsere Unternehmen müssen sicher sein, dass sie ihren Weg zur Klimaneutralität weitergehen können und dass sie uns als Politik dabei fest an ihrer Seite wissen
 Vor allem bei den Energiepreisen und der Regulatorik brauchen sie ein faires, klares Umfeld, um investieren zu können und um ihre neuen Ideen auf den Markt zu bringen
 In den vergangenen Jahren haben verschiedene globale Krisen deutlich gezeigt, dass eine breit diversifizierte Wirtschaftsstruktur für die wirtschaftliche Stabilität entscheidend ist

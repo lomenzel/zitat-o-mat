@@ -1,14 +1,20 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import { useGameStore } from './stores/game';
-import { ChevronsUpDown, RotateCcw } from 'lucide-vue-next';
+import { ChevronsUpDown, Moon, RotateCcw, Sun } from 'lucide-vue-next';
 import router from './router';
+import { themes, useUIPreferencesStore } from './stores/uiPreferences';
+import { watch } from 'vue';
 
 const gameStore = useGameStore()
+const uiPreferencesStore = useUIPreferencesStore()
+
+uiPreferencesStore.init()
 </script>
 
 <template>
-  <div class="@container w-screen min-h-screen bg-brand-950 text-brand-100 flex flex-col items-center px-5 pb-10">
+  <div
+    class="@container w-screen min-h-screen bg-brand-950 text-brand-100 flex flex-col items-center px-5 pb-10 transition-colors duration-300 ease-in-out">
     <div class="w-full max-w-4xl flex flex-wrap gap-4 items-center justify-between @lg:pt-14 @lg:pb-16 pt-8 pb-10">
       <div class="flex flex-col">
         <div class="flex items-center gap-4">
@@ -25,6 +31,11 @@ const gameStore = useGameStore()
         <p class="@lg:text-xl text-brand-400">Aus welchem Wahlprogramm stammt dieses Zitat?</p>
       </div>
       <div class="flex items-center gap-4 justify-end">
+        <button class="bg-brand-200 rounded-full p-2 text-brand-950 flex items-center justify-center cursor-pointer"
+          @click="uiPreferencesStore.setTheme((uiPreferencesStore.theme.name === 'light' ? themes.find(t => t.name === 'dark') : themes.find(t => t.name === 'light'))!)">
+          <Moon :size="16" v-if="uiPreferencesStore.theme.name === 'light'" />
+          <Sun :size="16" v-else />
+        </button>
         <button v-if="gameStore.answeredQuestions.length > 0 && router.currentRoute.value.name === 'game'"
           @click="gameStore.resetGame"
           class="bg-brand-200 rounded-full p-2 text-brand-950 flex items-center justify-center cursor-pointer">

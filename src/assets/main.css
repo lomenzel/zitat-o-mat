@@ -1,6 +1,25 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
+    --color-brand-50: #161616;
+    --color-brand-100: #1f1f1f;
+    --color-brand-200: #303030;
+    --color-brand-300: #4f4f4f;
+    --color-brand-400: #5d5d5d;
+    --color-brand-500: #6d6d6d;
+    --color-brand-600: #888888;
+    --color-brand-700: #b0b0b0;
+    --color-brand-800: #d1d1d1;
+    --color-brand-900: #e7e7e7;
+    --color-brand-950: #f6f6f6;
+
+    --color-correct: #ace0a0;
+    --color-wrong: #d89999;
+}
+
+.dark {
     --color-brand-50: #f6f6f6;
     --color-brand-100: #e7e7e7;
     --color-brand-200: #d1d1d1;
@@ -16,6 +35,7 @@
     --color-correct: #2a3727;
     --color-wrong: #372727;
 }
+
 
 .list-move,
 /* apply transition to moving elements */

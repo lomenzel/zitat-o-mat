@@ -81,7 +81,7 @@ watch(
         </div>
         <div class="@sm:grid-cols-2 grid-cols-1 grid w-full gap-4">
             <button v-for="option in gameStore.currentQuestion?.options" @click="gameStore.answerQuestion(option)"
-                class="@container bg-brand-800 w-full @lg:text-lg p-4 rounded-lg cursor-pointer transition-all" :class="{
+                class="bg-brand-800 w-full @lg:text-lg p-4 rounded-lg cursor-pointer transition-all" :class="{
                     'bg-correct duration-150 ease-initial': gameStore.currentQuestion?.answer && gameStore.currentQuestion?.correct === option,
                     'bg-wrong duration-150 ease-initial': gameStore.currentQuestion?.answer === option && gameStore.currentQuestion?.correct !== option,
                     'bg-brand-800 hover:bg-brand-700 duration-300': !gameStore.currentQuestion?.answer

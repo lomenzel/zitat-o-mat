@@ -543,10 +543,44 @@
         },
         "full_name": "Die Gerechtigkeitspartei – Team Todenhöfer",
         "short_name": "Team Todenhöfer",
-        "alias": [ "Gerechtigkeitspartei" ],
+        "alias": [
+            "Gerechtigkeitspartei"
+        ],
         "colors": [
-            { "r": 197, "g": 43, "b": 56 },
-            { "r": 36, "g": 39, "b": 78 }
+            {
+                "r": 197,
+                "g": 43,
+                "b": 56
+            },
+            {
+                "r": 36,
+                "g": 39,
+                "b": 78
+            }
+        ]
+    },
+    "FREIE_WAEHLER": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Partei)",
+        "website": "http://www.freiewaehler.eu/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Partei)#/media/Datei:FreieW%C3%A4hlerBundesvereinigungLogo.svg"
+        },
+        "full_name": "Freie Wähler",
+        "short_name": "Freie Wähler",
+        "alias": [
+            "FREIE WÄHLER"
+        ],
+        "colors": [
+            {
+                "r": 0,
+                "g": 76,
+                "b": 144
+            },
+            {
+                "r": 243,
+                "g": 153,
+                "b": 0
+            }
         ]
     }
 }

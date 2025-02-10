@@ -401,5 +401,19 @@
                 "b": 213
             }
         ]
+    },
+    "VOLT": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Volt_Deutschland",
+        "website": "https://voltdeutschland.org/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Volt_Deutschland#/media/Datei:Logo_of_Volt.svg"
+        },
+        "full_name": "Volt Deutschland",
+        "short_name": "Volt",
+        "colors": [
+            {
+               "r": 79,"g": 29,"b": 121
+            }
+        ]
     }
 }

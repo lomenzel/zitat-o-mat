@@ -3851,10 +3851,7 @@ Das ILA soll unter anderem Vereinbarungen enthalten über
 
 
 
-Die Entscheidung zur Ausübung der Sexarbeit fällt
-
-    unter das Recht auf freie Berufswahl sowie
-    unter das Recht auf sexuelle Selbstbestimmung.
+Die Entscheidung zur Ausübung der Sexarbeit fällt unter das Recht auf freie Berufswahl sowie unter das Recht auf sexuelle Selbstbestimmung.
 
 
 
@@ -4736,8 +4733,7 @@ Die Piratenpartei fordert ein Recht auf saubere Luft in Innenräumen.
 
  Vorbereitend sollen in öffentlichen und semi-öffentlichen Gebäuden zwei gesetzliche Verpflichtungen eingeführt werden:
 
-    konstante CO2-Messung der Raumluft sowie
-    Luftfilterung mittels Hepa-Filtern oder Luftfilteranlagen, stets aktuellster Stand der Technik.
+    konstante CO2-Messung der Raumluft sowie Luftfilterung mittels Hepa-Filtern oder Luftfilteranlagen, stets aktuellster Stand der Technik.
 
 
 
@@ -6772,39 +6768,7 @@ Zur Bewahrung unseres historischen Erbes an Freiheitsrechten und zur Sicherung d
 
 
 
-Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit einem „Freiheitspaket“ wieder aufheben, darunter
-
-    die Übertragung exekutiver Polizeibefugnisse einschließlich Online-Durchsuchung auf das Bundeskriminalamt,
-
-    gemeinsame Dateien von Polizeien und Geheimdiensten,
-
-    die flächendeckende Erhebung biometrischer Daten sowie deren Speicherung in RFID-Ausweisdokumenten,
-
-    die lebenslängliche Steuer-Identifikationsnummer,
-
-    das elektronische Bankkontenverzeichnis,
-
-    die verpflichtende elektronische Gesundheitskarte,
-
-    die Überwachung von Wohnungen, von Ärzten, Rechtsanwälten, Geistlichen,
-
-    Abgeordneten und anderen Vertrauenspersonen,
-
-    den Identifizierungszwang für Handy- und Internetnutzer,
-
-    das Verbot anonymen elektronischen Bargeldes (Zahlungskarten) über 100 Euro sowie
-
-    die Auslieferung von Personendaten an die USA und andere Staaten ohne wirksamen Grundrechtsschutz,
-
-    die flächendeckende Protokollierung aller unserer Telefon- oder Internetverbindungen (Vorratsdatenspeicherung) gleich für welche Dauer,
-
-    die Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten,
-
-    die systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm der EU),
-
-    den Einsatz von Überwachungsdrohnen sowie
-
-    den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
+Unnötige und exzessive Überwachungsgesetze der letzten Jahre wollen wir mit einem „Freiheitspaket“ wieder aufheben, darunter die Übertragung exekutiver Polizeibefugnisse einschließlich Online-Durchsuchung auf das Bundeskriminalamt, gemeinsame Dateien von Polizeien und Geheimdiensten, die flächendeckende Erhebung biometrischer Daten sowie deren Speicherung in RFID-Ausweisdokumenten, die lebenslängliche Steuer-Identifikationsnummer, das elektronische Bankkontenverzeichnis, die verpflichtende elektronische Gesundheitskarte, die Überwachung von Wohnungen, von Ärzten, Rechtsanwälten, Geistlichen, Abgeordneten und anderen Vertrauenspersonen, den Identifizierungszwang für Handy- und Internetnutzer, das Verbot anonymen elektronischen Bargeldes (Zahlungskarten) über 100 Euro sowie die Auslieferung von Personendaten an die USA und andere Staaten ohne wirksamen Grundrechtsschutz, die flächendeckende Protokollierung aller unserer Telefon- oder Internetverbindungen (Vorratsdatenspeicherung) gleich für welche Dauer, die Vorratsspeicherung von Flug-, Schiff- und sonstigen Passagierdaten, die systematische Überwachung des Zahlungsverkehrs oder sonstige Massendatenanalyse (Stockholmer Programm der EU), den Einsatz von Überwachungsdrohnen sowie den Einsatz von Rasterfahndungs-Software in Online-Netzwerken.
 
 
 

@@ -582,5 +582,21 @@
                 "b": 0
             }
         ]
+    },
+    "PDF": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Partei_des_Fortschritts",
+        "website": "https://partei-des-fortschritts.de/",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Partei_des_Fortschritts#/media/Datei:Partei_des_Fortschritts_Logo.svg"
+        },
+        "full_name": "Partei des Fortschritts",
+        "short_name": "PdF",
+        "colors": [
+            {
+                "r": 245,
+                "g": 165,
+                "b": 17
+            }
+        ]
     }
 }

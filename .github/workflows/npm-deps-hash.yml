@@ -22,8 +22,10 @@ jobs:
       - name: Generate npmDepsHash
         id: hash
         run: |
+          sed -i 's/npmDepsHash = ".*";/npmDepsHash = "";/' flake.nix
           # Attempt to build and extract the correct hash from the error message
           NEW_HASH=$(nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-\S+' || true)
+          echo $NEW_HASH
           if [ -z "$NEW_HASH" ]; then
             echo "Error: Could not extract new hash."
             exit 1

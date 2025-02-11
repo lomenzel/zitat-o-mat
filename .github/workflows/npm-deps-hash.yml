@@ -23,6 +23,7 @@ jobs:
         id: hash
         run: |
             # Fetch the correct npmDepsHash using prefetch-npm-deps
+            export NIX_PATH=nixpkgs=channel:nixos-unstable
             NEW_HASH=$(nix-shell -p prefetch-npm-deps --run 'prefetch-npm-deps package-lock.json' | tail -n1)  
             echo "hash"
             echo $NEW_HASH

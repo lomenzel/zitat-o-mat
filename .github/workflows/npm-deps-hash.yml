@@ -22,22 +22,23 @@ jobs:
       - name: Generate npmDepsHash
         id: hash
         run: |
-            # Fetch the correct npmDepsHash using prefetch-npm-deps
-            export NIX_PATH=nixpkgs=channel:nixos-unstable
-            NEW_HASH=$(nix-shell -p prefetch-npm-deps --run 'prefetch-npm-deps package-lock.json' | tail -n1)  
-            echo "hash"
-            echo $NEW_HASH
-            if [ -z "$NEW_HASH" ]; then
-              echo "Error: Could not extract new hash."
-              exit 1
-            fi
-  
-            echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
+          # Fetch the correct npmDepsHash using prefetch-npm-deps
+          export NIX_PATH=nixpkgs=channel:nixos-unstable
+          NEW_HASH=$(nix-shell -p prefetch-npm-deps --run 'prefetch-npm-deps package-lock.json' | tail -n1)  
+          echo "hash"
+          echo $NEW_HASH
+          if [ -z "$NEW_HASH" ]; then
+            echo "Error: Could not extract new hash."
+            exit 1
+          fi
+
+          echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
 
       - name: Update flake.nix
         run: |
-          # Replace the existing hash with the new one
-          sed -i "s/npmDepsHash = \".*\"/npmDepsHash = \"${{ steps.hash.outputs.new_hash }}\"/" flake.nix
+          # Replace the existing hash with the new one using | as delimiter
+          sed -i "s|npmDepsHash = \".*\"|npmDepsHash = \"${{ steps.hash.outputs.new_hash }}\"|" flake.nix
+
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

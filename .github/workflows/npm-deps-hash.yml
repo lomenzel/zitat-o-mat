@@ -1,0 +1,43 @@
+name: Update Flake Hash
+
+on:
+  pull_request:
+    paths:
+      - 'package-lock.json'
+
+jobs:
+  update-hash:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allows pushing changes back to the PR branch
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}  # Check out the PR branch
+
+      - name: Install Nix
+        uses: cachix/install-nix-action@v30
+
+      - name: Generate npmDepsHash
+        id: hash
+        run: |
+          # Attempt to build and extract the correct hash from the error message
+          NEW_HASH=$(nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-\S+' || true)
+          if [ -z "$NEW_HASH" ]; then
+            echo "Error: Could not extract new hash."
+            exit 1
+          fi
+          echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
+
+      - name: Update flake.nix
+        run: |
+          # Replace the existing hash with the new one
+          sed -i "s/npmDepsHash = \".*\"/npmDepsHash = \"${{ steps.hash.outputs.new_hash }}\"/" flake.nix
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: ${{ github.head_ref }}
+          commit_message: "chore: Update npmDepsHash in flake.nix"
+          file_pattern: flake.nix

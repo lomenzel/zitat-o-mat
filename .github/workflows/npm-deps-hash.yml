@@ -23,9 +23,12 @@ jobs:
         id: hash
         run: |
           sed -i 's/npmDepsHash = ".*";/npmDepsHash = "";/' flake.nix
+          cat flake.nix
+          nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-[A-Za-z0-9+/=]+'
+          nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-[A-Za-z0-9+/=]+' || true
           # Attempt to build and extract the correct hash from the error message
-          NEW_HASH=$(nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-\S+' || true)
-          echo $NEW_HASH
+          NEW_HASH=$(nix build .#default 2>&1 | grep -oP 'got:\s*\Ksha256-[A-Za-z0-9+/=]+' || true)
+          cat flake.nix
           if [ -z "$NEW_HASH" ]; then
             echo "Error: Could not extract new hash."
             exit 1

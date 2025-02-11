@@ -2,6 +2,10 @@ name: "Build"
 on:
   pull_request:
   push:
+  workflow_run:
+    workflows: ["Update Flake Hash"]
+    types:
+      - completed
 jobs:
   build:
     runs-on: ubuntu-latest

@@ -131,7 +131,7 @@
             pname = "zitat-o-mat";
             inherit version;
             src = srcWithData;
-            npmDepsHash = "sha256-1lDBnQTzEyg0oZgxrlX2RtyhB4kWh7eDjooNNP3GBfw=";
+            npmDepsHash = "";
             installPhase = ''
               mkdir -p $out
               cp -r dist/* $out

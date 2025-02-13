@@ -78,8 +78,10 @@
               ;
           in
             if lib.hasPrefix "none" content then 
-              {party = parties.${party};} // metadata
-            else
+              {party = parties.${party};} // metadata else 
+            if lib.hasPrefix "todo" content then
+              lib.warn "${parties.${party}.full_name} hat vielleicht ein Wahlprogramm für die Wahl ${type}." ({party = parties.${party};} // metadata) 
+            else 
               {party = parties.${party};} // { inherit phrases source; } // metadata;
 
           data = lib.filesystem.listFilesRecursive ./resources/programs

@@ -675,5 +675,14 @@
         "full_name": "Die Wahl für Frieden und soziale Gerechtigkeit",
         "short_name": "DieWahl - WFG",
         "colors": []
+    },
+    "NPD_HAMBURG": {
+        "website": "http://npdhamburg.de",
+        "logo": {
+            "png": "http://npdhamburg.de/Bilder/KopfNPDHamburg.png"
+        },
+        "full_name": "Nationaldemokratische Partei Deutschlands",
+        "short_name": "NPD",
+        "colors": []
     }
 }

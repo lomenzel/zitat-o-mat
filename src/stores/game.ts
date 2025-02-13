@@ -34,6 +34,7 @@ export interface Question {
     options: string[]
     correct: string
     answer: string,
+    program_type: string,
     context?: string[]
 }
 
@@ -97,12 +98,28 @@ export const useGameStore = defineStore('game', () => {
 
     function nextQuestion() {
         if (!checkIfLoaded()) return
+        if (data.value.length === 0) {
+            console.error("Keine Daten vorhanden")
+            return
+        }
 
-        if (data.value.length === 0) return
-        const manifesto = data.value[Math.floor(Math.random() * data.value.length)]
+        const byParty = data.value.reduce((acc, curr) => {
+            const p = curr.party.short_name;
+            acc.set(p, [...(acc.get(p) ?? []), curr]);
+            return acc;
+        }, new Map<string, Manifesto[]>())
 
-        const sentenceIndex = Math.floor(Math.random() * manifesto.phrases.length)
-        const sentence = manifesto.phrases[sentenceIndex]
+        const manifestos: Manifesto[] = byParty.get(Array.from(byParty.keys())[Math.floor(Math.random() * Array.from(byParty.keys()).length)]) ?? [];
+
+        if(manifestos.length === 0) {
+            console.error("Partei ohne Programm im Datensatz")
+            nextQuestion()
+        }
+
+        const manifesto: Manifesto = manifestos[Math.floor(Math.random() * manifestos.length)]
+
+        const sentenceIndex: number = Math.floor(Math.random() * manifesto.phrases.length)
+        const sentence: string = manifesto.phrases[sentenceIndex]
 
         if (answeredQuestions.value.some(q => q.sentence === sentence && q.sentenceIndex === sentenceIndex && q.correct === manifesto.party.short_name)) {
             nextQuestion()
@@ -112,6 +129,8 @@ export const useGameStore = defineStore('game', () => {
         let options = data.value
             .filter(m => m.party.short_name !== manifesto.party.short_name)
             .map(m => m.party.short_name)
+            // doppelungen vermeiden
+            .filter((value, index, array) => array.indexOf(value) === index)
 
         // Shuffle the options and pick three random ones
         options = options.sort(() => 0.5 - Math.random()).slice(0, Math.min(3, options.length))
@@ -128,7 +147,7 @@ export const useGameStore = defineStore('game', () => {
 
         const correct = manifesto.party.short_name
         const answer = ''
-        currentQuestion.value = { index: ++currentIndex.value, sentence, sentenceIndex, options, correct, answer, context }
+        currentQuestion.value = { index: ++currentIndex.value, sentence, sentenceIndex, options, correct, answer, context, program_type: manifesto.type }
     }
 
     async function answerQuestion(answer: string) {

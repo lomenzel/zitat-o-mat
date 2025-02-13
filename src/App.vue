@@ -28,7 +28,7 @@ uiPreferencesStore.init()
             </div>
           </router-link>
         </div>
-        <p class="@lg:text-xl text-brand-400">Aus welchem Wahlprogramm stammt dieses Zitat?</p>
+        <p class="@lg:text-xl text-brand-400">Von welcher Partei stammt dieses Zitat?</p>
       </div>
       <div class="flex items-center gap-4 justify-end">
         <button class="bg-brand-200 rounded-full p-2 text-brand-950 flex items-center justify-center cursor-pointer"

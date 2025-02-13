@@ -77,30 +77,42 @@
               |> lib.last
               ;
           in
-            {party = parties.${party};} // { inherit phrases source; } // metadata;
+            if lib.hasPrefix "none" content then 
+              {party = parties.${party};} // metadata else 
+            if lib.hasPrefix "todo" content then
+              lib.warn "${parties.${party}.full_name} hat vielleicht ein Wahlprogramm für die Wahl ${election}." ({party = parties.${party};} // metadata) 
+            else if ! lib.hasPrefix "# https://" content then throw "das Wahlprogramm von ${parties.${party}.full_name} für die Wahl ${election} hat keine quelle" else
+              {party = parties.${party};} // { inherit phrases source; } // metadata;
 
           data = lib.filesystem.listFilesRecursive ./resources/programs
             |> map parseProgramFile
             ;
 
-          mission_statements = data
-            |> filter (e: e.type == "mission_statement")
-            |> toJSON
-            |> pkgs.writeText "mission_statements.json"
-            ;
-
-          party_platforms = data
-            |> filter (e: e.type == "party_platform")
-            |> toJSON
-            |> pkgs.writeText "party_platforms.json"
-            ;
+          mission_statements = filter (e: e.type == "mission_statement") data;
+          party_platforms = filter (e: e.type == "party_platform") data;
 
           byElection = election: data
             |> filter (e: e.type == "election")
             |> filter (e: e.election == election)
+            |> map (e:
+              let 
+                fallback = [
+                  (lib.findFirst (party_platform: e.party.full_name == party_platform.party.full_name) [] party_platforms)
+                  (lib.findFirst (mission_statement: e.party.full_name == mission_statement.party.full_name) [] mission_statements)
+                ];
+              in
+              if hasAttr "phrases" e then [e] else
+              if lib.flatten fallback == [] then
+                lib.warn "${e.party.full_name} tritt zur wahl ${election} an, es wurden aber keine programme gefunden" [] else
+              fallback
+            )
+            |> lib.flatten
+            |> filter (e: e != null)
             |> toJSON
             |> pkgs.writeText "${election}.json"
             ;
+
+          
 
           elections = data
             |> filter (e: e.type == "election")
@@ -148,8 +160,6 @@
                     "cp ${byElection election} $out/election/${election}.json";
                 in ''
                   mkdir -p $out/election
-                  cp ${mission_statements} $out/mission_statements.json
-                  cp ${party_platforms} $out/party_platforms.json
                   ${map toElectionCopyString elections |> foldl' (acc: curr: acc + "\n" + curr) ""}
                   cp ${elections |> toJSON |> pkgs.writeText "elections.json"} $out/elections.json
                 '';

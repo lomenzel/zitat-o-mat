@@ -3,11 +3,11 @@ import { computed, ref } from "vue";
 
 export interface GameType {
     name: string,
-    election?: string,
+    election: string,
     sentenceSource: string,
 }
 
-export const validGameTypes = ['election', 'mission_statements', 'party_platforms']
+export const validGameTypes = ['election']
 
 export const useGameTypesStore = defineStore('gameTypes', () => {
     const loading = ref(false)
@@ -24,14 +24,6 @@ export const useGameTypesStore = defineStore('gameTypes', () => {
                 sentenceSource: `/election/${gameType}.json`,
             }
         })
-
-        gameTypes.value.push(...[{
-            name: 'mission_statements',
-            sentenceSource: '/mission_statements.json',
-        }, {
-            name: 'party_platforms',
-            sentenceSource: '/party_platforms.json',
-        }])
 
         loading.value = false
         return gameTypes.value

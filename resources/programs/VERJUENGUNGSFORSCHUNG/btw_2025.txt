@@ -19,7 +19,7 @@ Verjüngungstherapien könnten das Renten- und Gesundheitssystem entlasten, den 
 Wir fordern eine progressive und zukunftsweisende Forschungspolitik, die auf wissenschaftlichem Fortschritt, sozialer Verantwortung sowie globaler Zusammenarbeit basiert und die Verjüngungsforschung zu einer der obersten Prioritäten macht.
 Darüber hinaus wollen wir das Bewusstsein über die Herausforderungen einer alternden Gesellschaft sowie des Alterungsprozesses stärken und insbesondere auf die Chance aufmerksam machen, diese Herausforderungen mit Verjüngungsmedizin zu bewältigen.
 
-Erläuterung
+# Erläuterung
 Altern verursacht Leid und Tod
 
 Aktuell sterben täglich mehr als 100.000 Menschen am Altern beziehungsweise an damit verbundenen Krankheiten wie Krebs, Alzheimer und Herz-Kreislauf-Erkrankungen.

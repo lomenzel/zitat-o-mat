@@ -3,7 +3,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen",
         "website": "https://www.gruene.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen#/media/Datei:B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo_(transparent).svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/5/51/B%C3%BCndnis_90_-_Die_Gr%C3%BCnen_Logo_%28transparent%29.svg"
         },
         "full_name": "Bündnis 90/Die Grünen",
         "short_name": "Grüne",
@@ -19,7 +19,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland",
         "website": "https://www.afd.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Alternative_f%C3%BCr_Deutschland#/media/Datei:AfD_Logo_2021.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/AfD_Logo_2021.svg"
         },
         "full_name": "Alternative für Deutschland",
         "short_name": "AfD",
@@ -45,7 +45,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Die_Linke",
         "website": "https://die-linke.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Die_Linke#/media/Datei:Logo_Die_Linke_(2023).svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Die_Linke_%282023%29.svg"
         },
         "full_name": "Die Linke",
         "short_name": "Die Linke",
@@ -61,7 +61,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Menschliche_Welt",
         "website": "https://www.menschlichewelt.de/",
         "logo": {
-            "png": "https://de.wikipedia.org/wiki/Menschliche_Welt#/media/Datei:Logo_von_MENSCHLICHE_WELT.png"
+            "png": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_von_MENSCHLICHE_WELT.png"
         },
         "full_name": "Menschliche Welt – für das Wohl und Glücklichsein aller",
         "short_name": "MENSCHLICHE WELT",
@@ -77,7 +77,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Die_PARTEI",
         "website": "https://www.die-partei.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Die_PARTEI#/media/Datei:Die_PARTEI_Logo_Blur_Schatten_Vektor_V2.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/8/85/Die_PARTEI_Logo_Blur_Schatten_Vektor_V2.svg"
         },
         "full_name": "Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",
         "short_name": "Die PARTEI",
@@ -103,7 +103,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband",
         "website": "https://www.ssw.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/S%C3%BCdschleswigscher_W%C3%A4hlerverband#/media/Datei:S%C3%BCdschleswigscher_W%C3%A4hlerverband,_Logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/S%C3%BCdschleswigscher_W%C3%A4hlerverband%2C_Logo.svg"
         },
         "full_name": "Südschleswigscher Wählerverband",
         "short_name": "SSW",
@@ -124,7 +124,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Verj%C3%BCngungsforschung",
         "website": "https://verjuengungsforschung.de/",
         "logo": {
-            "jpg": "https://de.wikipedia.org/wiki/Partei_f%C3%BCr_Verj%C3%BCngungsforschung#/media/Datei:NeuesParteilogo-1.jpg"
+            "jpg": "https://upload.wikimedia.org/wikipedia/commons/8/89/NeuesParteilogo-1.jpg"
         },
         "full_name": "Partei für Verjüngungsforschung",
         "short_name": "Partei für Verjüngungsforschung",
@@ -145,7 +145,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei",
         "website": "https://www.oedp.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/%C3%96kologisch-Demokratische_Partei#/media/Datei:OEDP_Logo_CMYK.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/OEDP_Logo_CMYK.svg"
         },
         "full_name": "Ökologisch-Demokratische Partei",
         "short_name": "ÖDP",
@@ -177,7 +177,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_der_Humanisten",
         "website": "https://www.pdh.eu/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Partei_der_Humanisten#/media/Datei:PdH_Logo_B_RGB.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/PdH_Logo_B_RGB.svg"
         },
         "full_name": "Partei der Humanisten",
         "short_name": "PdH",
@@ -268,7 +268,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland",
         "website": "https://www.piratenpartei.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Piratenpartei_Deutschland#/media/Datei:Piratenpartei_deutschland_logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Piratenpartei_deutschland_logo.svg"
         },
         "full_name": "Piratenpartei Deutschland",
         "short_name": "Piraten",
@@ -285,10 +285,10 @@
         "website": "https://www.cducsu.de/",
         "logo": {
             "cdu": {
-                "svg": "https://de.wikipedia.org/wiki/CDU/CSU#/media/Datei:CDU_Logo_2023.svg"
+                "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0e/CDU_Logo_2023.svg"
             },
             "csu": {
-                "svg": "https://de.wikipedia.org/wiki/CDU/CSU#/media/Datei:CSU_Logo_since_2016.svg"
+                "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CSU_Logo_since_2016.svg"
             }
         },
         "full_name": "CDU/CSU",
@@ -320,7 +320,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei",
         "website": "https://www.fdp.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Freie_Demokratische_Partei#/media/Datei:Logo_der_Freien_Demokraten.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_der_Freien_Demokraten.svg"
         },
         "full_name": "Freie Demokratische Partei",
         "short_name": "FDP",
@@ -361,7 +361,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCrgerrechtsbewegung_Solidarit%C3%A4t",
         "website": "https://bueso.de",
         "logo": {
-            "png": "https://de.wikipedia.org/wiki/B%C3%BCrgerrechtsbewegung_Solidarit%C3%A4t#/media/Datei:B%C3%BCSo_Logo.png"
+            "png": "https://upload.wikimedia.org/wikipedia/commons/1/17/B%C3%BCSo_Logo.png"
         },
         "full_name": "Bürgerrechtsbewegung Solidarität",
         "short_name": "BüSo",
@@ -382,7 +382,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/B%C3%BCndnis_Deutschland",
         "website": "https://buendnis-deutschland.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/B%C3%BCndnis_Deutschland#/media/Datei:B%C3%BCndnis_Deutschland_Logo_(2023).svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f8/B%C3%BCndnis_Deutschland_Logo_%282023%29.svg"
         },
         "full_name": "Bündnis Deutschland",
         "short_name": "BD",
@@ -406,7 +406,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Volt_Deutschland",
         "website": "https://voltdeutschland.org/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Volt_Deutschland#/media/Datei:Logo_of_Volt.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Volt.svg"
         },
         "full_name": "Volt Deutschland",
         "short_name": "Volt",
@@ -422,7 +422,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Sozialistische_Gleichheitspartei",
         "website": "https://www.gleichheit.de",
         "logo": {
-            "png": "https://de.wikipedia.org/wiki/Sozialistische_Gleichheitspartei#/media/Datei:Sozialistische_Gleichheitspartei_Logo.png"
+            "png": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sozialistische_Gleichheitspartei_Logo.png"
         },
         "full_name": "Sozialistische Gleichheitspartei",
         "short_name": "SGP",
@@ -438,7 +438,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Werteunion",
         "website": "https://werteunion.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Werteunion#/media/Datei:WerteUnion_Logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e2/WerteUnion_Logo.svg"
         },
         "full_name": "Werteunion",
         "short_name": "WU",
@@ -462,7 +462,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz",
         "website": "https://www.tierschutzpartei.de",
         "logo": {
-            "png": "https://de.wikipedia.org/wiki/Partei_Mensch_Umwelt_Tierschutz#/media/Datei:Logo_Tierschutzpartei_(2024).png"
+            "png": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_Tierschutzpartei_%282024%29.png"
         },
         "full_name": "Partei Mensch Umwelt Tierschutz",
         "short_name": "Tierschutzpartei",
@@ -508,7 +508,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Basisdemokratische_Partei_Deutschland",
         "website": "https://diebasis-partei.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Basisdemokratische_Partei_Deutschland#/media/Datei:Basisdemokratischeparteideutschlands_logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Basisdemokratischeparteideutschlands_logo.svg"
         },
         "full_name": "Basisdemokratische Partei Deutschland",
         "short_name": "dieBasis",
@@ -539,7 +539,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Team_Todenh%C3%B6fer",
         "website": "https://www.diegerechtigkeitspartei.de",
         "logo": {
-            "png": "https://de.wikipedia.org/wiki/Team_Todenh%C3%B6fer#/media/Datei:Gerechtigkeitsparteilogo.png"
+            "png": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gerechtigkeitsparteilogo.png"
         },
         "full_name": "Die Gerechtigkeitspartei – Team Todenhöfer",
         "short_name": "Team Todenhöfer",
@@ -563,7 +563,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Partei)",
         "website": "http://www.freiewaehler.eu/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Freie_W%C3%A4hler_(Partei)#/media/Datei:FreieW%C3%A4hlerBundesvereinigungLogo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/de/7/7e/FreieW%C3%A4hlerBundesvereinigungLogo.svg"
         },
         "full_name": "Freie Wähler",
         "short_name": "Freie Wähler",
@@ -587,7 +587,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Partei_des_Fortschritts",
         "website": "https://partei-des-fortschritts.de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Partei_des_Fortschritts#/media/Datei:Partei_des_Fortschritts_Logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Partei_des_Fortschritts_Logo.svg"
         },
         "full_name": "Partei des Fortschritts",
         "short_name": "PdF",
@@ -603,7 +603,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/MERA25_(Deutschland)",
         "website": "https://mera25.de/de/",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/MERA25_(Deutschland)#/media/Datei:MERA25_(Germany)_2024_logo.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f4/MERA25_%28Germany%29_2024_logo.svg"
         },
         "full_name": "MERA25",
         "short_name": "MERA25",
@@ -619,7 +619,7 @@
         "wikipedia": "https://de.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands",
         "website": "https://www.cdu.de",
         "logo": {
-            "svg": "https://de.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands#/media/Datei:CDU_Logo_2023.svg"
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0e/CDU_Logo_2023.svg"
         },
         "full_name": "Christlich Demokratische Union Deutschlands",
         "short_name": "CDU",

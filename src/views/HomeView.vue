@@ -15,7 +15,7 @@ onMounted(() => {
             :to="{ name: 'game', params: { gameType: gameType.name, id: gameType.election } }">
             <li
                 class="@lg:text-xl text-lg uppercase w-full bg-brand-900 border-black px-4 py-10 rounded-lg font-bold flex items-center justify-center hover:bg-brand-800 transition-all cursor-pointer">
-                {{ gameType.election ? gameType.election : gameType.name }}
+                {{ gameType.election.replace(/btw/, "Bundestagswahl").replace(/bw/,"Bürgerschaftswahl").replace(/_/g, " ") }}
             </li>
         </router-link>
     </ul>

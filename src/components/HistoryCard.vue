@@ -20,6 +20,8 @@ const gameStore = useGameStore()
                 <span>Frage {{ props.question.index }}</span>
                 <div class="bg-brand-200 rounded-full h-1 w-1"></div>
                 <span>{{ props.question.answer === props.question.correct ? "Richtig" : "Falsch" }} beantwortet</span>
+                <div v-if="props.question.program_type != 'election'" class="bg-brand-200 rounded-full h-1 w-1"></div>
+                <span v-if="props.question.program_type != 'election'">Auf {{ props.question.program_type == "mission_statement"? "Leitbild" : "Grundsatzprogramm" }} zurückgegriffen</span>
             </div>
             <button @click="gameStore.removeQuestionFromHistory(props.question.index)" class="cursor-pointer">
                 <Trash :size="16" />

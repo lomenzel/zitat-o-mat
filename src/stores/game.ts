@@ -34,6 +34,7 @@ export interface Question {
     options: string[]
     correct: string
     answer: string,
+    program_type: string,
     context?: string[]
 }
 
@@ -128,7 +129,7 @@ export const useGameStore = defineStore('game', () => {
 
         const correct = manifesto.party.short_name
         const answer = ''
-        currentQuestion.value = { index: ++currentIndex.value, sentence, sentenceIndex, options, correct, answer, context }
+        currentQuestion.value = { index: ++currentIndex.value, sentence, sentenceIndex, options, correct, answer, context, program_type: manifesto.type }
     }
 
     async function answerQuestion(answer: string) {

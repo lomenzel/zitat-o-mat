@@ -113,6 +113,8 @@ export const useGameStore = defineStore('game', () => {
         let options = data.value
             .filter(m => m.party.short_name !== manifesto.party.short_name)
             .map(m => m.party.short_name)
+            // doppelungen vermeiden
+            .filter((value, index, array) => array.indexOf(value) === index)
 
         // Shuffle the options and pick three random ones
         options = options.sort(() => 0.5 - Math.random()).slice(0, Math.min(3, options.length))

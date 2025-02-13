@@ -614,5 +614,66 @@
                 "b": 17
             }
         ]
+    },
+    "CDU": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands",
+        "website": "https://www.cdu.de",
+        "logo": {
+            "svg": "https://de.wikipedia.org/wiki/Christlich_Demokratische_Union_Deutschlands#/media/Datei:CDU_Logo_2023.svg"
+        },
+        "full_name": "Christlich Demokratische Union Deutschlands",
+        "short_name": "CDU",
+        "colors": [
+            {
+                "r": 81,
+                "g": 182,
+                "b": 192
+            },
+            {
+                "r": 45,
+                "g": 59,
+                "b": 75
+            }
+        ]
+    },
+    "DAVA": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Demokratische_Allianz_f%C3%BCr_Vielfalt_und_Aufbruch",
+        "website": "https://dava-eu.org",
+        "logo": {
+            "svg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/DAVA_party_logo.svg"
+        },
+        "full_name": "Demokratische Allianz für Vielfalt und Aufbruch",
+        "short_name": "DAVA",
+        "colors": [
+            {
+                "r": 0,
+                "g": 142,
+                "b": 145
+            }
+        ]
+    },
+    "HEIMAT": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Die_Heimat",
+        "website": "https://die-heimat.de",
+        "logo": {
+            "png": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Heimat-Logo.png"
+        },
+        "full_name": "Die Heimat",
+        "short_name": "HEIMAT",
+        "colors": [
+            {
+                "r": 214,
+                "g": 157,
+                "b": 41
+            }
+        ]
+    },
+    "WFG": {
+        "wikipedia": "https://de.wikipedia.org/wiki/Die_Wahl_f%C3%BCr_Frieden_und_soziale_Gerechtigkeit",
+        "website": "https://www.diewahl.hamburg",
+        "logo": {},
+        "full_name": "Die Wahl für Frieden und soziale Gerechtigkeit",
+        "short_name": "DieWahl - WFG",
+        "colors": []
     }
 }

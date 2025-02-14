@@ -17,6 +17,7 @@
       with builtins;
       let
         pkgs = import nixpkgs { inherit system; };
+        package-json = fromJSON (readFile ./package.json);
         lib = pkgs.lib;
         parties = readFile ./resources/parties.json |> fromJSON;
         parseProgramFile = path: 
@@ -122,15 +123,11 @@
 
       in
       {
-        packages =
-            let
-              version = "0.0.1-vue-beta";
-            in
-           rec {
+        packages = rec {
           default = web;
           srcWithData = pkgs.stdenv.mkDerivation {
-            pname = "quizz-src";
-            inherit version;
+            pname = "src";
+            inherit (package-json) version;
             src = ./.; 
             installPhase = ''
               mkdir -p $out/public
@@ -140,8 +137,8 @@
           };
 
           web = pkgs.buildNpmPackage rec {
-            pname = "zitat-o-mat";
-            inherit version;
+            pname = package-json.name;
+            inherit (package-json) version;
             src = srcWithData;
             npmDepsHash = "sha256-+9mVkwTRkw8WDAHV0EKhayUHoFTkuIAgq8Wa4UQG12k=";
             installPhase = ''
@@ -152,7 +149,7 @@
         dataDir = pkgs.stdenv.mkDerivation
             {
               pname = "data-directory";
-              version = "btw-2025";
+              inherit (package-json) version;
               src = ./.;
               installPhase =
                 let

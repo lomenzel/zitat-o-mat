@@ -140,7 +140,7 @@
             pname = package-json.name;
             inherit (package-json) version;
             src = srcWithData;
-            npmDepsHash = "sha256-lDdWMCAw184hMrWr741zistykrer1lCtfw/rwmtp9Sc=";
+            npmDepsHash = "sha256-2zU6ArFD42DUxvr7q2sZ66C9L+WHpHq5BrhGmkF9dkE=";
             installPhase = ''
               mkdir -p $out
               cp -r dist/* $out
